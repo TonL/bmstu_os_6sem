@@ -1,0 +1,2526 @@
+
+CMDLINE:
+/usr/lib/firefox/firefox
+
+FD:
+0 -> /dev/null3/cmdline
+1 -> socket:[37085]line
+2 -> socket:[37085]line
+3 -> /dev/dri/renderD128
+4 -> socket:[149062]D128
+5 -> anon_inode:[eventfd]
+6 -> socket:[137004]ntfd]
+7 -> anon_inode:[eventfd]
+8 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/cookies.sqlite
+9 -> anon_inode:[eventfd]a/firefox/5zdzpuee.default-release/cookies.sqlite
+10 -> socket:[147205]ntfd]a/firefox/5zdzpuee.default-release/cookies.sqlite
+11 -> socket:[147209]ntfd]a/firefox/5zdzpuee.default-release/cookies.sqlite
+12 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/.parentlockite
+13 -> anon_inode:[eventpoll]firefox/5zdzpuee.default-release/.parentlockite
+14 -> pipe:[149066]ventpoll]firefox/5zdzpuee.default-release/.parentlockite
+15 -> pipe:[149066]ventpoll]firefox/5zdzpuee.default-release/.parentlockite
+16 -> pipe:[149067]ventpoll]firefox/5zdzpuee.default-release/.parentlockite
+17 -> pipe:[149067]ventpoll]firefox/5zdzpuee.default-release/.parentlockite
+18 -> /usr/lib/firefox/omni.jarefox/5zdzpuee.default-release/.parentlockite
+19 -> /usr/lib/firefox/browser/omni.jadzpuee.default-release/.parentlockite
+20 -> pipe:[149068]fox/browser/omni.jadzpuee.default-release/.parentlockite
+21 -> pipe:[149068]fox/browser/omni.jadzpuee.default-release/.parentlockite
+22 -> pipe:[137005]fox/browser/omni.jadzpuee.default-release/.parentlockite
+23 -> pipe:[137005]fox/browser/omni.jadzpuee.default-release/.parentlockite
+24 -> socket:[149069]x/browser/omni.jadzpuee.default-release/.parentlockite
+25 -> pipe:[148063]9]x/browser/omni.jadzpuee.default-release/.parentlockite
+26 -> pipe:[148063]9]x/browser/omni.jadzpuee.default-release/.parentlockite
+27 -> /home/andrey/.cache/mozilla/firefox/5zdzpuee.default-release/startupCache/startupCache.8.little
+28 -> socket:[149070]ache/mozilla/firefox/5zdzpuee.default-release/startupCache/startupCache.8.little
+29 -> /memfd:mozilla-ipc (deleted)firefox/5zdzpuee.default-release/startupCache/startupCache.8.little
+30 -> pipe:[137006]a-ipc (deleted)firefox/5zdzpuee.default-release/startupCache/startupCache.8.little
+31 -> pipe:[137006]a-ipc (deleted)firefox/5zdzpuee.default-release/startupCache/startupCache.8.little
+32 -> /dev/dri/renderD128(deleted)firefox/5zdzpuee.default-release/startupCache/startupCache.8.little
+33 -> /dev/dri/renderD128(deleted)firefox/5zdzpuee.default-release/startupCache/startupCache.8.little
+34 -> /home/andrey/.cache/mozilla/firefox/5zdzpuee.default-release/startupCache/scriptCache-child-current.bin
+35 -> /memfd:mozilla-ipc (deleted)firefox/5zdzpuee.default-release/startupCache/scriptCache-child-current.bin
+36 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/places.sqliteCache/scriptCache-child-current.bin
+37 -> /home/andrey/.cache/mozilla/firefox/5zdzpuee.default-release/startupCache/scriptCache-current.binnt.bin
+38 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/permissions.sqlite/scriptCache-current.binnt.bin
+39 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/permissions.sqlite/scriptCache-current.binnt.bin
+40 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/permissions.sqlite/scriptCache-current.binnt.bin
+41 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/permissions.sqlite/scriptCache-current.binnt.bin
+42 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/places.sqliteqlite/scriptCache-current.binnt.bin
+43 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/places.sqliteqlite/scriptCache-current.binnt.bin
+44 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/cookies.sqlite-wal/scriptCache-current.binnt.bin
+45 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+46 -> socket:[149074]ozilla/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+47 -> socket:[149075]ozilla/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+48 -> pipe:[149076]5]ozilla/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+49 -> pipe:[149076]5]ozilla/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+50 -> socket:[149077]ozilla/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+51 -> socket:[149078]ozilla/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+52 -> socket:[149085]ozilla/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+53 -> pipe:[160831]5]ozilla/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+54 -> socket:[149081]ozilla/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+55 -> pipe:[148064]1]ozilla/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+56 -> pipe:[160831]1]ozilla/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+57 -> anon_inode:[eventfd]a/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+58 -> socket:[160832]ntfd]a/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+59 -> socket:[211449]ntfd]a/firefox/5zdzpuee.default-release/storage.sqlite-wal/scriptCache-current.binnt.bin
+60 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/storage/default/https+++web.telegram.org/idb/3318935238tbwe.sqlite
+61 -> socket:[181308]ozilla/firefox/5zdzpuee.default-release/storage/default/https+++web.telegram.org/idb/3318935238tbwe.sqlite
+62 -> anon_inode:[eventpoll]firefox/5zdzpuee.default-release/storage/default/https+++web.telegram.org/idb/3318935238tbwe.sqlite
+63 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/places.sqlite-walttps+++web.telegram.org/idb/3318935238tbwe.sqlite
+64 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/favicons.sqlitealttps+++web.telegram.org/idb/3318935238tbwe.sqlite
+65 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+66 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/places.sqlitete-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+67 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/places.sqlite-walalps+++web.telegram.org/idb/3318935238tbwe.sqlite
+68 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/favicons.sqlitealalps+++web.telegram.org/idb/3318935238tbwe.sqlite
+69 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+70 -> pipe:[147338].mozilla/firefox/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+71 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+72 -> socket:[147330]ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+73 -> pipe:[147338]0]ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+74 -> socket:[149092]ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+75 -> pipe:[148137]2]ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+76 -> anon_inode:[eventpoll]leted)x/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+77 -> pipe:[137101]ventpoll]leted)x/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+78 -> pipe:[137101]ventpoll]leted)x/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+79 -> socket:[147339]ntpoll]leted)x/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+80 -> anon_inode:[eventfd]l]leted)x/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/idb/3318935238tbwe.sqlite
+81 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/storage/default/https+++web.telegram.org/idb/3318935238tbwe.sqlite-wal
+82 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+83 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+84 -> /home/andrey/.local/share/gvfs-metadata/home (deleted)/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+85 -> /memfd:mozilla-ipc (deleted)fs-metadata/home (deleted)/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+86 -> /memfd:mozilla-ipc (deleted)fs-metadata/home (deleted)/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+87 -> anon_inode:inotify (deleted)fs-metadata/home (deleted)/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+88 -> /memfd:mozilla-ipc (deleted)fs-metadata/home (deleted)/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+89 -> /memfd:mozilla-ipc (deleted)fs-metadata/home (deleted)/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+90 -> /memfd:mozilla-ipc (deleted)fs-metadata/home (deleted)/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+91 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/cert9.dbpermanent/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+92 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/key4.dbbpermanent/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+93 -> anon_inode:[eventfd]a/firefox/5zdzpuee.default-release/key4.dbbpermanent/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+94 -> /usr/lib/firefox-addons/extensions/langpack-ru@firefox.mozilla.org.xpint/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+95 -> socket:[147362]x-addons/extensions/langpack-ru@firefox.mozilla.org.xpint/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+96 -> socket:[243631]x-addons/extensions/langpack-ru@firefox.mozilla.org.xpint/chrome/idb/3870112724rsegmnoittet-es.sqliteqlite-wal
+97 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqlite-wale-wal
+98 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlitee-wale-wal
+99 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/content-prefs.sqliterome/idb/1657114595AmcateirvtiSty.sqlitee-wale-wal
+100 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-walle-wal
+101 -> pipe:[147370].mozilla/firefox/5zdzpuee.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-walle-wal
+102 -> pipe:[147370].mozilla/firefox/5zdzpuee.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-walle-wal
+103 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-walle-wal
+104 -> socket:[148255]ipc (deleted)x/5zdzpuee.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-walle-wal
+105 -> pipe:[148257]5]ipc (deleted)x/5zdzpuee.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-walle-wal
+106 -> anon_inode:[eventfd]deleted)x/5zdzpuee.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-walle-wal
+107 -> socket:[149304]ntfd]deleted)x/5zdzpuee.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-walle-wal
+108 -> socket:[147371]ntfd]deleted)x/5zdzpuee.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-walle-wal
+109 -> anon_inode:[eventfd]deleted)x/5zdzpuee.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-walle-wal
+110 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/places.sqlitenent/chrome/idb/1657114595AmcateirvtiSty.sqlite-walle-wal
+111 -> /home/andrey/.cache/event-sound-cache.tdb.469ef35e3808437b9eaacc10f3e9e0c2.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+112 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/places.sqlite-walc2.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+113 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/favicons.sqlitealc2.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+114 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+115 -> socket:[147373]ozilla/firefox/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+116 -> socket:[160889]ozilla/firefox/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+117 -> socket:[160891]ozilla/firefox/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+118 -> socket:[213758]ozilla/firefox/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+119 -> socket:[178574]ozilla/firefox/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+120 -> socket:[211548]ozilla/firefox/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+121 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+122 -> socket:[149549]ozilla/firefox/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+123 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+124 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+125 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+126 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+127 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+128 -> socket:[159984]ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+129 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+130 -> pipe:[158907]a-ipc (deleted)x/5zdzpuee.default-release/favicons.sqlite-wal.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+131 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/formhistory.sqlitel.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+132 -> socket:[179636]ozilla/firefox/5zdzpuee.default-release/formhistory.sqlitel.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+133 -> pipe:[179638]6]ozilla/firefox/5zdzpuee.default-release/formhistory.sqlitel.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+135 -> /home/andrey/.local/share/gvfs-metadata/home-4a2933ae.log (deleted)sqlitel.x86_64-pc-linux-gnuAmcateirvtiSty.sqlite-walle-wal
+136 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/storage/default/https+++web.telegram.org/ls/data.sqliteqlite-walle-wal
+137 -> socket:[149290]ozilla/firefox/5zdzpuee.default-release/storage/default/https+++web.telegram.org/ls/data.sqliteqlite-walle-wal
+138 -> pipe:[148471]0]ozilla/firefox/5zdzpuee.default-release/storage/default/https+++web.telegram.org/ls/data.sqliteqlite-walle-wal
+141 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/protections.sqlitetps+++web.telegram.org/ls/data.sqliteqlite-walle-wal
+148 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/favicons.sqliteitetps+++web.telegram.org/ls/data.sqliteqlite-walle-wal
+149 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/favicons.sqlite-walps+++web.telegram.org/ls/data.sqliteqlite-walle-wal
+153 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/storage/default/https+++github.com/ls/data.sqlitesqliteqlite-walle-wal
+154 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/places.sqlitelt/https+++github.com/ls/data.sqlitesqliteqlite-walle-wal
+155 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/places.sqlite-walttps+++github.com/ls/data.sqlitesqliteqlite-walle-wal
+157 -> socket:[159754]ozilla/firefox/5zdzpuee.default-release/places.sqlite-walttps+++github.com/ls/data.sqlitesqliteqlite-walle-wal
+161 -> socket:[158778]ozilla/firefox/5zdzpuee.default-release/places.sqlite-walttps+++github.com/ls/data.sqlitesqliteqlite-walle-wal
+165 -> socket:[158767]ozilla/firefox/5zdzpuee.default-release/places.sqlite-walttps+++github.com/ls/data.sqlitesqliteqlite-walle-wal
+166 -> pipe:[156476]7]ozilla/firefox/5zdzpuee.default-release/places.sqlite-walttps+++github.com/ls/data.sqlitesqliteqlite-walle-wal
+167 -> socket:[213748]ozilla/firefox/5zdzpuee.default-release/places.sqlite-walttps+++github.com/ls/data.sqlitesqliteqlite-walle-wal
+168 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/storage/default/https+++web.telegram.org/cache/caches.sqlite-walle-wal
+169 -> /home/andrey/.mozilla/firefox/5zdzpuee.default-release/storage/default/https+++web.telegram.org/cache/caches.sqlite-walle-wal
+174 -> socket:[211575]ozilla/firefox/5zdzpuee.default-release/storage/default/https+++web.telegram.org/cache/caches.sqlite-walle-wal
+176 -> /memfd:mozilla-ipc (deleted)x/5zdzpuee.default-release/storage/default/https+++web.telegram.org/cache/caches.sqlite-walle-wal
+177 -> socket:[211534]ipc (deleted)x/5zdzpuee.default-release/storage/default/https+++web.telegram.org/cache/caches.sqlite-walle-wal
+178 -> pipe:[214666]4]ipc (deleted)x/5zdzpuee.default-release/storage/default/https+++web.telegram.org/cache/caches.sqlite-walle-wal
+179 -> socket:[213525]ipc (deleted)x/5zdzpuee.default-release/storage/default/https+++web.telegram.org/cache/caches.sqlite-walle-wal
+180 -> pipe:[212262]5]ipc (deleted)x/5zdzpuee.default-release/storage/default/https+++web.telegram.org/cache/caches.sqlite-walle-wal
+
+ENVIRON:
+GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+USER=andrey
+SSH_AGENT_PID=1596
+XDG_SESSION_TYPE=x11
+SHLVL=0
+HOME=/home/andrey
+DESKTOP_SESSION=ubuntu
+GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/firefox.desktop
+GTK_MODULES=gail:atk-bridge
+GNOME_SHELL_SESSION_MODE=ubuntu
+MANAGERPID=1388
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+GIO_LAUNCHED_DESKTOP_FILE_PID=7813
+IM_CONFIG_PHASE=1
+LOGNAME=andrey
+_=/usr/bin/dbus-update-activation-environment
+JOURNAL_STREAM=8:37085
+XDG_SESSION_CLASS=user
+USERNAME=andrey
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+WINDOWPATH=2
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+SESSION_MANAGER=local/vb:@/tmp/.ICE-unix/1632,unix/vb:/tmp/.ICE-unix/1632
+INVOCATION_ID=60f2fb61bf76428886dfe634356b2260
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_MENU_PREFIX=gnome-
+DISPLAY=:0
+LANG=ru_RU.UTF-8
+XDG_CURRENT_DESKTOP=ubuntu:GNOME
+DESKTOP_STARTUP_ID=gnome-shell/Веб-браузер Firefox/1646-3-vb_TIME8893251
+XAUTHORITY=/run/user/1000/gdm/Xauthority
+XDG_SESSION_DESKTOP=ubuntu
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+SHELL=/bin/bash
+QT_ACCESSIBILITY=1
+GDMSESSION=ubuntu
+MOZ_APP_LAUNCHER=/usr/bin/firefox
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+GJS_DEBUG_OUTPUT=stderr
+QT_IM_MODULE=ibus
+PWD=/home/andrey
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+
+STAT: 
+(1) pid  '7813'
+(2) comm '(GeckoMain)'
+(3) state  'S'
+(4) ppid  '1388'
+(5) pgrp  '1646'
+(6) session  '1646'
+(7) tty_nr  '0'
+(8) tpgid  '-1'
+(9) flags  '4194560'
+(10) minflt  '1380479'
+(11) cminflt  '56531'
+(12) majflt  '20137'
+(13) cmajflt  '654'
+(14) utime  '26986'
+(15) stime  '7704'
+(16) cutime  '1028'
+(17) cstime  '298'
+(18) priority  '20'
+(19) nice  '0'
+(20) num_threads  '107'
+(21) itrealvalue  '0'
+(22) starttime  '889329'
+(23) vsize  '4065443840'
+(24) rss  '127075'
+(25) rsslim  '18446744073709551615'
+(26) startcode  '94483212271616'
+(27) endcode  '94483212864205'
+(28) startstack  '140734716374384'
+(29) kstkesp  '0'
+(30) kstkeip  '0'
+(31) signal  '0'
+(32) blocked  '0'
+(33) sigignore  '16781312'
+(34) sigcatch  '17663'
+(35) wchan  '0'
+(36) nswap  '0'
+(37) cnswap  '0'
+(38) exit_signal  '17'
+(39) processor  '1'
+(40) rt_priority  '0'
+(41) policy  '0'
+(42) delayacct_blkio_ticks  '328'
+(43) guest_time  '0'
+(44) cguest_time  '0'
+(45) start_data  '94483212972048'
+(46) end_data  '94483212977360'
+(47) start_brk  '94483241123840'
+(48) arg_start  '140734716381719'
+(49) arg_end  '140734716381756'
+(50) env_start  '140734716381756'
+(51) env_end  '140734716383199'
+(52) exit_code  '0
+FILE_PID=7813
+IM_CONFIG_PHASE=1
+LOGNAME=andrey
+_=/usr/bin/dbus-update-activation-environment
+JOURNAL_STREAM=8:37085
+XDG_SESSION_CLASS=user
+USERNAME=andrey
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+WINDOWPATH=2
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+SESSION_MANAGER=local/vb:@/tmp/.ICE-unix/1632,unix/vb:/tmp/.ICE-unix/1632
+INVOCATION_ID=60f2fb61bf76428886dfe634356b2260
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_MENU_PREFIX=gnome-
+DISPLAY=:0
+LANG=ru_RU.UTF-8
+XDG_CURRENT_DESKTOP=ubuntu:GNOME
+DESKTOP_STARTUP_ID=gnome-shell/Веб-браузер'
+size     Firefox/1646-3-vb_TIME8893251
+XAUTHORITY=/run/user/1000/gdm/Xauthority
+XDG_SESSION_DESKTOP=ubuntu
+XMODIFIERS=@im=ibus
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+SHELL=/bin/bash
+QT_ACCESSIBILITY=1
+GDMSESSION=ubuntu
+MOZ_APP_LAUNCHER=/usr/bin/firefox
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+GJS_DEBUG_OUTPUT=stderr
+QT_IM_MODULE=ibus
+PWD=/home/andrey
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+  (1)
+
+STATM: 
+size     992540  (1)
+resident 127075  (2)
+shared   37150  (3)
+text     145  (4)
+lib      0  (5)
+data     188504  (6)
+dt       0
+  (7)
+
+CWD:
+/home/andrey
+
+EXE:
+/usr/lib/firefox/firefox
+
+MAPS:
+2193fc48000-2193fc58000 ---p 00000000 00:00 0 
+2193fc58000-2193fc68000 r-xp 00000000 00:00 0 
+2193fc68000-2193fc78000 ---p 00000000 00:00 0 
+2193fc78000-2193fc85000 r-xp 00000000 00:00 0 
+2193fc85000-2193fc88000 r-xp 00000000 00:00 0 
+2193fc88000-2193fc98000 ---p 00000000 00:00 0 
+2193fc98000-2193fca8000 ---p 00000000 00:00 0 
+2193fca8000-2193fcb7000 r-xp 00000000 00:00 0 
+2193fcb7000-2193fcb8000 r-xp 00000000 00:00 0 
+2193fcb8000-2193fcd8000 ---p 00000000 00:00 0 
+2193fcd8000-2193fce5000 r-xp 00000000 00:00 0 
+2193fce5000-2193fce8000 r-xp 00000000 00:00 0 
+2193fce8000-2193fcf8000 r-xp 00000000 00:00 0 
+2193fcf8000-2193fd18000 ---p 00000000 00:00 0 
+2193fd18000-2193fd38000 r-xp 00000000 00:00 0 
+2193fd38000-2193fd48000 r-xp 00000000 00:00 0 
+2193fd48000-2193fd68000 ---p 00000000 00:00 0 
+2193fd68000-2193fd78000 r-xp 00000000 00:00 0 
+2193fd78000-2193fd88000 ---p 00000000 00:00 0 
+2193fd88000-2193fd95000 r-xp 00000000 00:00 0 
+2193fd95000-2193fd98000 r-xp 00000000 00:00 0 
+2193fd98000-2193fdc8000 ---p 00000000 00:00 0 
+2193fdc8000-2193fdd5000 r-xp 00000000 00:00 0 
+2193fdd5000-2193fdd8000 r-xp 00000000 00:00 0 
+2193fdd8000-2193fde8000 r-xp 00000000 00:00 0 
+2193fde8000-2193fdf5000 r-xp 00000000 00:00 0 
+2193fdf5000-2193fdf8000 r-xp 00000000 00:00 0 
+2193fdf8000-2193fe28000 ---p 00000000 00:00 0 
+2193fe28000-2193fe38000 r-xp 00000000 00:00 0 
+2193fe38000-2193fe48000 r-xp 00000000 00:00 0 
+2193fe48000-2193fe88000 ---p 00000000 00:00 0 
+2193fe88000-2193fe95000 r-xp 00000000 00:00 0 
+2193fe95000-2193fe98000 r-xp 00000000 00:00 0 
+2193fe98000-2193ff18000 ---p 00000000 00:00 0 
+2193ff18000-2193ff28000 ---p 00000000 00:00 0 
+2193ff28000-2193ff38000 ---p 00000000 00:00 0 
+2193ff38000-219bf848000 ---p 00000000 00:00 0 
+74472400000-74472500000 rw-p 00000000 00:00 0 
+81db1100000-81db1200000 rw-p 00000000 00:00 0 
+8fdeec00000-8fdeed00000 rw-p 00000000 00:00 0 
+93880c00000-93880d00000 rw-p 00000000 00:00 0 
+a417a600000-a417a700000 rw-p 00000000 00:00 0 
+a9389a00000-a9389b00000 rw-p 00000000 00:00 0 
+b3cec200000-b3cec300000 rw-p 00000000 00:00 0 
+f363c600000-f363c700000 rw-p 00000000 00:00 0 
+106f88700000-106f88800000 rw-p 00000000 00:00 0 
+129dec400000-129dec500000 rw-p 00000000 00:00 0 
+170645200000-170645300000 rw-p 00000000 00:00 0 
+19a39fc00000-19a39fd00000 rw-p 00000000 00:00 0 
+19a851200000-19a851300000 rw-p 00000000 00:00 0 
+19c26f500000-19c26f600000 rw-p 00000000 00:00 0 
+1a55d2b00000-1a55d2c00000 rw-p 00000000 00:00 0 
+1aa1ebb00000-1aa1ebc00000 rw-p 00000000 00:00 0 
+1e5b44800000-1e5b44900000 rw-p 00000000 00:00 0 
+1ebf13e00000-1ebf13f00000 rw-p 00000000 00:00 0 
+221651100000-221651200000 rw-p 00000000 00:00 0 
+239338500000-239338600000 rw-p 00000000 00:00 0 
+262350700000-262350800000 rw-p 00000000 00:00 0 
+27d275400000-27d275500000 rw-p 00000000 00:00 0 
+29e28d900000-29e28da00000 rw-p 00000000 00:00 0 
+2c5d96300000-2c5d96400000 rw-p 00000000 00:00 0 
+2d16f3a00000-2d16f3b00000 rw-p 00000000 00:00 0 
+308e2c900000-308e2ca00000 rw-p 00000000 00:00 0 
+34896c300000-34896c400000 rw-p 00000000 00:00 0 
+35ccea700000-35ccea800000 rw-p 00000000 00:00 0 
+385421000000-385421100000 rw-p 00000000 00:00 0 
+39b408800000-39b408900000 rw-p 00000000 00:00 0 
+39fe48b00000-39fe48c00000 rw-p 00000000 00:00 0 
+3add40000000-3add40100000 rw-p 00000000 00:00 0 
+3e8071700000-3e8071800000 rw-p 00000000 00:00 0 
+3eb885700000-3eb885800000 rw-p 00000000 00:00 0 
+55ee964d4000-55ee964e0000 r--p 00000000 08:05 1051771                    /usr/lib/firefox/firefox
+55ee964e0000-55ee96571000 r-xp 0000c000 08:05 1051771                    /usr/lib/firefox/firefox
+55ee96571000-55ee9658a000 r--p 0009d000 08:05 1051771                    /usr/lib/firefox/firefox
+55ee9658b000-55ee9658c000 r--p 000b6000 08:05 1051771                    /usr/lib/firefox/firefox
+55ee9658c000-55ee9658d000 rw-p 000b7000 08:05 1051771                    /usr/lib/firefox/firefox
+55ee9658d000-55ee9658f000 rw-p 00000000 00:00 0 
+7facaf800000-7facaf871000 r--s 00000000 00:01 1239                       /memfd:mozilla-ipc (deleted)
+7fae60600000-7fae606ff000 rw-p 00000000 00:00 0 
+7fae606ff000-7fae60700000 ---p 00000000 00:00 0 
+7fae60700000-7fae607ff000 rw-p 00000000 00:00 0 
+7fae607ff000-7fae60900000 ---p 00000000 00:00 0 
+7fae60900000-7fae609ff000 rw-p 00000000 00:00 0 
+7fae609ff000-7fae60a00000 ---p 00000000 00:00 0 
+7fae60a00000-7fae60aff000 rw-p 00000000 00:00 0 
+7fae60aff000-7fae60c00000 ---p 00000000 00:00 0 
+7fae60c00000-7fae60cff000 rw-p 00000000 00:00 0 
+7fae60cff000-7fae60d00000 ---p 00000000 00:00 0 
+7fae60d00000-7fae60dff000 rw-p 00000000 00:00 0 
+7fae60dff000-7fae61000000 ---p 00000000 00:00 0 
+7fae61000000-7fae610ff000 rw-p 00000000 00:00 0 
+7fae610ff000-7fae61100000 ---p 00000000 00:00 0 
+7fae61100000-7fae611ff000 rw-p 00000000 00:00 0 
+7fae611ff000-7fae61200000 ---p 00000000 00:00 0 
+7fae61200000-7fae612ff000 rw-p 00000000 00:00 0 
+7fae612ff000-7fae61300000 ---p 00000000 00:00 0 
+7fae61300000-7fae613ff000 rw-p 00000000 00:00 0 
+7fae613ff000-7fae61400000 ---p 00000000 00:00 0 
+7fae61400000-7fae614ff000 rw-p 00000000 00:00 0 
+7fae614ff000-7fae61500000 ---p 00000000 00:00 0 
+7fae61500000-7fae615ff000 rw-p 00000000 00:00 0 
+7fae615ff000-7fae61600000 ---p 00000000 00:00 0 
+7fae61600000-7fae616ff000 rw-p 00000000 00:00 0 
+7fae616ff000-7fae62e00000 ---p 00000000 00:00 0 
+7fae62e00000-7fae62eff000 rw-p 00000000 00:00 0 
+7fae62eff000-7fae62f00000 ---p 00000000 00:00 0 
+7fae62f00000-7fae62fff000 rw-p 00000000 00:00 0 
+7fae62fff000-7fae63000000 ---p 00000000 00:00 0 
+7fae63000000-7fae630ff000 rw-p 00000000 00:00 0 
+7fae630ff000-7fae63100000 ---p 00000000 00:00 0 
+7fae63100000-7fae631ff000 rw-p 00000000 00:00 0 
+7fae631ff000-7fae63200000 ---p 00000000 00:00 0 
+7fae63200000-7fae632ff000 rw-p 00000000 00:00 0 
+7fae632ff000-7fae63300000 ---p 00000000 00:00 0 
+7fae63300000-7fae633ff000 rw-p 00000000 00:00 0 
+7fae633ff000-7fae63400000 ---p 00000000 00:00 0 
+7fae63400000-7fae634ff000 rw-p 00000000 00:00 0 
+7fae634ff000-7fae63500000 ---p 00000000 00:00 0 
+7fae63500000-7fae635ff000 rw-p 00000000 00:00 0 
+7fae635ff000-7fae63600000 ---p 00000000 00:00 0 
+7fae63600000-7fae63800000 rw-p 00000000 00:00 0 
+7fae63800000-7fae63900000 ---p 00000000 00:00 0 
+7fae63900000-7fae63b00000 rw-p 00000000 00:00 0 
+7fae63b00000-7fae63c00000 ---p 00000000 00:00 0 
+7fae63c00000-7fae63cff000 rw-p 00000000 00:00 0 
+7fae63cff000-7fae63d00000 ---p 00000000 00:00 0 
+7fae63d00000-7fae63dff000 rw-p 00000000 00:00 0 
+7fae63dff000-7fae63e00000 ---p 00000000 00:00 0 
+7fae63e00000-7fae63eff000 rw-p 00000000 00:00 0 
+7fae63eff000-7fae63f00000 ---p 00000000 00:00 0 
+7fae63f00000-7fae63fff000 rw-p 00000000 00:00 0 
+7fae63fff000-7fae64000000 ---p 00000000 00:00 0 
+7fae64000000-7fae640ff000 rw-p 00000000 00:00 0 
+7fae640ff000-7fae64100000 ---p 00000000 00:00 0 
+7fae64100000-7fae641ff000 rw-p 00000000 00:00 0 
+7fae641ff000-7fae64200000 ---p 00000000 00:00 0 
+7fae64200000-7fae642ff000 rw-p 00000000 00:00 0 
+7fae642ff000-7fae64300000 ---p 00000000 00:00 0 
+7fae64300000-7fae643ff000 rw-p 00000000 00:00 0 
+7fae643ff000-7fae64400000 ---p 00000000 00:00 0 
+7fae64400000-7fae644ff000 rw-p 00000000 00:00 0 
+7fae644ff000-7fae64500000 ---p 00000000 00:00 0 
+7fae64500000-7fae645ff000 rw-p 00000000 00:00 0 
+7fae645ff000-7fae64600000 ---p 00000000 00:00 0 
+7fae64600000-7fae646ff000 rw-p 00000000 00:00 0 
+7fae646ff000-7fae64700000 ---p 00000000 00:00 0 
+7fae64700000-7fae647ff000 rw-p 00000000 00:00 0 
+7fae647ff000-7fae64800000 ---p 00000000 00:00 0 
+7fae64800000-7fae648ff000 rw-p 00000000 00:00 0 
+7fae648ff000-7fae64900000 ---p 00000000 00:00 0 
+7fae64900000-7fae649ff000 rw-p 00000000 00:00 0 
+7fae649ff000-7fae64a00000 ---p 00000000 00:00 0 
+7fae64a00000-7fae64aff000 rw-p 00000000 00:00 0 
+7fae64aff000-7fae64b00000 ---p 00000000 00:00 0 
+7fae64b00000-7fae64bff000 rw-p 00000000 00:00 0 
+7fae64bff000-7fae64c00000 ---p 00000000 00:00 0 
+7fae64c00000-7fae64cff000 rw-p 00000000 00:00 0 
+7fae64cff000-7fae64d00000 ---p 00000000 00:00 0 
+7fae64d00000-7fae64dff000 rw-p 00000000 00:00 0 
+7fae64dff000-7fae64e00000 ---p 00000000 00:00 0 
+7fae64e00000-7fae64eff000 rw-p 00000000 00:00 0 
+7fae64eff000-7fae64f00000 ---p 00000000 00:00 0 
+7fae64f00000-7fae65100000 rw-p 00000000 00:00 0 
+7fae65100000-7fae65200000 ---p 00000000 00:00 0 
+7fae65200000-7fae65400000 rw-p 00000000 00:00 0 
+7fae65400000-7fae65500000 ---p 00000000 00:00 0 
+7fae65500000-7fae65700000 rw-p 00000000 00:00 0 
+7fae65700000-7fae65800000 ---p 00000000 00:00 0 
+7fae659fc000-7fae699fc000 rw-s 00000000 00:01 3412                       /memfd:pulseaudio (deleted)
+7fae699fc000-7fae6d9fc000 rw-s 00000000 00:01 3078                       /memfd:pulseaudio (deleted)
+7fae6d9fc000-7fae719fc000 rw-s 00000000 00:01 3411                       /memfd:pulseaudio (deleted)
+7fae719fc000-7fae719fd000 ---p 00000000 00:00 0 
+7fae719fd000-7fae721fd000 rw-p 00000000 00:00 0 
+7fae721fd000-7fae761fd000 rw-s 00000000 00:01 3411                       /memfd:pulseaudio (deleted)
+7fae76500000-7fae76700000 rw-p 00000000 00:00 0 
+7fae76700000-7fae76800000 ---p 00000000 00:00 0 
+7fae76800000-7fae768ff000 rw-p 00000000 00:00 0 
+7fae768ff000-7fae76900000 ---p 00000000 00:00 0 
+7fae76900000-7fae769ff000 rw-p 00000000 00:00 0 
+7fae769ff000-7fae76a00000 ---p 00000000 00:00 0 
+7fae76a00000-7fae76aff000 rw-p 00000000 00:00 0 
+7fae76aff000-7fae76b00000 ---p 00000000 00:00 0 
+7fae76b00000-7fae76bff000 rw-p 00000000 00:00 0 
+7fae76bff000-7fae76c00000 ---p 00000000 00:00 0 
+7fae76c00000-7fae76cff000 rw-p 00000000 00:00 0 
+7fae76cff000-7fae76d00000 ---p 00000000 00:00 0 
+7fae76d00000-7fae76dff000 rw-p 00000000 00:00 0 
+7fae76dff000-7fae76e00000 ---p 00000000 00:00 0 
+7fae76e00000-7fae77000000 rw-p 00000000 00:00 0 
+7fae77000000-7fae77100000 ---p 00000000 00:00 0 
+7fae77100000-7fae77300000 rw-p 00000000 00:00 0 
+7fae77300000-7fae77400000 ---p 00000000 00:00 0 
+7fae77400000-7fae77600000 rw-p 00000000 00:00 0 
+7fae77600000-7fae77700000 ---p 00000000 00:00 0 
+7fae77700000-7fae777ff000 rw-p 00000000 00:00 0 
+7fae777ff000-7fae77800000 ---
+p 00000000 00:00 0 
+7fae77800000-7fae778ff000 rw-p 00000000 00:00 0 
+7fae778ff000-7fae77900000 ---p 00000000 00:00 0 
+7fae77900000-7fae77b00000 rw-p 00000000 00:00 0 
+7fae77b00000-7fae77c00000 ---p 00000000 00:00 0 
+7fae77d00000-7fae77f00000 rw-p 00000000 00:00 0 
+7fae77f00000-7fae78000000 ---p 00000000 00:00 0 
+7fae78000000-7fae78201000 rw-p 00000000 00:00 0 
+7fae78201000-7fae78300000 ---p 00000000 00:00 0 
+7fae78400000-7fae784ff000 rw-p 00000000 00:00 0 
+7fae784ff000-7fae78500000 ---p 00000000 00:00 0 
+7fae78500000-7fae78690000 rw-p 00000000 00:00 0 
+7fae78690000-7fae78700000 ---p 00000000 00:00 0 
+7fae787ff000-7fae78800000 ---p 00000000 00:00 0 
+7fae78800000-7fae790ff000 rw-p 00000000 00:00 0 
+7fae790ff000-7fae79100000 ---p 00000000 00:00 0 
+7fae79100000-7fae791ff000 rw-p 00000000 00:00 0 
+7fae791ff000-7fae79200000 ---p 00000000 00:00 0 
+7fae79200000-7fae792ff000 rw-p 00000000 00:00 0 
+7fae792ff000-7fae79300000 ---p 00000000 00:00 0 
+7fae79300000-7fae793ff000 rw-p 00000000 00:00 0 
+7fae793ff000-7fae79400000 ---p 00000000 00:00 0 
+7fae79400000-7fae794ff000 rw-p 00000000 00:00 0 
+7fae794ff000-7fae79500000 ---p 00000000 00:00 0 
+7fae797f6000-7fae797f7000 ---p 00000000 00:00 0 
+7fae797f7000-7fae799f7000 rw-p 00000000 00:00 0 
+7fae799f7000-7fae799f8000 ---p 00000000 00:00 0 
+7fae799f8000-7fae79bf8000 rw-p 00000000 00:00 0 
+7fae79bf8000-7fae79bf9000 ---p 00000000 00:00 0 
+7fae79bf9000-7fae79df9000 rw-p 00000000 00:00 0 
+7fae79df9000-7fae79dfa000 ---p 00000000 00:00 0 
+7fae79dfa000-7fae79ffa000 rw-p 00000000 00:00 0 
+7fae79ffa000-7fae79ffb000 ---p 00000000 00:00 0 
+7fae79ffb000-7fae7a1fb000 rw-p 00000000 00:00 0 
+7fae7a1fb000-7fae7a1fc000 ---p 00000000 00:00 0 
+7fae7a1fc000-7fae7a3fc000 rw-p 00000000 00:00 0 
+7fae7b0e1000-7fae7b16c000 r--p 00000000 08:05 1048595                    /usr/lib/firefox-addons/extensions/langpack-ru@firefox.mozilla.org.xpi
+7fae7baa3000-7fae7bafa000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae7bafa000-7fae7bb51000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae7bb51000-7fae7bba8000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae7bba8000-7fae7bbff000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae7bcfe000-7fae7bcff000 ---p 00000000 00:00 0 
+7fae7bcff000-7fae7beff000 rw-p 00000000 00:00 0 
+7fae7beff000-7fae7bf00000 ---p 00000000 00:00 0 
+7fae7bf00000-7fae7c100000 rw-p 00000000 00:00 0 
+7fae7c100000-7fae7c300000 rw-p 00000000 00:00 0 
+7fae7c300000-7fae7c400000 ---p 00000000 00:00 0 
+7fae7c400000-7fae7c4ff000 rw-p 00000000 00:00 0 
+7fae7c4ff000-7fae7c500000 ---p 00000000 00:00 0 
+7fae7c500000-7fae7c5ff000 rw-p 00000000 00:00 0 
+7fae7c5ff000-7fae7c600000 ---p 00000000 00:00 0 
+7fae7c600000-7fae7c6ff000 rw-p 00000000 00:00 0 
+7fae7c6ff000-7fae7c700000 ---p 00000000 00:00 0 
+7fae7c700000-7fae7c7ff000 rw-p 00000000 00:00 0 
+7fae7c7ff000-7fae7c900000 ---p 00000000 00:00 0 
+7fae7c900000-7fae7c9ff000 rw-p 00000000 00:00 0 
+7fae7c9ff000-7fae7ca00000 ---p 00000000 00:00 0 
+7fae7ca00000-7fae7caff000 rw-p 00000000 00:00 0 
+7fae7caff000-7fae7cb00000 ---p 00000000 00:00 0 
+7fae7cb00000-7fae7cbff000 rw-p 00000000 00:00 0 
+7fae7cbff000-7fae7cc00000 ---p 00000000 00:00 0 
+7fae7cc00000-7fae7ccff000 rw-p 00000000 00:00 0 
+7fae7ccff000-7fae7cd00000 ---p 00000000 00:00 0 
+7fae7cd00000-7fae7cdff000 rw-p 00000000 00:00 0 
+7fae7cdff000-7fae7ce00000 ---p 00000000 00:00 0 
+7fae7ce00000-7fae7d000000 rw-p 00000000 00:00 0 
+7fae7d000000-7fae7d100000 ---p 00000000 00:00 0 
+7fae7d1f1000-7fae7d248000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae7d248000-7fae7d29f000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae7d29f000-7fae7d2f6000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae7d2f6000-7fae7d34d000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae7d34d000-7fae7d3a4000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae7d3c3000-7fae7d41a000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae7d41a000-7fae7d471000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae7d500000-7fae7d700000 rw-p 00000000 00:00 0 
+7fae7d700000-7fae7d800000 ---p 00000000 00:00 0 
+7fae7d900000-7fae7db00000 rw-p 00000000 00:00 0 
+7fae7db00000-7fae7dc00000 ---p 00000000 00:00 0 
+7fae7dc00000-7fae7de00000 rw-p 00000000 00:00 0 
+7fae7de00000-7fae7df00000 ---p 00000000 00:00 0 
+7fae7df00000-7fae7e100000 rw-p 00000000 00:00 0 
+7fae7e100000-7fae7e200000 ---p 00000000 00:00 0 
+7fae7e200000-7fae7e400000 rw-p 00000000 00:00 0 
+7fae7e400000-7fae7e500000 ---p 00000000 00:00 0 
+7fae7e500000-7fae7e5ff000 rw-p 00000000 00:00 0 
+7fae7e5ff000-7fae7e600000 ---p 00000000 00:00 0 
+7fae7e600000-7fae7e6ff000 rw-p 00000000 00:00 0 
+7fae7e6ff000-7fae7e700000 ---p 00000000 00:00 0 
+7fae7e700000-7fae7e7ff000 rw-p 00000000 00:00 0 
+7fae7e7ff000-7fae7e800000 ---p 00000000 00:00 0 
+7fae7e800000-7fae7e8ff000 rw-p 00000000 00:00 0 
+7fae7e8ff000-7fae7e900000 ---p 00000000 00:00 0 
+7fae7e900000-7fae7e9ff000 rw-p 00000000 00:00 0 
+7fae7e9ff000-7fae7ea00000 ---p 00000000 00:00 0 
+7fae7ea00000-7fae7eaff000 rw-p 00000000 00:00 0 
+7fae7eaff000-7fae7eb00000 ---p 00000000 00:00 0 
+7fae7eb00000-7fae7ebff000 rw-p 00000000 00:00 0 
+7fae7ebff000-7fae7ec00000 ---p 00000000 00:00 0 
+7fae7ec00000-7fae7ecff000 rw-p 00000000 00:00 0 
+7fae7ecff000-7fae7ed00000 ---p 00000000 00:00 0 
+7fae7ed00000-7fae7ee00000 rw-p 00000000 00:00 0 
+7fae7ee00000-7fae7ef00000 ---p 00000000 00:00 0 
+7fae7ef00000-7fae7efff000 rw-p 00000000 00:00 0 
+7fae7efff000-7fae7f000000 ---p 00000000 00:00 0 
+7fae7f000000-7fae7f0ff000 rw-p 00000000 00:00 0 
+7fae7f0ff000-7fae7f100000 ---p 00000000 00:00 0 
+7fae7f100000-7fae7f1ff000 rw-p 00000000 00:00 0 
+7fae7f1ff000-7fae7f200000 ---p 00000000 00:00 0 
+7fae7f200000-7fae7f2ff000 rw-p 00000000 00:00 0 
+7fae7f2ff000-7fae7f300000 ---p 00000000 00:00 0 
+7fae7f300000-7fae7f3ff000 rw-p 00000000 00:00 0 
+7fae7f3ff000-7fae7f400000 ---p 00000000 00:00 0 
+7fae7f400000-7fae7f4ff000 rw-p 00000000 00:00 0 
+7fae7f4ff000-7fae7f500000 ---p 00000000 00:00 0 
+7fae7f500000-7fae7f5ff000 rw-p 00000000 00:00 0 
+7fae7f5ff000-7fae7f600000 ---p 00000000 00:00 0 
+7fae7f623000-7fae7f624000 ---p 00000000 00:00 0 
+7fae7f624000-7fae7fe24000 rw-p 00000000 00:00 0 
+7fae7fe24000-7fae7fe25000 ---p 00000000 00:00 0 
+7fae7fe25000-7fae80625000 rw-p 00000000 00:00 0 
+7fae80625000-7fae80626000 ---p 00000000 00:00 0 
+7fae80626000-7fae80e26000 rw-p 00000000 00:00 0 
+7fae80e26000-7fae81593000 rw-s 00000000 00:01 32817                      /SYSV00000000 (deleted)
+7fae81593000-7fae81d00000 rw-s 00000000 00:01 32815                      /SYSV00000000 (deleted)
+7fae81d00000-7fae8246d000 rw-p 00000000 00:00 0 
+7fae8246d000-7fae82500000 ---p 00000000 00:00 0 
+7fae82500000-7fae82900000 rw-p 00000000 00:00 0 
+7fae82900000-7fae82a00000 ---p 00000000 00:00 0 
+7fae82a00000-7fae83a00000 rw-p 00000000 00:00 0 
+7fae83a00000-7fae83b00000 ---p 00000000 00:00 0 
+7fae83b00000-7fae83d00000 rw-p 00000000 00:00 0 
+7fae83d00000-7fae83e00000 ---p 00000000 00:00 0 
+7fae83e00000-7fae84001000 rw-p 00000000 00:00 0 
+7fae84001000-7fae84100000 ---p 00000000 00:00 0 
+7fae84100000-7fae84300000 rw-p 00000000 00:00 0 
+7fae84300000-7fae84400000 ---p 00000000 00:00 0 
+7fae84400000-7fae84600000 rw-p 00000000 00:00 0 
+7fae84600000-7fae84700000 ---p 00000000 00:00 0 
+7fae84b05000-7fae85200000 rw-s 00000000 00:01 341                        /memfd:mozilla-ipc (deleted)
+7fae85200000-7fae852ff000 rw-p 00000000 00:00 0 
+7fae852ff000-7fae85300000 ---p 00000000 00:00 0 
+7fae85300000-7fae853ff000 rw-p 00000000 00:00 0 
+7fae853ff000-7fae85400000 ---p 00000000 00:00 0 
+7fae85400000-7fae854ff000 rw-p 00000000 00:00 0 
+7fae854ff000-7fae85500000 ---p 00000000 00:00 0 
+7fae85500000-7fae855ff000 rw-p 00000000 00:00 0 
+7fae855ff000-7fae85600000 ---p 00000000 00:00 0 
+7fae85600000-7fae856ff000 rw-p 00000000 00:00 0 
+7fae856ff000-7fae85700000 ---p 00000000 00:00 0 
+7fae85700000-7fae857ff000 rw-p 00000000 00:00 0 
+7fae857ff000-7fae85800000 ---p 00000000 00:00 0 
+7fae85800000-7fae858ff000 rw-p 00000000 00:00 0 
+7fae858ff000-7fae85900000 ---p 00000000 00:00 0 
+7fae85900000-7fae859ff000 rw-p 00000000 00:00 0 
+7fae859ff000-7fae85a00000 ---p 00000000 00:00 0 
+7fae85a00000-7fae85aff000 rw-p 00000000 00:00 0 
+7fae85aff000-7fae85b00000 ---p 00000000 00:00 0 
+7fae85b00000-7fae85bff000 rw-p 00000000 00:00 0 
+7fae85bff000-7fae85c00000 ---p 00000000 00:00 0 
+7fae85c00000-7fae85cff000 rw-p 00000000 00:00 0 
+7fae85cff000-7fae85d00000 ---p 00000000 00:00 0 
+7fae85d00000-7fae85dff000 rw-p 00000000 00:00 0 
+7fae85dff000-7fae85e00000 ---p 00000000 00:00 0 
+7fae85e00000-7fae85eff000 rw-p 00000000 00:00 0 
+7fae85eff000-7fae85f00000 ---p 00000000 00:00 0 
+7fae85f00000-7fae85fff000 rw-p 00000000 00:00 0 
+7fae85fff000-7fae86000000 ---p 00000000 00:00 0 
+7fae86000000-7fae860ff000 rw-p 00000000 00:00 0 
+7fae860ff000-7fae86100000 ---p 00000000 00:00 0 
+7fae86100000-7fae861ff000 rw-p 00000000 00:00 0 
+7fae861ff000-7fae86200000 ---p 00000000 00:00 0 
+7fae86200000-7fae862ff000 rw-p 00000000 00:00 0 
+7fae862ff000-7fae86300000 ---p 00000000 00:00 0 
+7fae863ae000-7fae86457000 rw-s 00000000 00:01 65580                      /SYSV00000000 (deleted)
+7fae86457000-7fae86500000 rw-s 00000000 00:01 65578                      /SYSV00000000 (deleted)
+7fae86500000-7fae865ff000 rw-p 00000000 00:00 0 
+7fae865ff000-7fae86600000 ---p 00000000 00:00 0 
+7fae8668e000-7fae86747000 r--p 00000000 08:05 271100                     /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf
+7fae86747000-7fae86800000 r--p 00000000 08:05 271100                     /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf
+7fae
+86800000-7fae868ff000 rw-p 00000000 00:00 0 
+7fae868ff000-7fae86900000 ---p 00000000 00:00 0 
+7fae86900000-7fae869ff000 rw-p 00000000 00:00 0 
+7fae869ff000-7fae86a00000 ---p 00000000 00:00 0 
+7fae86a00000-7fae86aff000 rw-p 00000000 00:00 0 
+7fae86aff000-7fae86b00000 ---p 00000000 00:00 0 
+7fae86b00000-7fae86bff000 rw-p 00000000 00:00 0 
+7fae86bff000-7fae86c00000 ---p 00000000 00:00 0 
+7fae86c47000-7fae86d00000 r--p 00000000 08:05 271100                     /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf
+7fae86d00000-7fae86e56000 rw-p 00000000 00:00 0 
+7fae86e56000-7fae86f00000 ---p 00000000 00:00 0 
+7fae86f00000-7fae87100000 rw-p 00000000 00:00 0 
+7fae87100000-7fae87200000 ---p 00000000 00:00 0 
+7fae87200000-7fae872ff000 rw-p 00000000 00:00 0 
+7fae872ff000-7fae87300000 ---p 00000000 00:00 0 
+7fae87300000-7fae873ff000 rw-p 00000000 00:00 0 
+7fae873ff000-7fae87400000 ---p 00000000 00:00 0 
+7fae87400000-7fae874ff000 rw-p 00000000 00:00 0 
+7fae874ff000-7fae87500000 ---p 00000000 00:00 0 
+7fae87500000-7fae875ff000 rw-p 00000000 00:00 0 
+7fae875ff000-7fae87600000 ---p 00000000 00:00 0 
+7fae87600000-7fae876ff000 rw-p 00000000 00:00 0 
+7fae876ff000-7fae87700000 ---p 00000000 00:00 0 
+7fae87700000-7fae877ff000 rw-p 00000000 00:00 0 
+7fae877ff000-7fae87800000 ---p 00000000 00:00 0 
+7fae87853000-7fae879b3000 r--p 00000000 08:05 1051775                    /usr/lib/firefox/fonts/TwemojiMozilla.ttf
+7fae879b3000-7fae879b4000 ---p 00000000 00:00 0 
+7fae879b4000-7fae87bb4000 rw-p 00000000 00:00 0 
+7fae87bbc000-7fae87c75000 r--p 00000000 08:05 271100                     /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf
+7fae87c75000-7fae87dd5000 r--p 00000000 08:05 1051775                    /usr/lib/firefox/fonts/TwemojiMozilla.ttf
+7fae87dd5000-7fae87df0000 r--p 00000000 08:05 401237                     /usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf
+7fae87df0000-7fae87e0b000 r--p 00000000 08:05 401237                     /usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf
+7fae87e0b000-7fae87e26000 r--p 00000000 08:05 401237                     /usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf
+7fae87e26000-7fae87e41000 r--p 00000000 08:05 401237                     /usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf
+7fae87e41000-7fae87e5c000 r--p 00000000 08:05 401237                     /usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf
+7fae87eca000-7fae87edf000 r--p 00000000 08:05 138413                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf
+7fae87edf000-7fae87ef4000 r--p 00000000 08:05 138413                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf
+7fae87ef4000-7fae87f09000 r--p 00000000 08:05 138413                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf
+7fae87f09000-7fae87f1e000 r--p 00000000 08:05 138413                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf
+7fae87f1e000-7fae87f33000 r--p 00000000 08:05 138413                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf
+7fae87f33000-7fae87f48000 r--p 00000000 08:05 138416                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf
+7fae87f4d000-7fae87fa4000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae87ff2000-7fae88047000 r--s 00000000 00:01 2516                       /memfd:mozilla-ipc (deleted)
+7fae88047000-7fae88100000 r--p 00000000 08:05 271100                     /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf
+7fae88100000-7fae88200000 rw-p 00000000 00:00 0 
+7fae88200000-7fae88300000 ---p 00000000 00:00 0 
+7fae88300000-7fae883ff000 rw-p 00000000 00:00 0 
+7fae883ff000-7fae88400000 ---p 00000000 00:00 0 
+7fae88400000-7fae89401000 rw-p 00000000 00:00 0 
+7fae89401000-7fae89500000 ---p 00000000 00:00 0 
+7fae89500000-7fae8a500000 rw-p 00000000 00:00 0 
+7fae8a500000-7fae8a600000 ---p 00000000 00:00 0 
+7fae8a653000-7fae8a7b3000 r--p 00000000 08:05 1051775                    /usr/lib/firefox/fonts/TwemojiMozilla.ttf
+7fae8a7b3000-7fae8a913000 r--p 00000000 08:05 1051775                    /usr/lib/firefox/fonts/TwemojiMozilla.ttf
+7fae8a913000-7fae8a928000 r--p 00000000 08:05 138416                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf
+7fae8a928000-7fae8a93d000 r--p 00000000 08:05 138416                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf
+7fae8a98c000-7fae8a9e9000 r--p 00000000 08:05 271104                     /usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf
+7fae8a9e9000-7fae8aa46000 r--p 00000000 08:05 271104                     /usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf
+7fae8aa46000-7fae8aaa3000 r--p 00000000 08:05 271104                     /usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf
+7fae8aaa3000-7fae8ab00000 r--p 00000000 08:05 271104                     /usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf
+7fae8ab00000-7fae8ab5d000 r--p 00000000 08:05 271104                     /usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf
+7fae8ab5d000-7fae8abc2000 r--s 00000000 00:01 1284                       /memfd:mozilla-ipc (deleted)
+7fae8abef000-7fae8ac04000 r--p 00000000 08:05 138416                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf
+7fae8ac04000-7fae8ac19000 r--p 00000000 08:05 138413                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf
+7fae8ac19000-7fae8ac2e000 r--p 00000000 08:05 138413                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf
+7fae8ac2e000-7fae8ac43000 r--p 00000000 08:05 138413                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf
+7fae8ac43000-7fae8ac58000 r--p 00000000 08:05 138413                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf
+7fae8ac58000-7fae8ac6d000 r--p 00000000 08:05 138413                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf
+7fae8ac6d000-7fae8ac6e000 ---p 00000000 00:00 0 
+7fae8ac6e000-7fae8acae000 rw-p 00000000 00:00 0 
+7fae8acae000-7fae8ad00000 r--p 00000000 08:05 529660                     /usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf
+7fae8ad00000-7fae8bd00000 rw-p 00000000 00:00 0 
+7fae8bd00000-7fae8be00000 ---p 00000000 00:00 0 
+7fae8be12000-7fae8be27000 r--p 00000000 08:05 138416                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf
+7fae8be27000-7fae8be79000 r--p 00000000 08:05 529660                     /usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf
+7fae8be79000-7fae8becb000 r--p 00000000 08:05 529660                     /usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf
+7fae8becb000-7fae8becc000 ---p 00000000 00:00 0 
+7fae8becc000-7fae8bf0c000 rw-p 00000000 00:00 0 
+7fae8bf50000-7fae8bfa0000 r--s 00000000 00:01 1529                       /memfd:mozilla-ipc (deleted)
+7fae8bfa0000-7fae8c100000 r--p 00000000 08:05 1051775                    /usr/lib/firefox/fonts/TwemojiMozilla.ttf
+7fae8c100000-7fae8c300000 rw-p 00000000 00:00 0 
+7fae8c300000-7fae8c400000 ---p 00000000 00:00 0 
+7fae8c400000-7fae8c800000 rw-p 00000000 00:00 0 
+7fae8c800000-7fae8c900000 ---p 00000000 00:00 0 
+7fae8c900000-7fae8c9ff000 rw-p 00000000 00:00 0 
+7fae8c9ff000-7fae8ca00000 ---p 00000000 00:00 0 
+7fae8ca00000-7fae8caff000 rw-p 00000000 00:00 0 
+7fae8caff000-7fae8cb00000 ---p 00000000 00:00 0 
+7fae8cb00000-7fae8cbff000 rw-p 00000000 00:00 0 
+7fae8cbff000-7fae8cc00000 ---p 00000000 00:00 0 
+7fae8cc00000-7fae8ccff000 rw-p 00000000 00:00 0 
+7fae8ccff000-7fae8cd00000 ---p 00000000 00:00 0 
+7fae8cd00000-7fae8cdff000 rw-p 00000000 00:00 0 
+7fae8cdff000-7fae8ce00000 ---p 00000000 00:00 0 
+7fae8ce00000-7fae8ceff000 rw-p 00000000 00:00 0 
+7fae8ceff000-7fae8cf00000 ---p 00000000 00:00 0 
+7fae8cf00000-7fae8cfff000 rw-p 00000000 00:00 0 
+7fae8cfff000-7fae8d000000 ---p 00000000 00:00 0 
+7fae8d000000-7fae8d0ff000 rw-p 00000000 00:00 0 
+7fae8d0ff000-7fae8d100000 ---p 00000000 00:00 0 
+7fae8d100000-7fae8d1ff000 rw-p 00000000 00:00 0 
+7fae8d1ff000-7fae8d200000 ---p 00000000 00:00 0 
+7fae8d200000-7fae8d2ff000 rw-p 00000000 00:00 0 
+7fae8d2ff000-7fae8d300000 ---p 00000000 00:00 0 
+7fae8d300000-7fae8d3ff000 rw-p 00000000 00:00 0 
+7fae8d3ff000-7fae8d400000 ---p 00000000 00:00 0 
+7fae8d400000-7fae8d4ff000 rw-p 00000000 00:00 0 
+7fae8d4ff000-7fae8d500000 ---p 00000000 00:00 0 
+7fae8d500000-7fae8d701000 rw-p 00000000 00:00 0 
+7fae8d701000-7fae8d800000 ---p 00000000 00:00 0 
+7fae8d800000-7fae8da00000 rw-p 00000000 00:00 0 
+7fae8da00000-7fae8db00000 ---p 00000000 00:00 0 
+7fae8db00000-7fae8dbff000 rw-p 00000000 00:00 0 
+7fae8dbff000-7fae8dc00000 ---p 00000000 00:00 0 
+7fae8dc00000-7fae8dcff000 rw-p 00000000 00:00 0 
+7fae8dcff000-7fae8dd00000 ---p 00000000 00:00 0 
+7fae8dd0b000-7fae8dd20000 r--p 00000000 08:05 138416                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf
+7fae8dd20000-7fae8dd35000 r--p 00000000 08:05 138416                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf
+7fae8dd35000-7fae8dd36000 ---p 00000000 00:00 0 
+7fae8dd36000-7fae8dd76000 rw-p 00000000 00:00 0 
+7fae8dd76000-7fae8dd77000 ---p 00000000 00:00 0 
+7fae8dd77000-7fae8ddb7000 rw-p 00000000 00:00 0 
+7fae8ddb7000-7fae8ddb8000 ---p 00000000 00:00 0 
+7fae8ddb8000-7fae8ddf8000 rw-p 00000000 00:00 0 
+7fae8ddf8000-7fae8de4f000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae8de4f000-7fae8dea6000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae8dea6000-7fae8defd000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae8defd000-7fae8defe000 ---p 00000000 00:00 0 
+7fae8defe000-7fae8e0fe000 rw-p 00000000 00:00 0 
+7fae8e0fe000-7fae8e0ff000 ---p 00000000 00:00 0 
+7fae8e0ff000-7fae8e2ff000 rw-p 00000000 00:00 0 
+7fae8e2ff000-7fae8e300000 ---p 00000000 00:00 0 
+7fae8e300000-7fae8e500000 rw-p 00000000 00:00 0 
+7fae8e500000-7fae8e5ff000 rw-p 00000000 00:00 0 
+7fae8e5ff000-7fae8e600000 ---p 00000000 
+00:00 0 
+7fae8e614000-7fae8e629000 r--p 00000000 08:05 138416                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf
+7fae8e629000-7fae8e680000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae8e680000-7fae8e700000 r--p 00000000 00:01 2319                       /memfd:mozilla-ipc (deleted)
+7fae8e700000-7fae8e7ff000 rw-p 00000000 00:00 0 
+7fae8e7ff000-7fae8e800000 ---p 00000000 00:00 0 
+7fae8e800000-7fae8e8ff000 rw-p 00000000 00:00 0 
+7fae8e8ff000-7fae8e900000 ---p 00000000 00:00 0 
+7fae8e900000-7fae8e9ff000 rw-p 00000000 00:00 0 
+7fae8e9ff000-7fae8ea00000 ---p 00000000 00:00 0 
+7fae8ea0f000-7fae8ea66000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae8eabe000-7fae8eabf000 ---p 00000000 00:00 0 
+7fae8eabf000-7fae8eaff000 rw-p 00000000 00:00 0 
+7fae8eaff000-7fae8eb00000 ---p 00000000 00:00 0 
+7fae8eb00000-7fae8ed00000 rw-p 00000000 00:00 0 
+7fae8ed00000-7fae8ed01000 ---p 00000000 00:00 0 
+7fae8ed01000-7fae8ef01000 rw-p 00000000 00:00 0 
+7fae8ef01000-7fae8ef02000 ---p 00000000 00:00 0 
+7fae8ef02000-7fae8f102000 rw-p 00000000 00:00 0 
+7fae8f102000-7fae8f103000 ---p 00000000 00:00 0 
+7fae8f103000-7fae8f301000 rw-p 00000000 00:00 0 
+7fae8f301000-7fae8f302000 ---p 00000000 00:00 0 
+7fae8f302000-7fae8f500000 rw-p 00000000 00:00 0 
+7fae8f500000-7fae8f5ff000 rw-p 00000000 00:00 0 
+7fae8f5ff000-7fae8f600000 ---p 00000000 00:00 0 
+7fae8f600000-7fae8f6ff000 rw-p 00000000 00:00 0 
+7fae8f6ff000-7fae8f700000 ---p 00000000 00:00 0 
+7fae8f700000-7fae8f7ff000 rw-p 00000000 00:00 0 
+7fae8f7ff000-7fae8f800000 ---p 00000000 00:00 0 
+7fae8f800000-7fae8f8ff000 rw-p 00000000 00:00 0 
+7fae8f8ff000-7fae8f900000 ---p 00000000 00:00 0 
+7fae8f900000-7fae8f9ff000 rw-p 00000000 00:00 0 
+7fae8f9ff000-7fae8fa00000 ---p 00000000 00:00 0 
+7fae8fa00000-7fae8faff000 rw-p 00000000 00:00 0 
+7fae8faff000-7fae8fb00000 ---p 00000000 00:00 0 
+7fae8fb00000-7fae8fbff000 rw-p 00000000 00:00 0 
+7fae8fbff000-7fae8fc00000 ---p 00000000 00:00 0 
+7fae8fc00000-7fae8fd00000 rw-p 00000000 00:00 0 
+7fae8fd00000-7fae8fe00000 ---p 00000000 00:00 0 
+7fae8fe00000-7fae8feff000 rw-p 00000000 00:00 0 
+7fae8feff000-7fae8ff00000 ---p 00000000 00:00 0 
+7fae8ff30000-7fae8ff31000 ---p 00000000 00:00 0 
+7fae8ff31000-7fae8ff71000 rw-p 00000000 00:00 0 
+7fae90000000-7fae900ff000 rw-p 00000000 00:00 0 
+7fae900ff000-7fae90100000 ---p 00000000 00:00 0 
+7fae90100000-7fae901ff000 rw-p 00000000 00:00 0 
+7fae901ff000-7fae90200000 ---p 00000000 00:00 0 
+7fae90200000-7fae902ff000 rw-p 00000000 00:00 0 
+7fae902ff000-7fae90300000 ---p 00000000 00:00 0 
+7fae90300000-7fae903ff000 rw-p 00000000 00:00 0 
+7fae903ff000-7fae90400000 ---p 00000000 00:00 0 
+7fae90400000-7fae904ff000 rw-p 00000000 00:00 0 
+7fae904ff000-7fae90500000 ---p 00000000 00:00 0 
+7fae90500000-7fae905ff000 rw-p 00000000 00:00 0 
+7fae905ff000-7fae90600000 ---p 00000000 00:00 0 
+7fae90600000-7fae90a01000 rw-p 00000000 00:00 0 
+7fae90a01000-7fae90b00000 ---p 00000000 00:00 0 
+7fae90b00000-7fae90d00000 rw-p 00000000 00:00 0 
+7fae90d00000-7fae90e00000 ---p 00000000 00:00 0 
+7fae90e00000-7fae91000000 rw-p 00000000 00:00 0 
+7fae91000000-7fae91100000 ---p 00000000 00:00 0 
+7fae91100000-7fae911ff000 rw-p 00000000 00:00 0 
+7fae911ff000-7fae91200000 ---p 00000000 00:00 0 
+7fae91200000-7fae912ff000 rw-p 00000000 00:00 0 
+7fae912ff000-7fae91300000 ---p 00000000 00:00 0 
+7fae91301000-7fae91302000 ---p 00000000 00:00 0 
+7fae91302000-7fae91500000 rw-p 00000000 00:00 0 
+7fae91500000-7fae915ff000 rw-p 00000000 00:00 0 
+7fae915ff000-7fae91600000 ---p 00000000 00:00 0 
+7fae91600000-7fae916ff000 rw-p 00000000 00:00 0 
+7fae916ff000-7fae91700000 ---p 00000000 00:00 0 
+7fae91700000-7fae917ff000 rw-p 00000000 00:00 0 
+7fae917ff000-7fae91800000 ---p 00000000 00:00 0 
+7fae91814000-7fae91815000 ---p 00000000 00:00 0 
+7fae91815000-7fae91a15000 rw-p 00000000 00:00 0 
+7fae91a24000-7fae91a33000 rw-s 00000000 00:01 1352                       /memfd:mozilla-ipc (deleted)
+7fae91a33000-7fae91a42000 rw-s 00000000 00:01 1352                       /memfd:mozilla-ipc (deleted)
+7fae91a66000-7fae91a67000 ---p 00000000 00:00 0 
+7fae91a67000-7fae91aa7000 rw-p 00000000 00:00 0 
+7fae91aa7000-7fae91afe000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae91afe000-7fae91aff000 ---p 00000000 00:00 0 
+7fae91aff000-7fae91cff000 rw-p 00000000 00:00 0 
+7fae91cff000-7fae91d00000 ---p 00000000 00:00 0 
+7fae91d00000-7fae91f00000 rw-p 00000000 00:00 0 
+7fae91f00000-7fae92300000 rw-p 00000000 00:00 0 
+7fae92300000-7fae92400000 ---p 00000000 00:00 0 
+7fae92400000-7fae924ff000 rw-p 00000000 00:00 0 
+7fae924ff000-7fae92500000 ---p 00000000 00:00 0 
+7fae92500000-7fae925ff000 rw-p 00000000 00:00 0 
+7fae925ff000-7fae92600000 ---p 00000000 00:00 0 
+7fae92608000-7fae9265f000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae9265f000-7fae926b6000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae926b6000-7fae9270d000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae9270d000-7fae92764000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae92764000-7fae92765000 ---p 00000000 00:00 0 
+7fae92765000-7fae92965000 rw-p 00000000 00:00 0 
+7fae92965000-7fae92966000 ---p 00000000 00:00 0 
+7fae92966000-7fae92b66000 rw-p 00000000 00:00 0 
+7fae92b78000-7fae92ba4000 rw-s 00000000 00:01 362                        /memfd:mozilla-ipc (deleted)
+7fae92ba4000-7fae92bfb000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae92bfb000-7fae92c52000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae92c52000-7fae92ca9000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae92ca9000-7fae92d00000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7fae92d00000-7fae96d00000 rw-s 00000000 00:01 1256                       /memfd:pulseaudio (deleted)
+7fae96d00000-7fae9ad00000 rw-s 00000000 00:01 3078                       /memfd:pulseaudio (deleted)
+7fae9ad00000-7fae9ed00000 rw-s 00000000 00:01 2271                       /memfd:pulseaudio (deleted)
+7fae9ed00000-7faea2d00000 rw-s 00000000 00:01 2271                       /memfd:pulseaudio (deleted)
+7faea2d00000-7faea2dff000 rw-p 00000000 00:00 0 
+7faea2dff000-7faea2e00000 ---p 00000000 00:00 0 
+7faea2e25000-7faea2e26000 ---p 00000000 00:00 0 
+7faea2e26000-7faea2e66000 rw-p 00000000 00:00 0 
+7faea2e66000-7faea2ef0000 rw-s 00000000 00:01 3464                       /memfd:mozilla-ipc (deleted)
+7faea2f3d000-7faea2f3e000 ---p 00000000 00:00 0 
+7faea2f3e000-7faea2f7e000 rw-p 00000000 00:00 0 
+7faea2f7e000-7faea2f7f000 ---p 00000000 00:00 0 
+7faea2f7f000-7faea2fbf000 rw-p 00000000 00:00 0 
+7faea2fbf000-7faea2fc0000 ---p 00000000 00:00 0 
+7faea2fc0000-7faea3000000 rw-p 00000000 00:00 0 
+7faea3000000-7faea30ff000 rw-p 00000000 00:00 0 
+7faea30ff000-7faea3100000 ---p 00000000 00:00 0 
+7faea3100000-7faea31ff000 rw-p 00000000 00:00 0 
+7faea31ff000-7faea3200000 ---p 00000000 00:00 0 
+7faea3200000-7faea32ff000 rw-p 00000000 00:00 0 
+7faea32ff000-7faea3300000 ---p 00000000 00:00 0 
+7faea3300000-7faea33ff000 rw-p 00000000 00:00 0 
+7faea33ff000-7faea3400000 ---p 00000000 00:00 0 
+7faea3400000-7faea34ff000 rw-p 00000000 00:00 0 
+7faea34ff000-7faea3501000 ---p 00000000 00:00 0 
+7faea3501000-7faea3541000 rw-p 00000000 00:00 0 
+7faea3541000-7faea3542000 ---p 00000000 00:00 0 
+7faea3542000-7faea3582000 rw-p 00000000 00:00 0 
+7faea3582000-7faea3587000 rw-s 00000000 00:01 65546                      /SYSV00000000 (deleted)
+7faea35a1000-7faea35b7000 r--p 00000000 08:05 138415                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf
+7faea35b7000-7faea35cd000 r--p 00000000 08:05 138415                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf
+7faea35cd000-7faea35d3000 rw-s 00000000 00:01 2295                       /memfd:mozilla-ipc (deleted)
+7faea35d3000-7faea35d9000 rw-s 00000000 00:01 2293                       /memfd:mozilla-ipc (deleted)
+7faea35d9000-7faea35ee000 r--p 00000000 08:05 138416                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf
+7faea35ee000-7faea35fd000 rw-s 00000000 00:01 185                        /memfd:mozilla-ipc (deleted)
+7faea3600000-7faea3605000 rw-s 00000000 00:01 65545                      /SYSV00000000 (deleted)
+7faea3605000-7faea3657000 r--p 00000000 08:05 529660                     /usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf
+7faea3657000-7faea36a9000 r--p 00000000 08:05 529660                     /usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf
+7faea36a9000-7faea36fb000 r--p 00000000 08:05 529660                     /usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf
+7faea36fb000-7faea36fc000 ---p 00000000 00:00 0 
+7faea36fc000-7faea373c000 rw-p 00000000 00:00 0 
+7faea373c000-7faea373d000 ---p 00000000 00:00 0 
+7faea373d000-7faea377d000 rw-p 00000000 00:00 0 
+7faea377d000-7faea377e000 ---p 00000000 00:00 0 
+7faea377e000-7faea37be000 rw-p 00000000 00:00 0 
+7faea37be000-7faea37bf000 ---p 00000000 00:00 0 
+7faea37bf000-7faea39bf000 rw-p 00000000 00:00 0 
+7faea39bf000-7faea39c0000 ---p 00000000 00:00 0 
+7faea39c0000-7faea3a00000 rw-p 00000000 00:00 0 
+7faea3a00000-7faea3aff000 rw-p 00000000 00:00 0 
+7faea3aff000-7faea3b00000 ---p 00000000 00:00 0 
+7faea3b00000-7faea3bff000 rw-p 00000000 00:00 0 
+7faea3bff000-7faea3c00000 ---p 00000000 00:00 0 
+7faea3c00000-7faea3cff000 rw-p 00000000 00:00 0 
+7faea3cff000-7faea3d00000 ---p 00000000 00:00 0 
+7faea3d00000-7faea3dff000 rw-p 00000000 00:00 0 
+7faea3dff000-7faea3e00000 ---p 00000000 00:00 0 
+7faea3e00000-7faea3eff000 rw-p 00000000 00:00 0 
+7faea3eff000-7faea3f00000 ---p 00000000 00:00 0 
+7faea3f00000-7faea3fff000 rw-p 00000000 00:00 0 
+7faea3fff00
+0-7faea4000000 ---p 00000000 00:00 0 
+7faea4023000-7faea4038000 r--p 00000000 08:05 138416                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf
+7faea4038000-7faea4039000 ---p 00000000 00:00 0 
+7faea4039000-7faea4079000 rw-p 00000000 00:00 0 
+7faea4079000-7faea407a000 ---p 00000000 00:00 0 
+7faea407a000-7faea487a000 rw-p 00000000 00:00 0 
+7faea487a000-7faea4897000 r--p 00000000 08:05 1079461                    /usr/lib/firefox/libnssckbi.so
+7faea4897000-7faea48a4000 r-xp 0001d000 08:05 1079461                    /usr/lib/firefox/libnssckbi.so
+7faea48a4000-7faea48e4000 r--p 0002a000 08:05 1079461                    /usr/lib/firefox/libnssckbi.so
+7faea48e4000-7faea48e5000 ---p 0006a000 08:05 1079461                    /usr/lib/firefox/libnssckbi.so
+7faea48e5000-7faea48f6000 r--p 0006a000 08:05 1079461                    /usr/lib/firefox/libnssckbi.so
+7faea48f6000-7faea4900000 rw-p 0007b000 08:05 1079461                    /usr/lib/firefox/libnssckbi.so
+7faea4900000-7faea49ff000 rw-p 00000000 00:00 0 
+7faea49ff000-7faea4a00000 ---p 00000000 00:00 0 
+7faea4a01000-7faea4a09000 rw-s 00000000 00:01 182                        /memfd:mozilla-ipc (deleted)
+7faea4a09000-7faea4a1e000 r--p 00000000 08:05 138416                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf
+7faea4a1e000-7faea4a2d000 rw-s 00000000 00:01 209                        /memfd:mozilla-ipc (deleted)
+7faea4a2d000-7faea4a31000 r--p 00000000 08:05 1051783                    /usr/lib/firefox/libfreeblpriv3.so
+7faea4a31000-7faea4ac5000 r-xp 00004000 08:05 1051783                    /usr/lib/firefox/libfreeblpriv3.so
+7faea4ac5000-7faea4af5000 r--p 00098000 08:05 1051783                    /usr/lib/firefox/libfreeblpriv3.so
+7faea4af5000-7faea4af6000 ---p 000c8000 08:05 1051783                    /usr/lib/firefox/libfreeblpriv3.so
+7faea4af6000-7faea4af8000 r--p 000c8000 08:05 1051783                    /usr/lib/firefox/libfreeblpriv3.so
+7faea4af8000-7faea4af9000 rw-p 000ca000 08:05 1051783                    /usr/lib/firefox/libfreeblpriv3.so
+7faea4af9000-7faea4afd000 rw-p 00000000 00:00 0 
+7faea4afd000-7faea4afe000 ---p 00000000 00:00 0 
+7faea4afe000-7faea52fe000 rw-p 00000000 00:00 0 
+7faea52fe000-7faea52ff000 ---p 00000000 00:00 0 
+7faea52ff000-7faea5aff000 rw-p 00000000 00:00 0 
+7faea5aff000-7faea5b00000 ---p 00000000 00:00 0 
+7faea5b00000-7faea6300000 rw-p 00000000 00:00 0 
+7faea6300000-7faea63ff000 rw-p 00000000 00:00 0 
+7faea63ff000-7faea6401000 ---p 00000000 00:00 0 
+7faea6401000-7faea640b000 rw-p 00000000 00:00 0 
+7faea640b000-7faea6421000 r--p 00000000 08:05 138415                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf
+7faea6421000-7faea6422000 ---p 00000000 00:00 0 
+7faea6422000-7faea6462000 rw-p 00000000 00:00 0 
+7faea6462000-7faea64bf000 r--p 00000000 08:05 271104                     /usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf
+7faea64bf000-7faea64c0000 ---p 00000000 00:00 0 
+7faea64c0000-7faea6500000 rw-p 00000000 00:00 0 
+7faea6500000-7faea65ff000 rw-p 00000000 00:00 0 
+7faea65ff000-7faea6600000 ---p 00000000 00:00 0 
+7faea6600000-7faea66ff000 rw-p 00000000 00:00 0 
+7faea66ff000-7faea6700000 ---p 00000000 00:00 0 
+7faea6700000-7faea67ff000 rw-p 00000000 00:00 0 
+7faea67ff000-7faea6800000 ---p 00000000 00:00 0 
+7faea6819000-7faea681a000 ---p 00000000 00:00 0 
+7faea681a000-7faea685a000 rw-p 00000000 00:00 0 
+7faea685a000-7faea685b000 ---p 00000000 00:00 0 
+7faea685b000-7faea689b000 rw-p 00000000 00:00 0 
+7faea68bf000-7faea68c0000 ---p 00000000 00:00 0 
+7faea68c0000-7faea6900000 rw-p 00000000 00:00 0 
+7faea6900000-7faea69ff000 rw-p 00000000 00:00 0 
+7faea69ff000-7faea6a00000 ---p 00000000 00:00 0 
+7faea6a00000-7faea6b00000 rw-p 00000000 00:00 0 
+7faea6b00000-7faea6c00000 ---p 00000000 00:00 0 
+7faea6c00000-7faea6e00000 rw-p 00000000 00:00 0 
+7faea6e00000-7faea6f00000 ---p 00000000 00:00 0 
+7faea6f00000-7faea7100000 rw-p 00000000 00:00 0 
+7faea7100000-7faea7200000 ---p 00000000 00:00 0 
+7faea7200000-7faea7401000 rw-p 00000000 00:00 0 
+7faea7401000-7faea7500000 ---p 00000000 00:00 0 
+7faea7500000-7faea75ff000 rw-p 00000000 00:00 0 
+7faea75ff000-7faea7600000 ---p 00000000 00:00 0 
+7faea7600000-7faea76ff000 rw-p 00000000 00:00 0 
+7faea76ff000-7faea7700000 ---p 00000000 00:00 0 
+7faea7700000-7faea77ff000 rw-p 00000000 00:00 0 
+7faea77ff000-7faea7800000 ---p 00000000 00:00 0 
+7faea7800000-7faea78ff000 rw-p 00000000 00:00 0 
+7faea78ff000-7faea7900000 ---p 00000000 00:00 0 
+7faea7900000-7faea79ff000 rw-p 00000000 00:00 0 
+7faea79ff000-7faea7a00000 ---p 00000000 00:00 0 
+7faea7a00000-7faea7aff000 rw-p 00000000 00:00 0 
+7faea7aff000-7faea7b00000 ---p 00000000 00:00 0 
+7faea7b00000-7faea7bff000 rw-p 00000000 00:00 0 
+7faea7bff000-7faea7c00000 ---p 00000000 00:00 0 
+7faea7c00000-7faea7cff000 rw-p 00000000 00:00 0 
+7faea7cff000-7faea7d00000 ---p 00000000 00:00 0 
+7faea7d00000-7faea7dff000 rw-p 00000000 00:00 0 
+7faea7dff000-7faea7e00000 ---p 00000000 00:00 0 
+7faea7e00000-7faea7eff000 rw-p 00000000 00:00 0 
+7faea7eff000-7faea7f00000 ---p 00000000 00:00 0 
+7faea7f00000-7faea7fff000 rw-p 00000000 00:00 0 
+7faea7fff000-7faea8000000 ---p 00000000 00:00 0 
+7faea8002000-7faea8003000 rw-s 00000000 00:01 191                        /memfd:mozilla-ipc (deleted)
+7faea8003000-7faea8004000 rw-s 00000000 00:01 190                        /memfd:mozilla-ipc (deleted)
+7faea8004000-7faea8007000 r--s 00000000 00:01 2291                       /memfd:mozilla-ipc (deleted)
+7faea8007000-7faea8014000 rw-s 00000000 00:01 32801                      /SYSV00000000 (deleted)
+7faea8014000-7faea801f000 r--p 00000000 08:05 288600                     /usr/share/locale-langpack/ru/LC_MESSAGES/evince.mo
+7faea801f000-7faea8020000 ---p 00000000 00:00 0 
+7faea8020000-7faea8060000 rw-p 00000000 00:00 0 
+7faea8064000-7faea807a000 r--p 00000000 08:05 138415                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf
+7faea807a000-7faea807b000 ---p 00000000 00:00 0 
+7faea807b000-7faea80bb000 rw-p 00000000 00:00 0 
+7faea80bb000-7faea80bc000 ---p 00000000 00:00 0 
+7faea80bc000-7faea80fc000 rw-p 00000000 00:00 0 
+7faea813d000-7faea813e000 ---p 00000000 00:00 0 
+7faea813e000-7faea817e000 rw-p 00000000 00:00 0 
+7faea8186000-7faea8187000 ---p 00000000 00:00 0 
+7faea8187000-7faea81c7000 rw-p 00000000 00:00 0 
+7faea81c7000-7faea81d6000 rw-s 00000000 00:01 1339                       /memfd:mozilla-ipc (deleted)
+7faea8200000-7faea82ff000 rw-p 00000000 00:00 0 
+7faea82ff000-7faea8300000 ---p 00000000 00:00 0 
+7faea8300000-7faea83ff000 rw-p 00000000 00:00 0 
+7faea83ff000-7faea8400000 ---p 00000000 00:00 0 
+7faea8400000-7faea84ff000 rw-p 00000000 00:00 0 
+7faea84ff000-7faea8500000 ---p 00000000 00:00 0 
+7faea8500000-7faea85ff000 rw-p 00000000 00:00 0 
+7faea85ff000-7faea8600000 ---p 00000000 00:00 0 
+7faea8600000-7faea9600000 rw-p 00000000 00:00 0 
+7faea9600000-7faea9700000 ---p 00000000 00:00 0 
+7faea9700000-7faea9b00000 rw-p 00000000 00:00 0 
+7faea9b00000-7faea9c00000 ---p 00000000 00:00 0 
+7faea9c00000-7faeaa000000 rw-p 00000000 00:00 0 
+7faeaa000000-7faeaa100000 ---p 00000000 00:00 0 
+7faeaa100000-7faeab100000 rw-p 00000000 00:00 0 
+7faeab100000-7faeab200000 ---p 00000000 00:00 0 
+7faeab200000-7faeab2ff000 rw-p 00000000 00:00 0 
+7faeab2ff000-7faeab300000 ---p 00000000 00:00 0 
+7faeab300000-7faeab3ff000 rw-p 00000000 00:00 0 
+7faeab3ff000-7faeab400000 ---p 00000000 00:00 0 
+7faeab400000-7faeab4ff000 rw-p 00000000 00:00 0 
+7faeab4ff000-7faeab500000 ---p 00000000 00:00 0 
+7faeab500000-7faeab5ff000 rw-p 00000000 00:00 0 
+7faeab5ff000-7faeab600000 ---p 00000000 00:00 0 
+7faeab600000-7faeab6ff000 rw-p 00000000 00:00 0 
+7faeab6ff000-7faeab700000 ---p 00000000 00:00 0 
+7faeab700000-7faeab7ff000 rw-p 00000000 00:00 0 
+7faeab7ff000-7faeab800000 ---p 00000000 00:00 0 
+7faeab800000-7faeab8ff000 rw-p 00000000 00:00 0 
+7faeab8ff000-7faeab900000 ---p 00000000 00:00 0 
+7faeab900000-7faeab9ff000 rw-p 00000000 00:00 0 
+7faeab9ff000-7faeaba00000 ---p 00000000 00:00 0 
+7faeaba00000-7faeabaff000 rw-p 00000000 00:00 0 
+7faeabaff000-7faeabb00000 ---p 00000000 00:00 0 
+7faeabb00000-7faeabbff000 rw-p 00000000 00:00 0 
+7faeabbff000-7faeabc00000 ---p 00000000 00:00 0 
+7faeabc00000-7faeabcff000 rw-p 00000000 00:00 0 
+7faeabcff000-7faeabd00000 ---p 00000000 00:00 0 
+7faeabd00000-7faeabdff000 rw-p 00000000 00:00 0 
+7faeabdff000-7faeabe00000 ---p 00000000 00:00 0 
+7faeabe00000-7faeabeff000 rw-p 00000000 00:00 0 
+7faeabeff000-7faeabf00000 ---p 00000000 00:00 0 
+7faeabf00000-7faeabfff000 rw-p 00000000 00:00 0 
+7faeabfff000-7faeac000000 ---p 00000000 00:00 0 
+7faeac000000-7faeac0ff000 rw-p 00000000 00:00 0 
+7faeac0ff000-7faeac100000 ---p 00000000 00:00 0 
+7faeac100000-7faeac1ff000 rw-p 00000000 00:00 0 
+7faeac1ff000-7faeac200000 ---p 00000000 00:00 0 
+7faeac200000-7faeac2ff000 rw-p 00000000 00:00 0 
+7faeac2ff000-7faeac300000 ---p 00000000 00:00 0 
+7faeac300000-7faeac3ff000 rw-p 00000000 00:00 0 
+7faeac3ff000-7faeac400000 ---p 00000000 00:00 0 
+7faeac400000-7faeac4ff000 rw-p 00000000 00:00 0 
+7faeac4ff000-7faeac500000 ---p 00000000 00:00 0 
+7faeac500000-7faeac5ff000 rw-p 00000000 00:00 0 
+7faeac5ff000-7faeac600000 ---p 00000000 00:00 0 
+7faeac600000-7faeac601000 r--s 00000000 00:01 189                        /memfd:mozilla-ipc (deleted)
+7faeac601000-7faeac604000 r--s 00000000 00:01 2288                       /memfd:mozilla-ipc (deleted)
+7faeac607000-7faeac608000 ---p 00000000 00:00 0 
+7faeac608000-7faeac612000 rw-p 00000000 00:00 0 
+7faeac612000-7faeac628000 r--p 00000000 08:05 138415                     /usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf
+7faeac628000-7faeac629000 ---p 00000000 00:00 0 
+7faeac629000-7faeac669000 rw-p 00000000 00:00 0 
+7faeac669000-7faeac66a000 ---p 00000000 00:00 0 
+7faeac66a000-7faeac6aa000 rw-p 00000000 00:00 0 
+7faeac6aa000-7faeac6b0000 r--p 00000000 08:05 1079473                    /usr/lib/firefox/libsoftokn3.so
+7faeac6b0000-7faeac6e2000 r-xp 00006000 08:05 1079473                    /usr/lib/firefox/libsoftok
+n3.so
+7faeac6e2000-7faeac6f7000 r--p 00038000 08:05 1079473                    /usr/lib/firefox/libsoftokn3.so
+7faeac6f7000-7faeac6f8000 ---p 0004d000 08:05 1079473                    /usr/lib/firefox/libsoftokn3.so
+7faeac6f8000-7faeac6f9000 r--p 0004d000 08:05 1079473                    /usr/lib/firefox/libsoftokn3.so
+7faeac6f9000-7faeac6fb000 rw-p 0004e000 08:05 1079473                    /usr/lib/firefox/libsoftokn3.so
+7faeac6fb000-7faeac752000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7faeac752000-7faeac7a9000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7faeac7a9000-7faeac800000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7faeac800000-7faeac8ff000 rw-p 00000000 00:00 0 
+7faeac8ff000-7faeac900000 ---p 00000000 00:00 0 
+7faeac900000-7faeac901000 r--s 00000000 00:01 188                        /memfd:mozilla-ipc (deleted)
+7faeac901000-7faeac904000 r--s 00000000 00:01 2287                       /memfd:mozilla-ipc (deleted)
+7faeac90c000-7faeac90f000 r--s 00000000 00:01 3357                       /memfd:mozilla-ipc (deleted)
+7faeac90f000-7faeac910000 ---p 00000000 00:00 0 
+7faeac910000-7faeac950000 rw-p 00000000 00:00 0 
+7faeac950000-7faeac9a7000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7faeac9a7000-7faeac9fe000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7faeac9fe000-7faeac9ff000 ---p 00000000 00:00 0 
+7faeac9ff000-7faeacbff000 rw-p 00000000 00:00 0 
+7faeacbff000-7faeacc00000 ---p 00000000 00:00 0 
+7faeacc00000-7faeaceff000 rw-p 00000000 00:00 0 
+7faeaceff000-7faeacf00000 ---p 00000000 00:00 0 
+7faeacf00000-7faeacf01000 r--s 00000000 00:01 1286                       /memfd:mozilla-ipc (deleted)
+7faeacf01000-7faeacf02000 r--s 00000000 00:01 1272                       /memfd:mozilla-ipc (deleted)
+7faeacf02000-7faeacf05000 r--s 00000000 00:01 2281                       /memfd:mozilla-ipc (deleted)
+7faeacf05000-7faeacf08000 r--s 00000000 00:01 2280                       /memfd:mozilla-ipc (deleted)
+7faeacf0a000-7faeacf12000 r--p 00000000 08:05 288608                     /usr/share/locale-langpack/ru/LC_MESSAGES/file-roller.mo
+7faeacf12000-7faeacf18000 r--p 00000000 00:01 1267                       /memfd:mozilla-ipc (deleted)
+7faeacf18000-7faeacf19000 r--s 00000000 00:01 1285                       /memfd:mozilla-ipc (deleted)
+7faeacf19000-7faeacf1b000 r--s 00000000 00:01 3363                       /memfd:mozilla-ipc (deleted)
+7faeacf1c000-7faeacf1d000 rw-s 00000000 00:01 2292                       /memfd:mozilla-ipc (deleted)
+7faeacf1d000-7faeacf1e000 rw-s 00000000 00:01 3362                       /memfd:mozilla-ipc (deleted)
+7faeacf1e000-7faeacf1f000 rw-s 00000000 00:01 1279                       /memfd:mozilla-ipc (deleted)
+7faeacf1f000-7faeacf20000 rw-s 00000000 00:01 1278                       /memfd:mozilla-ipc (deleted)
+7faeacf20000-7faeacf21000 rw-s 00000000 00:01 1277                       /memfd:mozilla-ipc (deleted)
+7faeacf22000-7faeacf27000 r--s 00000000 00:01 184                        /memfd:mozilla-ipc (deleted)
+7faeacf27000-7faeacf28000 ---p 00000000 00:00 0 
+7faeacf28000-7faeacf68000 rw-p 00000000 00:00 0 
+7faeacf68000-7faeacfbf000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7faeacfbf000-7faeacfc0000 ---p 00000000 00:00 0 
+7faeacfc0000-7faead000000 rw-p 00000000 00:00 0 
+7faead000000-7faead0ff000 rw-p 00000000 00:00 0 
+7faead0ff000-7faead100000 ---p 00000000 00:00 0 
+7faead100000-7faead101000 rw-s 00000000 00:01 1271                       /memfd:mozilla-ipc (deleted)
+7faead104000-7faead105000 rw-s 00000000 00:01 256                        /memfd:mozilla-ipc (deleted)
+7faead105000-7faead10b000 r--p 00000000 00:01 1263                       /memfd:mozilla-ipc (deleted)
+7faead10b000-7faead13d000 r--p 00000000 08:05 136070                     /usr/share/glib-2.0/schemas/gschemas.compiled
+7faead13d000-7faead13e000 ---p 00000000 00:00 0 
+7faead13e000-7faead17e000 rw-p 00000000 00:00 0 
+7faead17e000-7faead17f000 ---p 00000000 00:00 0 
+7faead17f000-7faead1bf000 rw-p 00000000 00:00 0 
+7faead1bf000-7faead1c0000 ---p 00000000 00:00 0 
+7faead1c0000-7faead200000 rw-p 00000000 00:00 0 
+7faead200000-7faead2ff000 rw-p 00000000 00:00 0 
+7faead2ff000-7faead300000 ---p 00000000 00:00 0 
+7faead300000-7faead3ff000 rw-p 00000000 00:00 0 
+7faead3ff000-7faead400000 ---p 00000000 00:00 0 
+7faead400000-7faead4ff000 rw-p 00000000 00:00 0 
+7faead4ff000-7faead500000 ---p 00000000 00:00 0 
+7faead500000-7faead5ff000 rw-p 00000000 00:00 0 
+7faead5ff000-7faead600000 ---p 00000000 00:00 0 
+7faead600000-7faead6ff000 rw-p 00000000 00:00 0 
+7faead6ff000-7faead700000 ---p 00000000 00:00 0 
+7faead700000-7faead7ff000 rw-p 00000000 00:00 0 
+7faead7ff000-7faead800000 ---p 00000000 00:00 0 
+7faead800000-7faead8ff000 rw-p 00000000 00:00 0 
+7faead8ff000-7faead900000 ---p 00000000 00:00 0 
+7faead900000-7faead9ff000 rw-p 00000000 00:00 0 
+7faead9ff000-7faeada00000 ---p 00000000 00:00 0 
+7faeada00000-7faeadaff000 rw-p 00000000 00:00 0 
+7faeadaff000-7faeadb00000 ---p 00000000 00:00 0 
+7faeadb00000-7faeadbff000 rw-p 00000000 00:00 0 
+7faeadbff000-7faeadc00000 ---p 00000000 00:00 0 
+7faeadc00000-7faeadcff000 rw-p 00000000 00:00 0 
+7faeadcff000-7faeadd00000 ---p 00000000 00:00 0 
+7faeadd00000-7faeaddff000 rw-p 00000000 00:00 0 
+7faeaddff000-7faeade00000 ---p 00000000 00:00 0 
+7faeade00000-7faeadeff000 rw-p 00000000 00:00 0 
+7faeadeff000-7faeadf00000 ---p 00000000 00:00 0 
+7faeadf00000-7faeadfff000 rw-p 00000000 00:00 0 
+7faeadfff000-7faeae000000 ---p 00000000 00:00 0 
+7faeae000000-7faeae0ff000 rw-p 00000000 00:00 0 
+7faeae0ff000-7faeae100000 ---p 00000000 00:00 0 
+7faeae100000-7faeae1ff000 rw-p 00000000 00:00 0 
+7faeae1ff000-7faeae200000 ---p 00000000 00:00 0 
+7faeae200000-7faeae2ff000 rw-p 00000000 00:00 0 
+7faeae2ff000-7faeae300000 ---p 00000000 00:00 0 
+7faeae300000-7faeae3ff000 rw-p 00000000 00:00 0 
+7faeae3ff000-7faeae400000 ---p 00000000 00:00 0 
+7faeae400000-7faeae4ff000 rw-p 00000000 00:00 0 
+7faeae4ff000-7faeae500000 ---p 00000000 00:00 0 
+7faeae501000-7faeae504000 r--p 00000000 00:01 1268                       /memfd:mozilla-ipc (deleted)
+7faeae504000-7faeae505000 r--p 00000000 00:01 1266                       /memfd:mozilla-ipc (deleted)
+7faeae505000-7faeae506000 ---p 00000000 00:00 0 
+7faeae506000-7faeae510000 rw-p 00000000 00:00 0 
+7faeae510000-7faeae527000 r--p 00000000 08:05 288836                     /usr/share/locale-langpack/ru/LC_MESSAGES/pulseaudio.mo
+7faeae527000-7faeae528000 ---p 00000000 00:00 0 
+7faeae528000-7faeae568000 rw-p 00000000 00:00 0 
+7faeae568000-7faeae569000 ---p 00000000 00:00 0 
+7faeae569000-7faeae5a9000 rw-p 00000000 00:00 0 
+7faeae5a9000-7faeae5aa000 ---p 00000000 00:00 0 
+7faeae5aa000-7faeae5ea000 rw-p 00000000 00:00 0 
+7faeae5ea000-7faeae5eb000 ---p 00000000 00:00 0 
+7faeae5eb000-7faeae62b000 rw-p 00000000 00:00 0 
+7faeae62f000-7faeae630000 ---p 00000000 00:00 0 
+7faeae630000-7faeae63a000 rw-p 00000000 00:00 0 
+7faeae641000-7faeae642000 rw-s 00000000 00:01 2347                       /memfd:mozilla-ipc (deleted)
+7faeae65f000-7faeae66c000 rw-s 00000000 00:01 65536                      /SYSV00000000 (deleted)
+7faeae66e000-7faeae675000 rw-s 00000000 00:01 3488                       /memfd:mozilla-ipc (deleted)
+7faeae67d000-7faeae685000 r--s 00000000 08:05 425206                     /home/andrey/.local/share/gvfs-metadata/home-4a2933ae.log (deleted)
+7faeae689000-7faeae68a000 rw-s 00000000 00:01 3487                       /memfd:mozilla-ipc (deleted)
+7faeae68d000-7faeae68e000 r--p 00000000 00:01 1265                       /memfd:mozilla-ipc (deleted)
+7faeae68e000-7faeae68f000 r--p 00000000 00:01 1264                       /memfd:mozilla-ipc (deleted)
+7faeae68f000-7faeae690000 r--s 00000000 00:01 2272                       /memfd:mozilla-ipc (deleted)
+7faeae690000-7faeae695000 r--s 00000000 00:01 1261                       /memfd:mozilla-ipc (deleted)
+7faeae695000-7faeae697000 r--p 00000000 08:05 398493                     /usr/lib/x86_64-linux-gnu/libcanberra-0.30/libcanberra-pulse.so
+7faeae697000-7faeae69b000 r-xp 00002000 08:05 398493                     /usr/lib/x86_64-linux-gnu/libcanberra-0.30/libcanberra-pulse.so
+7faeae69b000-7faeae69c000 r--p 00006000 08:05 398493                     /usr/lib/x86_64-linux-gnu/libcanberra-0.30/libcanberra-pulse.so
+7faeae69c000-7faeae69d000 ---p 00007000 08:05 398493                     /usr/lib/x86_64-linux-gnu/libcanberra-0.30/libcanberra-pulse.so
+7faeae69d000-7faeae69e000 r--p 00007000 08:05 398493                     /usr/lib/x86_64-linux-gnu/libcanberra-0.30/libcanberra-pulse.so
+7faeae69e000-7faeae69f000 rw-p 00008000 08:05 398493                     /usr/lib/x86_64-linux-gnu/libcanberra-0.30/libcanberra-pulse.so
+7faeae69f000-7faeae6b0000 r--p 00000000 00:01 2262                       /memfd:mozilla-ipc (deleted)
+7faeae6b0000-7faeae6bf000 rw-s 00000000 00:01 2251                       /memfd:mozilla-ipc (deleted)
+7faeae6bf000-7faeae6c0000 ---p 00000000 00:00 0 
+7faeae6c0000-7faeae700000 rw-p 00000000 00:00 0 
+7faeae700000-7faeae7ff000 rw-p 00000000 00:00 0 
+7faeae7ff000-7faeae800000 ---p 00000000 00:00 0 
+7faeae801000-7faeae802000 ---p 00000000 00:00 0 
+7faeae802000-7faeaea00000 rw-p 00000000 00:00 0 
+7faeaea00000-7faeaeaff000 rw-p 00000000 00:00 0 
+7faeaeaff000-7faeaeb00000 ---p 00000000 00:00 0 
+7faeaeb00000-7faeaebff000 rw-p 00000000 00:00 0 
+7faeaebff000-7faeaec00000 ---p 00000000 00:00 0 
+7faeaec00000-7faeaecff000 rw-p 00000000 00:00 0 
+7faeaecff000-7faeaed01000 ---p 00000000 00:00 0 
+7faeaed01000-7faeaed41000 rw-p 00000000 00:00 0 
+7faeaed41000-7faeaed42000 r--s 00000000 00:01 2290                       /memfd:mozilla-ipc (deleted)
+7faeaed42000-7faeaed45000 r--s 00000000 00:01 2289                       /memfd:mozilla-ipc (deleted)
+7faeaed45000-7faeaed46000 rw-s 00000000 00
+:01 181                        /memfd:mozilla-ipc (deleted)
+7faeaed46000-7faeaed53000 rw-s 00000000 00:01 32800                      /SYSV00000000 (deleted)
+7faeaed53000-7faeaed62000 rw-s 00000000 00:01 180                        /memfd:mozilla-ipc (deleted)
+7faeaed62000-7faeaed71000 rw-s 00000000 00:01 180                        /memfd:mozilla-ipc (deleted)
+7faeaed71000-7faeaed72000 ---p 00000000 00:00 0 
+7faeaed72000-7faeaed7c000 rw-p 00000000 00:00 0 
+7faeaed7c000-7faeaed7d000 ---p 00000000 00:00 0 
+7faeaed7d000-7faeaedbd000 rw-p 00000000 00:00 0 
+7faeaedbd000-7faeaedbf000 rw-s 00000000 00:01 3503                       /memfd:mozilla-ipc (deleted)
+7faeaedbf000-7faeaedc0000 rw-s 00000000 00:01 3502                       /memfd:mozilla-ipc (deleted)
+7faeaedc0000-7faeaedc1000 rw-s 00000000 00:01 3501                       /memfd:mozilla-ipc (deleted)
+7faeaedc2000-7faeaedc3000 rw-s 00000000 00:01 373                        /memfd:mozilla-ipc (deleted)
+7faeaedc4000-7faeaedc5000 rw-s 00000000 00:01 371                        /memfd:mozilla-ipc (deleted)
+7faeaedc5000-7faeaedc6000 rw-s 00000000 00:01 370                        /memfd:mozilla-ipc (deleted)
+7faeaedc6000-7faeaedc7000 rw-s 00000000 00:01 369                        /memfd:mozilla-ipc (deleted)
+7faeaedc7000-7faeaedc8000 rw-s 00000000 00:01 368                        /memfd:mozilla-ipc (deleted)
+7faeaedc8000-7faeaedd5000 rw-s 00000000 00:01 32831                      /SYSV00000000 (deleted)
+7faeaedd5000-7faeaede4000 rw-s 00000000 00:01 240                        /memfd:mozilla-ipc (deleted)
+7faeaede4000-7faeaedf3000 rw-s 00000000 00:01 240                        /memfd:mozilla-ipc (deleted)
+7faeaedf3000-7faeaedf4000 ---p 00000000 00:00 0 
+7faeaedf4000-7faeaedfe000 rw-p 00000000 00:00 0 
+7faeaedfe000-7faeaedff000 ---p 00000000 00:00 0 
+7faeaedff000-7faeaefff000 rw-p 00000000 00:00 0 
+7faeaefff000-7faeaf000000 ---p 00000000 00:00 0 
+7faeaf000000-7faeaf8ff000 rw-p 00000000 00:00 0 
+7faeaf8ff000-7faeaf900000 ---p 00000000 00:00 0 
+7faeaf900000-7faeaf907000 r--s 00000000 00:01 1259                       /memfd:mozilla-ipc (deleted)
+7faeaf907000-7faeaf916000 rw-s 00000000 00:01 2251                       /memfd:mozilla-ipc (deleted)
+7faeaf916000-7faeaf917000 rw-s 00000000 00:01 367                        /memfd:mozilla-ipc (deleted)
+7faeaf917000-7faeaf918000 rw-s 00000000 00:01 366                        /memfd:mozilla-ipc (deleted)
+7faeaf918000-7faeaf91a000 rw-s 00000000 00:01 365                        /memfd:mozilla-ipc (deleted)
+7faeaf921000-7faeaf923000 rw-s 00000000 00:01 364                        /memfd:mozilla-ipc (deleted)
+7faeaf923000-7faeaf924000 rw-s 00000000 00:01 3500                       /memfd:mozilla-ipc (deleted)
+7faeaf924000-7faeaf925000 rw-s 00000000 00:01 3499                       /memfd:mozilla-ipc (deleted)
+7faeaf935000-7faeaf937000 rw-s 00000000 00:01 2414                       /memfd:mozilla-ipc (deleted)
+7faeaf942000-7faeaf94a000 rw-s 00000000 00:01 2358                       /memfd:mozilla-ipc (deleted)
+7faeaf94a000-7faeaf94b000 rw-s 00000000 00:01 3498                       /memfd:mozilla-ipc (deleted)
+7faeaf95b000-7faeaf96a000 rw-s 00000000 00:01 231                        /memfd:mozilla-ipc (deleted)
+7faeaf96a000-7faeaf979000 rw-s 00000000 00:01 231                        /memfd:mozilla-ipc (deleted)
+7faeaf979000-7faeaf97a000 rw-s 00000000 00:01 1313                       /memfd:mozilla-ipc (deleted)
+7faeaf97a000-7faeaf97b000 rw-s 00000000 00:01 1350                       /memfd:mozilla-ipc (deleted)
+7faeaf97b000-7faeaf97c000 rw-s 00000000 00:01 1349                       /memfd:mozilla-ipc (deleted)
+7faeaf9b1000-7faeaf9b3000 rw-s 00000000 00:01 1428                       /memfd:mozilla-ipc (deleted)
+7faeaf9b5000-7faeaf9b7000 rw-s 00000000 00:01 1426                       /memfd:mozilla-ipc (deleted)
+7faeaf9b8000-7faeaf9b9000 rw-s 00000000 00:01 1424                       /memfd:mozilla-ipc (deleted)
+7faeaf9bb000-7faeaf9bc000 ---p 00000000 00:00 0 
+7faeaf9bc000-7faeaf9fc000 rw-p 00000000 00:00 0 
+7faeaf9fc000-7faeaf9fd000 ---p 00000000 00:00 0 
+7faeaf9fd000-7faeb01fd000 rw-p 00000000 00:00 0 
+7faeb01fd000-7faeb01fe000 ---p 00000000 00:00 0 
+7faeb01fe000-7faeb09fe000 rw-p 00000000 00:00 0 
+7faeb09fe000-7faeb09ff000 ---p 00000000 00:00 0 
+7faeb09ff000-7faeb11ff000 rw-p 00000000 00:00 0 
+7faeb11ff000-7faeb1200000 ---p 00000000 00:00 0 
+7faeb1200000-7faeb1a00000 rw-p 00000000 00:00 0 
+7faeb1a00000-7faeb1aff000 rw-p 00000000 00:00 0 
+7faeb1aff000-7faeb1b00000 ---p 00000000 00:00 0 
+7faeb1b00000-7faeb1b02000 r--p 00000000 08:05 1056126                    /usr/lib/x86_64-linux-gnu/libnss_dns-2.31.so
+7faeb1b02000-7faeb1b06000 r-xp 00002000 08:05 1056126                    /usr/lib/x86_64-linux-gnu/libnss_dns-2.31.so
+7faeb1b06000-7faeb1b07000 r--p 00006000 08:05 1056126                    /usr/lib/x86_64-linux-gnu/libnss_dns-2.31.so
+7faeb1b07000-7faeb1b08000 r--p 00006000 08:05 1056126                    /usr/lib/x86_64-linux-gnu/libnss_dns-2.31.so
+7faeb1b08000-7faeb1b09000 rw-p 00007000 08:05 1056126                    /usr/lib/x86_64-linux-gnu/libnss_dns-2.31.so
+7faeb1b09000-7faeb1b0a000 ---p 00000000 00:00 0 
+7faeb1b0a000-7faeb1b4a000 rw-p 00000000 00:00 0 
+7faeb1b4a000-7faeb1b4b000 ---p 00000000 00:00 0 
+7faeb1b4b000-7faeb1b8b000 rw-p 00000000 00:00 0 
+7faeb1b8b000-7faeb1bc7000 r--p 00000000 00:01 1240                       /memfd:mozilla-ipc (deleted)
+7faeb1bc7000-7faeb1bc8000 ---p 00000000 00:00 0 
+7faeb1bc8000-7faeb1c08000 rw-p 00000000 00:00 0 
+7faeb1c08000-7faeb1c0a000 rw-s 00000000 00:01 1422                       /memfd:mozilla-ipc (deleted)
+7faeb1c0b000-7faeb1c0c000 rw-s 00000000 00:01 1420                       /memfd:mozilla-ipc (deleted)
+7faeb1c0d000-7faeb1c0e000 rw-s 00000000 00:01 1418                       /memfd:mozilla-ipc (deleted)
+7faeb1c0f000-7faeb1c10000 rw-s 00000000 00:01 1416                       /memfd:mozilla-ipc (deleted)
+7faeb1c29000-7faeb1c30000 rw-s 00000000 00:01 2375                       /memfd:mozilla-ipc (deleted)
+7faeb1c37000-7faeb1c38000 rw-s 00000000 00:01 381                        /memfd:mozilla-ipc (deleted)
+7faeb1c38000-7faeb1c43000 rw-s 00000000 00:01 268                        /memfd:mozilla-ipc (deleted)
+7faeb1c44000-7faeb1c47000 rw-s 00000000 00:01 1414                       /memfd:mozilla-ipc (deleted)
+7faeb1c47000-7faeb1c48000 ---p 00000000 00:00 0 
+7faeb1c48000-7faeb1c88000 rw-p 00000000 00:00 0 
+7faeb1c88000-7faeb1c89000 ---p 00000000 00:00 0 
+7faeb1c89000-7faeb1c93000 rw-p 00000000 00:00 0 
+7faeb1c93000-7faeb1ca7000 r--p 00000000 08:05 1056576                    /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.11
+7faeb1ca7000-7faeb1caa000 r-xp 00014000 08:05 1056576                    /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.11
+7faeb1caa000-7faeb1d21000 r--p 00017000 08:05 1056576                    /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.11
+7faeb1d21000-7faeb1d3d000 r--p 0008d000 08:05 1056576                    /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.11
+7faeb1d3d000-7faeb1d3e000 rw-p 000a9000 08:05 1056576                    /usr/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.11
+7faeb1d3e000-7faeb1d46000 r--p 00000000 08:05 1055139                    /usr/lib/x86_64-linux-gnu/libFLAC.so.8.3.0
+7faeb1d46000-7faeb1d6f000 r-xp 00008000 08:05 1055139                    /usr/lib/x86_64-linux-gnu/libFLAC.so.8.3.0
+7faeb1d6f000-7faeb1d79000 r--p 00031000 08:05 1055139                    /usr/lib/x86_64-linux-gnu/libFLAC.so.8.3.0
+7faeb1d79000-7faeb1d7a000 ---p 0003b000 08:05 1055139                    /usr/lib/x86_64-linux-gnu/libFLAC.so.8.3.0
+7faeb1d7a000-7faeb1d7b000 r--p 0003b000 08:05 1055139                    /usr/lib/x86_64-linux-gnu/libFLAC.so.8.3.0
+7faeb1d7b000-7faeb1d7c000 rw-p 0003c000 08:05 1055139                    /usr/lib/x86_64-linux-gnu/libFLAC.so.8.3.0
+7faeb1d7c000-7faeb1d81000 r-xp 00000000 08:05 1055263                    /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7faeb1d81000-7faeb1f80000 ---p 00005000 08:05 1055263                    /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7faeb1f80000-7faeb1f81000 r--p 00004000 08:05 1055263                    /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7faeb1f81000-7faeb1f82000 rw-p 00005000 08:05 1055263                    /usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1
+7faeb1f82000-7faeb1f89000 r--p 00000000 08:05 1056405                    /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.28
+7faeb1f89000-7faeb1fdc000 r-xp 00007000 08:05 1056405                    /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.28
+7faeb1fdc000-7faeb1ff9000 r--p 0005a000 08:05 1056405                    /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.28
+7faeb1ff9000-7faeb1ffa000 ---p 00077000 08:05 1056405                    /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.28
+7faeb1ffa000-7faeb1ffd000 r--p 00077000 08:05 1056405                    /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.28
+7faeb1ffd000-7faeb1ffe000 rw-p 0007a000 08:05 1056405                    /usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.28
+7faeb1ffe000-7faeb20ff000 rw-p 00000000 00:00 0 
+7faeb20ff000-7faeb2100000 ---p 00000000 00:00 0 
+7faeb2100000-7faeb2101000 r--s 00000000 00:01 1260                       /memfd:mozilla-ipc (deleted)
+7faeb2101000-7faeb2102000 rw-s 00000000 00:01 2267                       /memfd:mozilla-ipc (deleted)
+7faeb2102000-7faeb2103000 r--p 00000000 08:05 1056134                    /usr/lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2
+7faeb2103000-7faeb2105000 r-xp 00001000 08:05 1056134                    /usr/lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2
+7faeb2105000-7faeb2106000 r--p 00003000 08:05 1056134                    /usr/lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2
+7faeb2106000-7faeb2107000 r--p 00003000 08:05 1056134                    /usr/lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2
+7faeb2107000-7faeb2108000 rw-p 00004000 08:05 1056134                    /usr/lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2
+7faeb2108000-7faeb2109000 rw-s
+ 00000000 00:01 2355                       /memfd:mozilla-ipc (deleted)
+7faeb2109000-7faeb210c000 rw-s 00000000 00:01 1413                       /memfd:mozilla-ipc (deleted)
+7faeb210c000-7faeb2111000 r--p 00000000 08:05 1056120                    /usr/lib/x86_64-linux-gnu/libnsl-2.31.so
+7faeb2111000-7faeb2121000 r-xp 00005000 08:05 1056120                    /usr/lib/x86_64-linux-gnu/libnsl-2.31.so
+7faeb2121000-7faeb2125000 r--p 00015000 08:05 1056120                    /usr/lib/x86_64-linux-gnu/libnsl-2.31.so
+7faeb2125000-7faeb2126000 r--p 00018000 08:05 1056120                    /usr/lib/x86_64-linux-gnu/libnsl-2.31.so
+7faeb2126000-7faeb2127000 rw-p 00019000 08:05 1056120                    /usr/lib/x86_64-linux-gnu/libnsl-2.31.so
+7faeb2127000-7faeb2129000 rw-p 00000000 00:00 0 
+7faeb2129000-7faeb213a000 r--p 00000000 08:05 414624                     /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-13.99.so
+7faeb213a000-7faeb2182000 r-xp 00011000 08:05 414624                     /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-13.99.so
+7faeb2182000-7faeb21a7000 r--p 00059000 08:05 414624                     /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-13.99.so
+7faeb21a7000-7faeb21a8000 ---p 0007e000 08:05 414624                     /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-13.99.so
+7faeb21a8000-7faeb21aa000 r--p 0007e000 08:05 414624                     /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-13.99.so
+7faeb21aa000-7faeb21ab000 rw-p 00080000 08:05 414624                     /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-13.99.so
+7faeb21ab000-7faeb21b7000 r--p 00000000 08:05 1049450                    /usr/lib/x86_64-linux-gnu/libpulse.so.0.21.2
+7faeb21b7000-7faeb21e7000 r-xp 0000c000 08:05 1049450                    /usr/lib/x86_64-linux-gnu/libpulse.so.0.21.2
+7faeb21e7000-7faeb21fd000 r--p 0003c000 08:05 1049450                    /usr/lib/x86_64-linux-gnu/libpulse.so.0.21.2
+7faeb21fd000-7faeb21ff000 r--p 00051000 08:05 1049450                    /usr/lib/x86_64-linux-gnu/libpulse.so.0.21.2
+7faeb21ff000-7faeb2200000 rw-p 00053000 08:05 1049450                    /usr/lib/x86_64-linux-gnu/libpulse.so.0.21.2
+7faeb2200000-7faeb22ff000 rw-p 00000000 00:00 0 
+7faeb22ff000-7faeb2300000 ---p 00000000 00:00 0 
+7faeb2300000-7faeb23ff000 rw-p 00000000 00:00 0 
+7faeb23ff000-7faeb2400000 ---p 00000000 00:00 0 
+7faeb2400000-7faeb24ff000 rw-p 00000000 00:00 0 
+7faeb24ff000-7faeb2500000 ---p 00000000 00:00 0 
+7faeb2500000-7faeb25ff000 rw-p 00000000 00:00 0 
+7faeb25ff000-7faeb2600000 ---p 00000000 00:00 0 
+7faeb2600000-7faeb2601000 r--p 00000000 00:01 2261                       /memfd:mozilla-ipc (deleted)
+7faeb2601000-7faeb2602000 r--p 00000000 00:01 2260                       /memfd:mozilla-ipc (deleted)
+7faeb2602000-7faeb2605000 r--p 00000000 00:01 2259                       /memfd:mozilla-ipc (deleted)
+7faeb2605000-7faeb2606000 r--p 00000000 00:01 2258                       /memfd:mozilla-ipc (deleted)
+7faeb2606000-7faeb2607000 ---p 00000000 00:00 0 
+7faeb2607000-7faeb2611000 rw-p 00000000 00:00 0 
+7faeb2611000-7faeb2614000 r--p 00000000 08:05 1055242                    /usr/lib/x86_64-linux-gnu/libapparmor.so.1.6.1
+7faeb2614000-7faeb261d000 r-xp 00003000 08:05 1055242                    /usr/lib/x86_64-linux-gnu/libapparmor.so.1.6.1
+7faeb261d000-7faeb2624000 r--p 0000c000 08:05 1055242                    /usr/lib/x86_64-linux-gnu/libapparmor.so.1.6.1
+7faeb2624000-7faeb2625000 r--p 00012000 08:05 1055242                    /usr/lib/x86_64-linux-gnu/libapparmor.so.1.6.1
+7faeb2625000-7faeb2626000 rw-p 00013000 08:05 1055242                    /usr/lib/x86_64-linux-gnu/libapparmor.so.1.6.1
+7faeb2626000-7faeb2627000 ---p 00000000 00:00 0 
+7faeb2627000-7faeb2667000 rw-p 00000000 00:00 0 
+7faeb2667000-7faeb2668000 ---p 00000000 00:00 0 
+7faeb2668000-7faeb26b8000 rw-p 00000000 00:00 0 
+7faeb26b8000-7faeb27b8000 rw-s 00000000 00:01 1238                       /memfd:mozilla-ipc (deleted)
+7faeb27b8000-7faeb27b9000 ---p 00000000 00:00 0 
+7faeb27b9000-7faeb29b9000 rw-p 00000000 00:00 0 
+7faeb29b9000-7faeb29ba000 ---p 00000000 00:00 0 
+7faeb29ba000-7faeb2bba000 rw-p 00000000 00:00 0 
+7faeb2bba000-7faeb2bbb000 ---p 00000000 00:00 0 
+7faeb2bbb000-7faeb2dbb000 rw-p 00000000 00:00 0 
+7faeb2dbb000-7faeb2dbc000 ---p 00000000 00:00 0 
+7faeb2dbc000-7faeb2fbc000 rw-p 00000000 00:00 0 
+7faeb2fbc000-7faeb2fbd000 ---p 00000000 00:00 0 
+7faeb2fbd000-7faeb31bd000 rw-p 00000000 00:00 0 
+7faeb31bd000-7faeb31be000 ---p 00000000 00:00 0 
+7faeb31be000-7faeb33be000 rw-p 00000000 00:00 0 
+7faeb33be000-7faeb33bf000 ---p 00000000 00:00 0 
+7faeb33bf000-7faeb35bf000 rw-p 00000000 00:00 0 
+7faeb35bf000-7faeb35c0000 ---p 00000000 00:00 0 
+7faeb35c0000-7faeb3600000 rw-p 00000000 00:00 0 
+7faeb3600000-7faeb4600000 rw-s 1001da000 00:05 398                       /dev/dri/renderD128
+7faeb4600000-7faeb4602000 r--p 00000000 00:01 2257                       /memfd:mozilla-ipc (deleted)
+7faeb4602000-7faeb4603000 r--p 00000000 08:05 1055210                    /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
+7faeb4603000-7faeb4604000 r-xp 00001000 08:05 1055210                    /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
+7faeb4604000-7faeb4605000 r--p 00002000 08:05 1055210                    /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
+7faeb4605000-7faeb4606000 r--p 00002000 08:05 1055210                    /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
+7faeb4606000-7faeb4607000 rw-p 00003000 08:05 1055210                    /usr/lib/x86_64-linux-gnu/libXss.so.1.0.0
+7faeb4607000-7faeb460a000 r--p 00000000 08:05 1056637                    /usr/lib/x86_64-linux-gnu/libwrap.so.0.7.6
+7faeb460a000-7faeb460f000 r-xp 00003000 08:05 1056637                    /usr/lib/x86_64-linux-gnu/libwrap.so.0.7.6
+7faeb460f000-7faeb4611000 r--p 00008000 08:05 1056637                    /usr/lib/x86_64-linux-gnu/libwrap.so.0.7.6
+7faeb4611000-7faeb4612000 r--p 00009000 08:05 1056637                    /usr/lib/x86_64-linux-gnu/libwrap.so.0.7.6
+7faeb4612000-7faeb4613000 rw-p 0000a000 08:05 1056637                    /usr/lib/x86_64-linux-gnu/libwrap.so.0.7.6
+7faeb4613000-7faeb4614000 ---p 00000000 00:00 0 
+7faeb4614000-7faeb4654000 rw-p 00000000 00:00 0 
+7faeb4654000-7faeb4662000 r--p 00000000 08:05 1056487                    /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
+7faeb4662000-7faeb4671000 r-xp 0000e000 08:05 1056487                    /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
+7faeb4671000-7faeb467f000 r--p 0001d000 08:05 1056487                    /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
+7faeb467f000-7faeb4683000 r--p 0002a000 08:05 1056487                    /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
+7faeb4683000-7faeb4684000 rw-p 0002e000 08:05 1056487                    /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
+7faeb4684000-7faeb468c000 r--p 00000000 08:05 1055534                    /usr/lib/x86_64-linux-gnu/libedit.so.2.0.63
+7faeb468c000-7faeb46a7000 r-xp 00008000 08:05 1055534                    /usr/lib/x86_64-linux-gnu/libedit.so.2.0.63
+7faeb46a7000-7faeb46b5000 r--p 00023000 08:05 1055534                    /usr/lib/x86_64-linux-gnu/libedit.so.2.0.63
+7faeb46b5000-7faeb46b7000 r--p 00030000 08:05 1055534                    /usr/lib/x86_64-linux-gnu/libedit.so.2.0.63
+7faeb46b7000-7faeb46b8000 rw-p 00032000 08:05 1055534                    /usr/lib/x86_64-linux-gnu/libedit.so.2.0.63
+7faeb46b8000-7faeb46bc000 rw-p 00000000 00:00 0 
+7faeb46bc000-7faeb46cb000 r--p 00000000 08:05 1056585                    /usr/lib/x86_64-linux-gnu/libvulkan.so.1.2.131
+7faeb46cb000-7faeb46fd000 r-xp 0000f000 08:05 1056585                    /usr/lib/x86_64-linux-gnu/libvulkan.so.1.2.131
+7faeb46fd000-7faeb4710000 r--p 00041000 08:05 1056585                    /usr/lib/x86_64-linux-gnu/libvulkan.so.1.2.131
+7faeb4710000-7faeb4711000 r--p 00053000 08:05 1056585                    /usr/lib/x86_64-linux-gnu/libvulkan.so.1.2.131
+7faeb4711000-7faeb4712000 rw-p 00054000 08:05 1056585                    /usr/lib/x86_64-linux-gnu/libvulkan.so.1.2.131
+7faeb4712000-7faeb4714000 r--p 00000000 08:05 1049501                    /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2.0.0
+7faeb4714000-7faeb4719000 r-xp 00002000 08:05 1049501                    /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2.0.0
+7faeb4719000-7faeb471b000 r--p 00007000 08:05 1049501                    /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2.0.0
+7faeb471b000-7faeb471c000 r--p 00008000 08:05 1049501                    /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2.0.0
+7faeb471c000-7faeb471d000 rw-p 00009000 08:05 1049501                    /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2.0.0
+7faeb471d000-7faeb4720000 r--p 00000000 08:05 1049070                    /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.0.0
+7faeb4720000-7faeb4725000 r-xp 00003000 08:05 1049070                    /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.0.0
+7faeb4725000-7faeb4727000 r--p 00008000 08:05 1049070                    /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.0.0
+7faeb4727000-7faeb4728000 r--p 00009000 08:05 1049070                    /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.0.0
+7faeb4728000-7faeb4729000 rw-p 0000a000 08:05 1049070                    /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.0.0
+7faeb4729000-7faeb472c000 r--p 00000000 08:05 1055539                    /usr/lib/x86_64-linux-gnu/libelf-0.176.so
+7faeb472c000-7faeb473e000 r-xp 00003000 08:05 1055539                    /usr/lib/x86_64-linux-gnu/libelf-0.176.so
+7faeb473e000-7faeb4743000 r--p 00015000 08:05 1055539                    /usr/lib/x86_64-linux-gnu/libelf-0.176.so
+7faeb4743000-7faeb4744000 r--p 00019000 08:05 1055539                    /usr/lib/x86_64-linux-gnu/libelf-0.176.so
+7faeb4744000-7faeb4745000 rw-p 0001a000 08:05 1055539                    /usr/lib/x86_64-linux-gnu/libelf-0.176.so
+7faeb4745000-7faeb4747000 r--p 00000000 08:05 1049552                    /usr/lib/x86_64-linux-gnu/libdrm_radeon.so.1.0.1
+7faeb4747000-7faeb474e000 r-xp 00002000 08:05 1049552 
+                   /usr/lib/x86_64-linux-gnu/libdrm_radeon.so.1.0.1
+7faeb474e000-7faeb4752000 r--p 00009000 08:05 1049552                    /usr/lib/x86_64-linux-gnu/libdrm_radeon.so.1.0.1
+7faeb4752000-7faeb4753000 r--p 0000c000 08:05 1049552                    /usr/lib/x86_64-linux-gnu/libdrm_radeon.so.1.0.1
+7faeb4753000-7faeb4754000 rw-p 0000d000 08:05 1049552                    /usr/lib/x86_64-linux-gnu/libdrm_radeon.so.1.0.1
+7faeb4754000-7faeb4758000 r--p 00000000 08:05 1056709                    /usr/lib/x86_64-linux-gnu/libzstd.so.1.4.4
+7faeb4758000-7faeb47ea000 r-xp 00004000 08:05 1056709                    /usr/lib/x86_64-linux-gnu/libzstd.so.1.4.4
+7faeb47ea000-7faeb47fb000 r--p 00096000 08:05 1056709                    /usr/lib/x86_64-linux-gnu/libzstd.so.1.4.4
+7faeb47fb000-7faeb47fc000 r--p 000a6000 08:05 1056709                    /usr/lib/x86_64-linux-gnu/libzstd.so.1.4.4
+7faeb47fc000-7faeb47fd000 rw-p 000a7000 08:05 1056709                    /usr/lib/x86_64-linux-gnu/libzstd.so.1.4.4
+7faeb47fd000-7faeb9a1e000 r-xp 00000000 08:05 1049562                    /usr/lib/x86_64-linux-gnu/libLLVM-12.so.1
+7faeb9a1e000-7faeb9f37000 r--p 05220000 08:05 1049562                    /usr/lib/x86_64-linux-gnu/libLLVM-12.so.1
+7faeb9f37000-7faeb9f3e000 rw-p 05739000 08:05 1049562                    /usr/lib/x86_64-linux-gnu/libLLVM-12.so.1
+7faeb9f3e000-7faeb9fb3000 rw-p 00000000 00:00 0 
+7faeb9fb3000-7faeba0cd000 r--p 00000000 08:05 393495                     /usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so
+7faeba0cd000-7faebb074000 r-xp 0011a000 08:05 393495                     /usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so
+7faebb074000-7faebb4fe000 r--p 010c1000 08:05 393495                     /usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so
+7faebb4fe000-7faebb4ff000 ---p 0154b000 08:05 393495                     /usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so
+7faebb4ff000-7faebb5fc000 r--p 0154b000 08:05 393495                     /usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so
+7faebb5fc000-7faebb694000 rw-p 01648000 08:05 393495                     /usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so
+7faebb694000-7faebb8c6000 rw-p 00000000 00:00 0 
+7faebb8c6000-7faebb8d2000 r--p 00000000 08:05 1049569                    /usr/lib/x86_64-linux-gnu/libglapi.so.0.0.0
+7faebb8d2000-7faebb8e0000 r-xp 0000c000 08:05 1049569                    /usr/lib/x86_64-linux-gnu/libglapi.so.0.0.0
+7faebb8e0000-7faebb8f9000 r--p 0001a000 08:05 1049569                    /usr/lib/x86_64-linux-gnu/libglapi.so.0.0.0
+7faebb8f9000-7faebb8fa000 ---p 00033000 08:05 1049569                    /usr/lib/x86_64-linux-gnu/libglapi.so.0.0.0
+7faebb8fa000-7faebb8fe000 r--p 00033000 08:05 1049569                    /usr/lib/x86_64-linux-gnu/libglapi.so.0.0.0
+7faebb8fe000-7faebb8ff000 rw-p 00037000 08:05 1049569                    /usr/lib/x86_64-linux-gnu/libglapi.so.0.0.0
+7faebb8ff000-7faebb9ff000 rw-p 00000000 00:00 0 
+7faebb9ff000-7faebba00000 ---p 00000000 00:00 0 
+7faebba00000-7faebbaff000 rw-p 00000000 00:00 0 
+7faebbaff000-7faebbb00000 ---p 00000000 00:00 0 
+7faebbb00000-7faebbbff000 rw-p 00000000 00:00 0 
+7faebbbff000-7faebbc00000 ---p 00000000 00:00 0 
+7faebbc00000-7faebbcff000 rw-p 00000000 00:00 0 
+7faebbcff000-7faebbd00000 ---p 00000000 00:00 0 
+7faebbd00000-7faebbdff000 rw-p 00000000 00:00 0 
+7faebbdff000-7faebbe00000 ---p 00000000 00:00 0 
+7faebbe00000-7faebbeff000 rw-p 00000000 00:00 0 
+7faebbeff000-7faebbf00000 ---p 00000000 00:00 0 
+7faebbf00000-7faebbf01000 rw-s 00000000 00:01 1415                       /memfd:mozilla-ipc (deleted)
+7faebbf01000-7faebbf02000 rw-s 00000000 00:01 2354                       /memfd:mozilla-ipc (deleted)
+7faebbf02000-7faebbf03000 rw-s 00000000 00:01 2252                       /memfd:mozilla-ipc (deleted)
+7faebbf03000-7faebbf04000 r--s 00000000 00:01 326                        /memfd:mozilla-ipc (deleted)
+7faebbf04000-7faebbf07000 r--p 00000000 08:05 1056374                    /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
+7faebbf07000-7faebbf0e000 r-xp 00003000 08:05 1056374                    /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
+7faebbf0e000-7faebbf13000 r--p 0000a000 08:05 1056374                    /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
+7faebbf13000-7faebbf14000 r--p 0000e000 08:05 1056374                    /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
+7faebbf14000-7faebbf15000 rw-p 0000f000 08:05 1056374                    /usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0
+7faebbf15000-7faebbf1b000 r--p 00000000 08:05 1056600                    /usr/lib/x86_64-linux-gnu/libwayland-server.so.0.1.0
+7faebbf1b000-7faebbf23000 r-xp 00006000 08:05 1056600                    /usr/lib/x86_64-linux-gnu/libwayland-server.so.0.1.0
+7faebbf23000-7faebbf27000 r--p 0000e000 08:05 1056600                    /usr/lib/x86_64-linux-gnu/libwayland-server.so.0.1.0
+7faebbf27000-7faebbf28000 ---p 00012000 08:05 1056600                    /usr/lib/x86_64-linux-gnu/libwayland-server.so.0.1.0
+7faebbf28000-7faebbf2a000 r--p 00012000 08:05 1056600                    /usr/lib/x86_64-linux-gnu/libwayland-server.so.0.1.0
+7faebbf2a000-7faebbf2b000 rw-p 00014000 08:05 1056600                    /usr/lib/x86_64-linux-gnu/libwayland-server.so.0.1.0
+7faebbf2b000-7faebbf2f000 r--p 00000000 08:05 1048773                    /usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0
+7faebbf2f000-7faebbf39000 r-xp 00004000 08:05 1048773                    /usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0
+7faebbf39000-7faebbf3d000 r--p 0000e000 08:05 1048773                    /usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0
+7faebbf3d000-7faebbf3e000 r--p 00011000 08:05 1048773                    /usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0
+7faebbf3e000-7faebbf3f000 rw-p 00012000 08:05 1048773                    /usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0
+7faebbf3f000-7faebbf42000 r--p 00000000 08:05 1051175                    /usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+7faebbf42000-7faebbf4a000 r-xp 00003000 08:05 1051175                    /usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+7faebbf4a000-7faebbf4e000 r--p 0000b000 08:05 1051175                    /usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+7faebbf4e000-7faebbf4f000 r--p 0000e000 08:05 1051175                    /usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+7faebbf4f000-7faebbf50000 rw-p 0000f000 08:05 1051175                    /usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+7faebbf50000-7faebbf51000 r--s 00000000 00:01 325                        /memfd:mozilla-ipc (deleted)
+7faebbf51000-7faebbf52000 rw-s 00000000 00:01 2248                       /memfd:mozilla-ipc (deleted)
+7faebbf52000-7faebbf53000 rw-s 00000000 00:01 2247                       /memfd:mozilla-ipc (deleted)
+7faebbf54000-7faebbf55000 rw-s 00000000 00:01 2424                       /memfd:mozilla-ipc (deleted)
+7faebbf56000-7faebbf58000 r--s 00000000 08:05 425196                     /home/andrey/.local/share/gvfs-metadata/home (deleted)
+7faebbf58000-7faebbf5a000 r--p 00000000 08:05 397708                     /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-png.so
+7faebbf5a000-7faebbf5d000 r-xp 00002000 08:05 397708                     /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-png.so
+7faebbf5d000-7faebbf5e000 r--p 00005000 08:05 397708                     /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-png.so
+7faebbf5e000-7faebbf5f000 ---p 00006000 08:05 397708                     /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-png.so
+7faebbf5f000-7faebbf60000 r--p 00006000 08:05 397708                     /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-png.so
+7faebbf60000-7faebbf61000 rw-p 00007000 08:05 397708                     /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-png.so
+7faebbf61000-7faebbfb5000 r--p 00000000 08:05 271102                     /usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf
+7faebbfb5000-7faebc00c000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7faebc00c000-7faebc063000 r--p 00000000 08:05 529667                     /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
+7faebc063000-7faebc06e000 r--s 00000000 08:05 538684                     /var/cache/fontconfig/5e18047c-b951-4e35-9771-2350a5843270-le64.cache-7
+7faebc06e000-7faebc074000 r--s 00000000 08:05 538780                     /var/cache/fontconfig/da260d10-46f5-4a52-ba9d-953e91b30de8-le64.cache-7
+7faebc074000-7faebc075000 r--p 00000000 08:05 1054827                    /usr/lib/x86_64-linux-gnu/libicudata.so.66.1
+7faebc075000-7faebc076000 r-xp 00001000 08:05 1054827                    /usr/lib/x86_64-linux-gnu/libicudata.so.66.1
+7faebc076000-7faebdb33000 r--p 00002000 08:05 1054827                    /usr/lib/x86_64-linux-gnu/libicudata.so.66.1
+7faebdb33000-7faebdb34000 r--p 01abe000 08:05 1054827                    /usr/lib/x86_64-linux-gnu/libicudata.so.66.1
+7faebdb34000-7faebdb35000 rw-p 01abf000 08:05 1054827                    /usr/lib/x86_64-linux-gnu/libicudata.so.66.1
+7faebdb35000-7faebdb9a000 r--p 00000000 08:05 1054848                    /usr/lib/x86_64-linux-gnu/libicuuc.so.66.1
+7faebdb9a000-7faebdc7f000 r-xp 00065000 08:05 1054848                    /usr/lib/x86_64-linux-gnu/libicuuc.so.66.1
+7faebdc7f000-7faebdd05000 r--p 0014a000 08:05 1054848                    /usr/lib/x86_64-linux-gnu/libicuuc.so.66.1
+7faebdd05000-7faebdd06000 ---p 001d0000 08:05 1054848                    /usr/lib/x86_64-linux-gnu/libicuuc.so.66.1
+7faebdd06000-7faebdd18000 r--p 001d0000 08:05 1054848                    /usr/lib/x86_64-linux-gnu/libicuuc.so.66.1
+7faebdd18000-7faebdd19000 rw-p 001e2000 08:05 1054848                    /usr/lib/x86_64-linux-gnu/libicuuc.so.66.1
+7faebdd19000-7faebdd1b000 rw-p 00000000 00:00 0 
+7faebdd1b000-7faebdd48000 r--p 00000000 08:05 1056687                    /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.10
+7faebdd48000-7faebde72000 r-xp 0002d000 08:05 1056687                    /usr/lib/x86_64-
+linux-gnu/libxml2.so.2.9.10
+7faebde72000-7faebdec9000 r--p 00157000 08:05 1056687                    /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.10
+7faebdec9000-7faebded2000 r--p 001ad000 08:05 1056687                    /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.10
+7faebded2000-7faebded3000 rw-p 001b6000 08:05 1056687                    /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.10
+7faebded3000-7faebded5000 rw-p 00000000 00:00 0 
+7faebded5000-7faebdfd5000 r--p 00000000 08:05 1056332                    /usr/lib/x86_64-linux-gnu/librsvg-2.so.2.47.0
+7faebdfd5000-7faebe4ad000 r-xp 00100000 08:05 1056332                    /usr/lib/x86_64-linux-gnu/librsvg-2.so.2.47.0
+7faebe4ad000-7faebe744000 r--p 005d8000 08:05 1056332                    /usr/lib/x86_64-linux-gnu/librsvg-2.so.2.47.0
+7faebe744000-7faebe745000 ---p 0086f000 08:05 1056332                    /usr/lib/x86_64-linux-gnu/librsvg-2.so.2.47.0
+7faebe745000-7faebe7fe000 r--p 0086f000 08:05 1056332                    /usr/lib/x86_64-linux-gnu/librsvg-2.so.2.47.0
+7faebe7fe000-7faebe7ff000 rw-p 00928000 08:05 1056332                    /usr/lib/x86_64-linux-gnu/librsvg-2.so.2.47.0
+7faebe7ff000-7faebe8ff000 rw-p 00000000 00:00 0 
+7faebe8ff000-7faebe900000 ---p 00000000 00:00 0 
+7faebe900000-7faebe9ff000 rw-p 00000000 00:00 0 
+7faebe9ff000-7faebea00000 ---p 00000000 00:00 0 
+7faebea00000-7faebeaff000 rw-p 00000000 00:00 0 
+7faebeaff000-7faebeb00000 ---p 00000000 00:00 0 
+7faebeb00000-7faebeb01000 rw-s 00000000 00:01 2246                       /memfd:mozilla-ipc (deleted)
+7faebeb01000-7faebeb02000 rw-s 00000000 00:01 2245                       /memfd:mozilla-ipc (deleted)
+7faebeb02000-7faebeb03000 r--s 00000000 08:05 396421                     /home/andrey/.cache/fontconfig/a41116dafaf8b233ac2c61cb73f2ea5f-le64.cache-7
+7faebeb03000-7faebeb04000 r--s 00000000 08:05 538709                     /var/cache/fontconfig/725fdc72-9771-468e-84e3-94a2c9fae04a-le64.cache-7
+7faebeb04000-7faebeb1a000 r--s 00000000 08:05 538600                     /var/cache/fontconfig/01496f2b-0cb8-4926-a79c-76933fe012b3-le64.cache-7
+7faebeb1a000-7faebeb1b000 r--s 00000000 08:05 538791                     /var/cache/fontconfig/e8e285de-1786-4324-a504-e7efa5a9923f-le64.cache-7
+7faebeb1b000-7faebeb1c000 r--s 00000000 08:05 538626                     /var/cache/fontconfig/1ee47de9-2e27-47e6-8ace-4422a0948b29-le64.cache-7
+7faebeb1c000-7faebeb1e000 r--s 00000000 08:05 538654                     /var/cache/fontconfig/466e468e-03da-4f11-b66c-dfcd9d9d2982-le64.cache-7
+7faebeb1e000-7faebeb1f000 r--s 00000000 08:05 538668                     /var/cache/fontconfig/50ed1ac4-0e06-4bab-8906-d532e0894218-le64.cache-7
+7faebeb1f000-7faebeb21000 r--s 00000000 08:05 538658                     /var/cache/fontconfig/49af6dd2-d8b4-41de-a9ca-164c51ed47f8-le64.cache-7
+7faebeb21000-7faebeb23000 r--s 00000000 08:05 538741                     /var/cache/fontconfig/a64514ca-d48d-4336-8d1f-e2e4828260bf-le64.cache-7
+7faebeb23000-7faebeb24000 r--s 00000000 08:05 531297                     /var/cache/fontconfig/0ec7f47c-ba3a-4f84-8e33-b51a93db0a6f-le64.cache-7
+7faebeb24000-7faebeb26000 r--s 00000000 08:05 538769                     /var/cache/fontconfig/d419665c-b5e9-4568-85a5-da2637315bc6-le64.cache-7
+7faebeb26000-7faebeb2b000 r--s 00000000 08:05 538766                     /var/cache/fontconfig/d1d9f9a9-c4de-4d80-aa2c-b5c89c1e8da7-le64.cache-7
+7faebeb2b000-7faebeb2c000 r--s 00000000 08:05 538742                     /var/cache/fontconfig/aa1e1cf0-6896-41f2-89d1-c78e9cf2b57a-le64.cache-7
+7faebeb2c000-7faebeb2d000 r--s 00000000 08:05 538615                     /var/cache/fontconfig/0d9173b8-b2ed-461e-9202-cdec1820882e-le64.cache-7
+7faebeb2d000-7faebeb2e000 r--s 00000000 08:05 538757                     /var/cache/fontconfig/c50f4f0c-7823-4dbe-b8bf-2c90e97e6258-le64.cache-7
+7faebeb2e000-7faebeb2f000 r--s 00000000 08:05 538607                     /var/cache/fontconfig/09a32446-fa06-415d-9568-30a88efce8d3-le64.cache-7
+7faebeb2f000-7faebeb30000 r--s 00000000 08:05 538730                     /var/cache/fontconfig/9ba9325f-ab9c-4dde-9fb3-4a18cee7cd53-le64.cache-7
+7faebeb30000-7faebeb31000 r--s 00000000 08:05 538756                     /var/cache/fontconfig/c4a020df-e6c5-41ab-b36f-1c75d6dda204-le64.cache-7
+7faebeb31000-7faebeb32000 r--s 00000000 08:05 538803                     /var/cache/fontconfig/fcf7a424-c452-4172-80ea-b2a56f199625-le64.cache-7
+7faebeb32000-7faebeb33000 r--s 00000000 08:05 538743                     /var/cache/fontconfig/ab8ced37-040b-43c2-a8f1-39b2e2e53fad-le64.cache-7
+7faebeb33000-7faebeb34000 r--s 00000000 08:05 538647                     /var/cache/fontconfig/3a7ea176-4972-44da-aae8-851e27b8d6c9-le64.cache-7
+7faebeb34000-7faebeb39000 r--s 00000000 08:05 538717                     /var/cache/fontconfig/819e6391-18ae-47ba-8425-987aacbb3aa2-le64.cache-7
+7faebeb39000-7faebeb4c000 r--s 00000000 08:05 538733                     /var/cache/fontconfig/9e5b5ccd-f5eb-4570-a7a2-ec1cf7e9b7f7-le64.cache-7
+7faebeb4c000-7faebeb6f000 r--s 00000000 08:05 1180383                    /usr/share/mime/mime.cache
+7faebeb6f000-7faebebbf000 r--p 00000000 08:05 143387                     /usr/share/icons/Humanity/icon-theme.cache
+7faebebbf000-7faebebc0000 ---p 00000000 00:00 0 
+7faebebc0000-7faebec00000 rw-p 00000000 00:00 0 
+7faebec00000-7faebecff000 rw-p 00000000 00:00 0 
+7faebecff000-7faebed00000 ---p 00000000 00:00 0 
+7faebed00000-7faebedff000 rw-p 00000000 00:00 0 
+7faebedff000-7faebee00000 ---p 00000000 00:00 0 
+7faebee00000-7faebeeff000 rw-p 00000000 00:00 0 
+7faebeeff000-7faebef00000 ---p 00000000 00:00 0 
+7faebef00000-7faebef01000 r--s 00000000 08:05 538722                     /var/cache/fontconfig/93cdfdf3-e838-45c9-889f-fdefcf762a33-le64.cache-7
+7faebef01000-7faebef02000 r--s 00000000 08:05 538694                     /var/cache/fontconfig/6641d2f4-7ddb-42c1-b955-6874fb69aa7a-le64.cache-7
+7faebef02000-7faebef09000 r--s 00000000 08:05 538806                     /var/cache/fontconfig/feabc5fa-ab72-458e-8c0a-d931c686a2d7-le64.cache-7
+7faebef09000-7faebef0a000 r--s 00000000 08:05 538792                     /var/cache/fontconfig/e9416b11-4117-4124-b91b-d89e12e75dae-le64.cache-7
+7faebef0a000-7faebef10000 r--s 00000000 08:05 538608                     /var/cache/fontconfig/0b92ef5e-8818-4f82-a111-e67f2bb65d16-le64.cache-7
+7faebef10000-7faebef14000 r--s 00000000 08:05 538765                     /var/cache/fontconfig/cd12dc59-c886-4a74-a441-50138fdad542-le64.cache-7
+7faebef14000-7faebef22000 r--s 00000000 08:05 538723                     /var/cache/fontconfig/953233bf-65de-43c2-9ad0-ba99d88df0c0-le64.cache-7
+7faebef22000-7faebef3d000 r--p 00000000 08:05 143502                     /usr/share/icons/Yaru/icon-theme.cache
+7faebef3d000-7faebef3e000 ---p 00000000 00:00 0 
+7faebef3e000-7faebef7e000 rw-p 00000000 00:00 0 
+7faebef7e000-7faebef7f000 rw-s 00000000 00:01 1357                       /memfd:mozilla-ipc (deleted)
+7faebef7f000-7faebef80000 rw-s 00000000 00:01 1356                       /memfd:mozilla-ipc (deleted)
+7faebef80000-7faebef81000 rw-s 00000000 00:01 1347                       /memfd:mozilla-ipc (deleted)
+7faebef81000-7faebef82000 rw-s 00000000 00:01 3398                       /memfd:mozilla-ipc (deleted)
+7faebef82000-7faebef83000 rw-s 00000000 00:01 3397                       /memfd:mozilla-ipc (deleted)
+7faebef84000-7faebef86000 r--p 00000000 00:01 313                        /memfd:mozilla-ipc (deleted)
+7faebef91000-7faebef94000 r--s 00000000 00:01 1410                       /memfd:mozilla-ipc (deleted)
+7faebef94000-7faebefa3000 rw-s 00000000 00:01 1404                       /memfd:mozilla-ipc (deleted)
+7faebefa3000-7faebefa4000 r--s 00000000 00:01 3576                       /memfd:mozilla-ipc (deleted)
+7faebefa4000-7faebefa5000 rw-s 00000000 00:01 1395                       /memfd:mozilla-ipc (deleted)
+7faebefa5000-7faebefa8000 r--s 00000000 00:01 2517                       /memfd:mozilla-ipc (deleted)
+7faebefa8000-7faebefa9000 r--s 00000000 00:01 3578                       /memfd:mozilla-ipc (deleted)
+7faebefa9000-7faebefaa000 r--s 00000000 00:01 2515                       /memfd:mozilla-ipc (deleted)
+7faebefaa000-7faebefad000 r--s 00000000 00:01 3577                       /memfd:mozilla-ipc (deleted)
+7faebefad000-7faebefb0000 r--s 00000000 00:01 2512                       /memfd:mozilla-ipc (deleted)
+7faebefb0000-7faebefb3000 r--s 00000000 00:01 2510                       /memfd:mozilla-ipc (deleted)
+7faebefb3000-7faebefb6000 r--s 00000000 00:01 2508                       /memfd:mozilla-ipc (deleted)
+7faebefbd000-7faebefbe000 r--s 00000000 00:01 2514                       /memfd:mozilla-ipc (deleted)
+7faebefbe000-7faebefbf000 r--s 00000000 00:01 2513                       /memfd:mozilla-ipc (deleted)
+7faebefbf000-7faebefc0000 ---p 00000000 00:00 0 
+7faebefc0000-7faebf000000 rw-p 00000000 00:00 0 
+7faebf000000-7faebf0ff000 rw-p 00000000 00:00 0 
+7faebf0ff000-7faebf100000 ---p 00000000 00:00 0 
+7faebf100000-7faebf1ff000 rw-p 00000000 00:00 0 
+7faebf1ff000-7faebf200000 ---p 00000000 00:00 0 
+7faebf200000-7faebf2ff000 rw-p 00000000 00:00 0 
+7faebf2ff000-7faebf300000 ---p 00000000 00:00 0 
+7faebf300000-7faebf3ff000 rw-p 00000000 00:00 0 
+7faebf3ff000-7faebf400000 ---p 00000000 00:00 0 
+7faebf400000-7faebf4ff000 rw-p 00000000 00:00 0 
+7faebf4ff000-7faebf500000 ---p 00000000 00:00 0 
+7faebf500000-7faebf5ff000 rw-p 00000000 00:00 0 
+7faebf5ff000-7faebf600000 ---p 00000000 00:00 0 
+7faebf600000-7faebf6ff000 rw-p 00000000 00:00 0 
+7faebf6ff000-7faebf700000 ---p 00000000 00:00 0 
+7faebf700000-7faebf7ff000 rw-p 00000000 00:00 0 
+7faebf7ff000-7faebf800000 ---p 00000000 00:00 0 
+7faebf800000-7faebf8ff000 rw-p 00000000 00:00 0 
+7faebf8ff000-7faebf900000 ---p 00000000 00:00 0 
+7faebf900000-7faebf9ff000 rw-p 00000000 00:00 0 
+7faebf9ff000-7faebfa00000 ---p 00000000 00:00 0 
+7faebfa00000-7faebfaff000 rw-p 00000000 00:00 0 
+7faebfaff000-7faebfb00000 ---p 00000000 00:00 0 
+7faebfb00000-7faebfb01000 r--s 00000000 08:05 538675                     
+/var/cache/fontconfig/5695ca1e-0dfa-4938-b7eb-de237bd5f840-le64.cache-7
+7faebfb01000-7faebfb02000 r--s 00000000 08:05 538639                     /var/cache/fontconfig/3143b314-a454-4a06-8a91-cd94f3972796-le64.cache-7
+7faebfb02000-7faebfb03000 r--s 00000000 08:05 538788                     /var/cache/fontconfig/e3ce8400-7161-4a4c-832e-3a9f60ab89da-le64.cache-7
+7faebfb03000-7faebfb04000 r--s 00000000 08:05 538648                     /var/cache/fontconfig/3bdbea79-3fe7-4414-9cf2-92ce5d5607be-le64.cache-7
+7faebfb04000-7faebfb05000 r--s 00000000 08:05 538794                     /var/cache/fontconfig/ed8545d7-7dc3-480c-8bbf-edd1fabaa445-le64.cache-7
+7faebfb05000-7faebfb08000 r--s 00000000 08:05 538601                     /var/cache/fontconfig/02bc2b4e-d4b1-4c77-b2e3-cec6a2d5520a-le64.cache-7
+7faebfb08000-7faebfb18000 r--s 00000000 08:05 538689                     /var/cache/fontconfig/6209a900-ecc9-4b19-95c1-9c9ae84f65ed-le64.cache-7
+7faebfb19000-7faebfb1a000 rw-s 00000000 00:01 238                        /memfd:mozilla-ipc (deleted)
+7faebfb1a000-7faebfb1b000 rw-s 00000000 00:01 237                        /memfd:mozilla-ipc (deleted)
+7faebfb1b000-7faebfb1c000 r--s 00000000 00:01 2511                       /memfd:mozilla-ipc (deleted)
+7faebfb1c000-7faebfb1d000 rw-s 00000000 00:01 236                        /memfd:mozilla-ipc (deleted)
+7faebfb1d000-7faebfb1e000 rw-s 00000000 00:01 235                        /memfd:mozilla-ipc (deleted)
+7faebfb1e000-7faebfb1f000 r--s 00000000 00:01 2509                       /memfd:mozilla-ipc (deleted)
+7faebfb1f000-7faebfb20000 r--s 00000000 00:01 3575                       /memfd:mozilla-ipc (deleted)
+7faebfb20000-7faebfb21000 rw-s 00000000 00:01 1387                       /memfd:mozilla-ipc (deleted)
+7faebfb22000-7faebfb23000 rw-s 00000000 00:01 315                        /memfd:mozilla-ipc (deleted)
+7faebfb23000-7faebfb24000 rw-s 00000000 00:01 1316                       /memfd:mozilla-ipc (deleted)
+7faebfb24000-7faebfb25000 rw-s 00000000 00:01 1315                       /memfd:mozilla-ipc (deleted)
+7faebfb26000-7faebfb27000 rw-s 00000000 00:01 314                        /memfd:mozilla-ipc (deleted)
+7faebfb28000-7faebfb29000 rw-s 00000000 00:01 397                        /memfd:mozilla-ipc (deleted)
+7faebfb29000-7faebfb2b000 rw-s 00000000 00:01 1407                       /memfd:mozilla-ipc (deleted)
+7faebfb2b000-7faebfb2c000 rw-s 00000000 00:01 1431                       /memfd:mozilla-ipc (deleted)
+7faebfb2c000-7faebfb2d000 rw-s 00000000 00:01 1402                       /memfd:mozilla-ipc (deleted)
+7faebfb2d000-7faebfb2e000 rw-s 00000000 00:01 2404                       /memfd:mozilla-ipc (deleted)
+7faebfb2f000-7faebfb31000 rw-s 00000000 00:01 2522                       /memfd:mozilla-ipc (deleted)
+7faebfb31000-7faebfb34000 r--p 00000000 08:05 425235                     /home/andrey/.config/dconf/user
+7faebfb34000-7faebfb4c000 r--p 00000000 08:05 288627                     /usr/share/locale-langpack/ru/LC_MESSAGES/gedit.mo
+7faebfb4d000-7faebfb4e000 r--s 00000000 00:35 205                        /run/user/1000/dconf/user
+7faebfb4e000-7faebfb4f000 ---p 00000000 00:00 0 
+7faebfb4f000-7faebfb59000 rw-p 00000000 00:00 0 
+7faebfb59000-7faebfb5a000 ---p 00000000 00:00 0 
+7faebfb5a000-7faebfb9a000 rw-p 00000000 00:00 0 
+7faebfb9a000-7faec032d000 r--p 00000000 08:05 133646                     /home/andrey/.cache/mozilla/firefox/5zdzpuee.default-release/startupCache/scriptCache-current.bin
+7faec032d000-7faec032e000 ---p 00000000 00:00 0 
+7faec032e000-7faec052c000 rw-p 00000000 00:00 0 
+7faec052c000-7faec052d000 ---p 00000000 00:00 0 
+7faec052d000-7faec072b000 rw-p 00000000 00:00 0 
+7faec072b000-7faec072c000 ---p 00000000 00:00 0 
+7faec072c000-7faec092a000 rw-p 00000000 00:00 0 
+7faec092a000-7faec092b000 ---p 00000000 00:00 0 
+7faec092b000-7faec0b29000 rw-p 00000000 00:00 0 
+7faec0b29000-7faec0d00000 r--p 00000000 08:05 133654                     /home/andrey/.cache/mozilla/firefox/5zdzpuee.default-release/startupCache/scriptCache-child-current.bin
+7faec0d00000-7faec0dff000 rw-p 00000000 00:00 0 
+7faec0dff000-7faec0e00000 ---p 00000000 00:00 0 
+7faec0e00000-7faec0eff000 rw-p 00000000 00:00 0 
+7faec0eff000-7faec0f00000 ---p 00000000 00:00 0 
+7faec0f00000-7faec0fff000 rw-p 00000000 00:00 0 
+7faec0fff000-7faec1000000 ---p 00000000 00:00 0 
+7faec1000000-7faec10ff000 rw-p 00000000 00:00 0 
+7faec10ff000-7faec1100000 ---p 00000000 00:00 0 
+7faec1100000-7faec11ff000 rw-p 00000000 00:00 0 
+7faec11ff000-7faec1200000 ---p 00000000 00:00 0 
+7faec1200000-7faec1202000 r--s 00000000 08:05 538707                     /var/cache/fontconfig/7111f99e-e629-4c25-a113-b52368b00ad6-le64.cache-7
+7faec1202000-7faec1205000 r--s 00000000 08:05 538754                     /var/cache/fontconfig/c19814c6-3fe7-4cbd-b00f-6c5caa611b24-le64.cache-7
+7faec1205000-7faec1206000 r--s 00000000 08:05 538701                     /var/cache/fontconfig/6c072f89-b5ea-4b52-9dda-d17f2a9daa0f-le64.cache-7
+7faec1206000-7faec120a000 r--s 00000000 08:05 538688                     /var/cache/fontconfig/61ba1c3e-3485-420c-9f5e-372425fdb6bc-le64.cache-7
+7faec120a000-7faec120b000 r--s 00000000 08:05 538727                     /var/cache/fontconfig/961e0d14-e891-4af1-b38a-87ca377f3749-le64.cache-7
+7faec120b000-7faec1218000 r--p 00000000 08:05 140099                     /usr/share/icons/Adwaita/icon-theme.cache
+7faec1218000-7faec1219000 ---p 00000000 00:00 0 
+7faec1219000-7faec1239000 rw-p 00000000 00:00 0 
+7faec1239000-7faec123a000 ---p 00000000 00:00 0 
+7faec123a000-7faec127a000 rw-p 00000000 00:00 0 
+7faec127a000-7faec12bf000 rw-s 00000000 00:01 1236                       /memfd:mozilla-ipc (deleted)
+7faec12bf000-7faec12c0000 ---p 00000000 00:00 0 
+7faec12c0000-7faec1ac0000 rw-p 00000000 00:00 0 
+7faec1ac0000-7faec1ac1000 ---p 00000000 00:00 0 
+7faec1ac1000-7faec1b01000 rw-p 00000000 00:00 0 
+7faec1b01000-7faec1d2b000 r--p 00000000 08:05 133591                     /home/andrey/.cache/mozilla/firefox/5zdzpuee.default-release/startupCache/startupCache.8.little
+7faec1d2b000-7faec1d2c000 ---p 00000000 00:00 0 
+7faec1d2c000-7faec1d6c000 rw-p 00000000 00:00 0 
+7faec1d6c000-7faec1d6d000 ---p 00000000 00:00 0 
+7faec1d6d000-7faec1dad000 rw-p 00000000 00:00 0 
+7faec1dad000-7faec1dae000 ---p 00000000 00:00 0 
+7faec1dae000-7faec1dee000 rw-p 00000000 00:00 0 
+7faec1dee000-7faec1def000 ---p 00000000 00:00 0 
+7faec1def000-7faec1e2f000 rw-p 00000000 00:00 0 
+7faec1e2f000-7faec470a000 r--p 00000000 08:05 1051360                    /usr/lib/firefox/browser/omni.ja
+7faec470a000-7faec62a1000 r--p 00000000 08:05 1079481                    /usr/lib/firefox/omni.ja
+7faec62a1000-7faec62a2000 ---p 00000000 00:00 0 
+7faec62a2000-7faec62e2000 rw-p 00000000 00:00 0 
+7faec62e2000-7faec62e7000 r--p 00000000 08:05 1055156                    /usr/lib/x86_64-linux-gnu/libICE.so.6.3.0
+7faec62e7000-7faec62f6000 r-xp 00005000 08:05 1055156                    /usr/lib/x86_64-linux-gnu/libICE.so.6.3.0
+7faec62f6000-7faec62fb000 r--p 00014000 08:05 1055156                    /usr/lib/x86_64-linux-gnu/libICE.so.6.3.0
+7faec62fb000-7faec62fc000 r--p 00018000 08:05 1055156                    /usr/lib/x86_64-linux-gnu/libICE.so.6.3.0
+7faec62fc000-7faec62fd000 rw-p 00019000 08:05 1055156                    /usr/lib/x86_64-linux-gnu/libICE.so.6.3.0
+7faec62fd000-7faec63ff000 rw-p 00000000 00:00 0 
+7faec63ff000-7faec6400000 ---p 00000000 00:00 0 
+7faec6400000-7faec64ff000 rw-p 00000000 00:00 0 
+7faec64ff000-7faec6500000 ---p 00000000 00:00 0 
+7faec6500000-7faec65ff000 rw-p 00000000 00:00 0 
+7faec65ff000-7faec6600000 ---p 00000000 00:00 0 
+7faec6600000-7faec66ff000 rw-p 00000000 00:00 0 
+7faec66ff000-7faec6700000 ---p 00000000 00:00 0 
+7faec6700000-7faec67ff000 rw-p 00000000 00:00 0 
+7faec67ff000-7faec6800000 ---p 00000000 00:00 0 
+7faec6800000-7faec68ff000 rw-p 00000000 00:00 0 
+7faec68ff000-7faec6900000 ---p 00000000 00:00 0 
+7faec6900000-7faec69ff000 rw-p 00000000 00:00 0 
+7faec69ff000-7faec6a00000 ---p 00000000 00:00 0 
+7faec6a00000-7faec6a01000 r--s 00000000 08:05 538764                     /var/cache/fontconfig/cc01e806-2240-48b7-81f0-e7b2f9e04f3c-le64.cache-7
+7faec6a01000-7faec6a02000 r--s 00000000 08:05 538657                     /var/cache/fontconfig/4837e207-d041-4e20-ade2-2c9b0ab538c8-le64.cache-7
+7faec6a02000-7faec6a03000 r--s 00000000 08:05 538783                     /var/cache/fontconfig/decf7c08-a59e-4fe0-b5ee-d0ad49e7ad43-le64.cache-7
+7faec6a03000-7faec6a06000 r--s 00000000 08:05 538640                     /var/cache/fontconfig/32acce8e-7942-4479-8d7b-0808f9df3b7f-le64.cache-7
+7faec6a06000-7faec6a09000 r--s 00000000 08:05 538627                     /var/cache/fontconfig/1f358446-e28c-4dd8-a677-1d10c4f72a9f-le64.cache-7
+7faec6a09000-7faec6a0b000 r--p 00000000 08:05 1055164                    /usr/lib/x86_64-linux-gnu/libSM.so.6.0.1
+7faec6a0b000-7faec6a10000 r-xp 00002000 08:05 1055164                    /usr/lib/x86_64-linux-gnu/libSM.so.6.0.1
+7faec6a10000-7faec6a12000 r--p 00007000 08:05 1055164                    /usr/lib/x86_64-linux-gnu/libSM.so.6.0.1
+7faec6a12000-7faec6a13000 r--p 00008000 08:05 1055164                    /usr/lib/x86_64-linux-gnu/libSM.so.6.0.1
+7faec6a13000-7faec6a14000 rw-p 00009000 08:05 1055164                    /usr/lib/x86_64-linux-gnu/libSM.so.6.0.1
+7faec6a14000-7faec6a17000 r--p 00000000 08:05 1056128                    /usr/lib/x86_64-linux-gnu/libnss_files-2.31.so
+7faec6a17000-7faec6a1e000 r-xp 00003000 08:05 1056128                    /usr/lib/x86_64-linux-gnu/libnss_files-2.31.so
+7faec6a1e000-7faec6a20000 r--p 0000a000 08:05 1056128                    /usr/lib/x86_64-linux-gnu/libnss_files-2.31.so
+7faec6a20000-7faec6a21000 r--p 0000b000 08:05 1056128                    /usr/lib/x86_64-linux-gnu/libnss_files-2.31.so
+7faec6a21000-7faec6a22000 rw-p 0000c000 08:05 1056128                    /usr/lib/x86_64-linux-gnu/libnss_files-2.31.so
+7faec6a22000-7faec6a28000 rw-p 00000000 00:00 0 
+7faec6a28000-7faec6a2a000 r--p 00000000 08:05 1056152             
+       /usr/lib/x86_64-linux-gnu/libogg.so.0.8.4
+7faec6a2a000-7faec6a2f000 r-xp 00002000 08:05 1056152                    /usr/lib/x86_64-linux-gnu/libogg.so.0.8.4
+7faec6a2f000-7faec6a32000 r--p 00007000 08:05 1056152                    /usr/lib/x86_64-linux-gnu/libogg.so.0.8.4
+7faec6a32000-7faec6a33000 ---p 0000a000 08:05 1056152                    /usr/lib/x86_64-linux-gnu/libogg.so.0.8.4
+7faec6a33000-7faec6a34000 r--p 0000a000 08:05 1056152                    /usr/lib/x86_64-linux-gnu/libogg.so.0.8.4
+7faec6a34000-7faec6a35000 rw-p 0000b000 08:05 1056152                    /usr/lib/x86_64-linux-gnu/libogg.so.0.8.4
+7faec6a35000-7faec6a38000 r--p 00000000 08:05 1056574                    /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.8
+7faec6a38000-7faec6a4f000 r-xp 00003000 08:05 1056574                    /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.8
+7faec6a4f000-7faec6a60000 r--p 0001a000 08:05 1056574                    /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.8
+7faec6a60000-7faec6a61000 ---p 0002b000 08:05 1056574                    /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.8
+7faec6a61000-7faec6a62000 r--p 0002b000 08:05 1056574                    /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.8
+7faec6a62000-7faec6a63000 rw-p 0002c000 08:05 1056574                    /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.8
+7faec6a63000-7faec6a65000 r--p 00000000 08:05 1055990                    /usr/lib/x86_64-linux-gnu/libltdl.so.7.3.1
+7faec6a65000-7faec6a6a000 r-xp 00002000 08:05 1055990                    /usr/lib/x86_64-linux-gnu/libltdl.so.7.3.1
+7faec6a6a000-7faec6a6c000 r--p 00007000 08:05 1055990                    /usr/lib/x86_64-linux-gnu/libltdl.so.7.3.1
+7faec6a6c000-7faec6a6d000 r--p 00008000 08:05 1055990                    /usr/lib/x86_64-linux-gnu/libltdl.so.7.3.1
+7faec6a6d000-7faec6a6e000 rw-p 00009000 08:05 1055990                    /usr/lib/x86_64-linux-gnu/libltdl.so.7.3.1
+7faec6a6e000-7faec6a72000 r--p 00000000 08:05 1049423                    /usr/lib/x86_64-linux-gnu/libtdb.so.1.4.3
+7faec6a72000-7faec6a80000 r-xp 00004000 08:05 1049423                    /usr/lib/x86_64-linux-gnu/libtdb.so.1.4.3
+7faec6a80000-7faec6a86000 r--p 00012000 08:05 1049423                    /usr/lib/x86_64-linux-gnu/libtdb.so.1.4.3
+7faec6a86000-7faec6a87000 r--p 00017000 08:05 1049423                    /usr/lib/x86_64-linux-gnu/libtdb.so.1.4.3
+7faec6a87000-7faec6a88000 rw-p 00018000 08:05 1049423                    /usr/lib/x86_64-linux-gnu/libtdb.so.1.4.3
+7faec6a88000-7faec6a8a000 r--p 00000000 08:05 1056578                    /usr/lib/x86_64-linux-gnu/libvorbisfile.so.3.3.7
+7faec6a8a000-7faec6a8f000 r-xp 00002000 08:05 1056578                    /usr/lib/x86_64-linux-gnu/libvorbisfile.so.3.3.7
+7faec6a8f000-7faec6a90000 r--p 00007000 08:05 1056578                    /usr/lib/x86_64-linux-gnu/libvorbisfile.so.3.3.7
+7faec6a90000-7faec6a91000 ---p 00008000 08:05 1056578                    /usr/lib/x86_64-linux-gnu/libvorbisfile.so.3.3.7
+7faec6a91000-7faec6a92000 r--p 00008000 08:05 1056578                    /usr/lib/x86_64-linux-gnu/libvorbisfile.so.3.3.7
+7faec6a92000-7faec6a93000 rw-p 00009000 08:05 1056578                    /usr/lib/x86_64-linux-gnu/libvorbisfile.so.3.3.7
+7faec6a93000-7faec6a96000 r--p 00000000 08:05 1055365                    /usr/lib/x86_64-linux-gnu/libcanberra.so.0.2.5
+7faec6a96000-7faec6aa0000 r-xp 00003000 08:05 1055365                    /usr/lib/x86_64-linux-gnu/libcanberra.so.0.2.5
+7faec6aa0000-7faec6aa4000 r--p 0000d000 08:05 1055365                    /usr/lib/x86_64-linux-gnu/libcanberra.so.0.2.5
+7faec6aa4000-7faec6aa5000 r--p 00010000 08:05 1055365                    /usr/lib/x86_64-linux-gnu/libcanberra.so.0.2.5
+7faec6aa5000-7faec6aa6000 rw-p 00011000 08:05 1055365                    /usr/lib/x86_64-linux-gnu/libcanberra.so.0.2.5
+7faec6aa6000-7faec6aa7000 r--s 00000000 08:05 538686                     /var/cache/fontconfig/5e6020d2-c57a-48de-8fb9-9d7e736320d3-le64.cache-7
+7faec6aa7000-7faec6aae000 r--p 00000000 08:05 288624                     /usr/share/locale-langpack/ru/LC_MESSAGES/gdk-pixbuf.mo
+7faec6aae000-7faec6aaf000 ---p 00000000 00:00 0 
+7faec6aaf000-7faec6ab7000 rw-p 00000000 00:00 0 
+7faec6ab7000-7faec6abb000 r--p 00000000 08:05 397816                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7faec6abb000-7faec6ac3000 r-xp 00004000 08:05 397816                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7faec6ac3000-7faec6ac6000 r--p 0000c000 08:05 397816                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7faec6ac6000-7faec6ac7000 ---p 0000f000 08:05 397816                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7faec6ac7000-7faec6ac8000 r--p 0000f000 08:05 397816                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7faec6ac8000-7faec6ac9000 rw-p 00010000 08:05 397816                     /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+7faec6ac9000-7faec6aca000 ---p 00000000 00:00 0 
+7faec6aca000-7faec72ca000 rw-p 00000000 00:00 0 
+7faec72ca000-7faec7400000 r--p 00000000 08:05 809572                     /usr/share/themes/Yaru/gtk-3.20/gtk.gresource
+7faec7400000-7faec74ff000 rw-p 00000000 00:00 0 
+7faec74ff000-7faec7500000 ---p 00000000 00:00 0 
+7faec7500000-7faec7501000 r--s 00000000 08:05 538724                     /var/cache/fontconfig/953d5fd2-4b0b-438d-9048-13358cab3f7d-le64.cache-7
+7faec7501000-7faec7502000 r--p 00000000 08:05 397711                     /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so
+7faec7502000-7faec7503000 r-xp 00001000 08:05 397711                     /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so
+7faec7503000-7faec7504000 r--p 00002000 08:05 397711                     /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so
+7faec7504000-7faec7505000 r--p 00002000 08:05 397711                     /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so
+7faec7505000-7faec7506000 rw-p 00003000 08:05 397711                     /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so
+7faec7506000-7faec7508000 r--p 00000000 08:05 1055363                    /usr/lib/x86_64-linux-gnu/libcanberra-gtk3.so.0.1.9
+7faec7508000-7faec750a000 r-xp 00002000 08:05 1055363                    /usr/lib/x86_64-linux-gnu/libcanberra-gtk3.so.0.1.9
+7faec750a000-7faec750b000 r--p 00004000 08:05 1055363                    /usr/lib/x86_64-linux-gnu/libcanberra-gtk3.so.0.1.9
+7faec750b000-7faec750c000 r--p 00004000 08:05 1055363                    /usr/lib/x86_64-linux-gnu/libcanberra-gtk3.so.0.1.9
+7faec750c000-7faec750d000 rw-p 00005000 08:05 1055363                    /usr/lib/x86_64-linux-gnu/libcanberra-gtk3.so.0.1.9
+7faec750d000-7faec7518000 r--p 00000000 08:05 397821                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+7faec7518000-7faec7538000 r-xp 0000b000 08:05 397821                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+7faec7538000-7faec7543000 r--p 0002b000 08:05 397821                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+7faec7543000-7faec7544000 ---p 00036000 08:05 397821                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+7faec7544000-7faec7546000 r--p 00036000 08:05 397821                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+7faec7546000-7faec7547000 rw-p 00038000 08:05 397821                     /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+7faec7547000-7faec7559000 r--p 00000000 08:05 398466                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+7faec7559000-7faec7573000 r-xp 00012000 08:05 398466                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+7faec7573000-7faec7580000 r--p 0002c000 08:05 398466                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+7faec7580000-7faec7586000 r--p 00038000 08:05 398466                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+7faec7586000-7faec7587000 rw-p 0003e000 08:05 398466                     /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+7faec7587000-7faec758e000 r--p 00000000 08:05 397820                     /usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so
+7faec758e000-7faec759d000 r-xp 00007000 08:05 397820                     /usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so
+7faec759d000-7faec75a4000 r--p 00016000 08:05 397820                     /usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so
+7faec75a4000-7faec75a8000 r--p 0001c000 08:05 397820                     /usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so
+7faec75a8000-7faec75a9000 rw-p 00020000 08:05 397820                     /usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so
+7faec75a9000-7faec75d2000 r--p 00000000 08:05 288646                     /usr/share/locale-langpack/ru/LC_MESSAGES/glib20.mo
+7faec75d2000-7faec7616000 r--p 00000000 08:05 288706                     /usr/share/locale-langpack/ru/LC_MESSAGES/gtk30-properties.mo
+7faec7616000-7faec7646000 r--p 00000000 08:05 288756                     /usr/share/locale-langpack/ru/LC_MESSAGES/libc.mo
+7faec7646000-7faec7663000 r--p 00000000 08:05 288707                     /usr/share/locale-langpack/ru/LC_MESSAGES/gtk30.mo
+7faec7663000-7faec8441000 r--p 00000000 08:05 1054663                    /usr/lib/locale/locale-archive
+7faec8441000-7faec844a000 r--p 00000000 08:05 1055456                    /usr/lib/x86_64-linux-gnu/libdbus-glib-1.so.2.3.4
+7faec844a000-7faec8460000 r-xp 00009000 08:05 1055456                    /usr/lib/x86_64-linux-gnu/libdbus-glib-1.so.2.3.4
+7faec8460000-7faec8469000 r--p 0001f000 08:05 1055456                    /usr/lib/x86_64-linux-gnu/libdbus-glib-1.so.2.3.4
+7faec8469000-7faec846b000 r--p 00027000 08:05 1055456                    /usr/lib/x86_64-linux-gnu/libdbus-glib-1.so.2.3.4
+7fae
+c846b000-7faec846c000 rw-p 00029000 08:05 1055456                    /usr/lib/x86_64-linux-gnu/libdbus-glib-1.so.2.3.4
+7faec846c000-7faec846d000 r--s 00000000 08:05 538755                     /var/cache/fontconfig/c2243f64-6105-4abc-b7c4-c1461a4c5e99-le64.cache-7
+7faec846d000-7faec846f000 r--p 00000000 08:05 398120                     /usr/lib/x86_64-linux-gnu/gtk-3.0/modules/libcanberra-gtk3-module.so
+7faec846f000-7faec8472000 r-xp 00002000 08:05 398120                     /usr/lib/x86_64-linux-gnu/gtk-3.0/modules/libcanberra-gtk3-module.so
+7faec8472000-7faec8473000 r--p 00005000 08:05 398120                     /usr/lib/x86_64-linux-gnu/gtk-3.0/modules/libcanberra-gtk3-module.so
+7faec8473000-7faec8474000 ---p 00006000 08:05 398120                     /usr/lib/x86_64-linux-gnu/gtk-3.0/modules/libcanberra-gtk3-module.so
+7faec8474000-7faec8475000 r--p 00006000 08:05 398120                     /usr/lib/x86_64-linux-gnu/gtk-3.0/modules/libcanberra-gtk3-module.so
+7faec8475000-7faec8476000 rw-p 00007000 08:05 398120                     /usr/lib/x86_64-linux-gnu/gtk-3.0/modules/libcanberra-gtk3-module.so
+7faec8476000-7faec847d000 r--s 00000000 08:05 397690                     /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+7faec847d000-7faec8dd4000 r--p 00000000 08:05 1079477                    /usr/lib/firefox/libxul.so
+7faec8dd4000-7faece2c4000 r-xp 00957000 08:05 1079477                    /usr/lib/firefox/libxul.so
+7faece2c4000-7faed07a6000 r--p 05e47000 08:05 1079477                    /usr/lib/firefox/libxul.so
+7faed07a6000-7faed07a7000 ---p 08329000 08:05 1079477                    /usr/lib/firefox/libxul.so
+7faed07a7000-7faed0c10000 r--p 08329000 08:05 1079477                    /usr/lib/firefox/libxul.so
+7faed0c10000-7faed0c56000 rw-p 08792000 08:05 1079477                    /usr/lib/firefox/libxul.so
+7faed0c56000-7faed0d30000 rw-p 00000000 00:00 0 
+7faed0d30000-7faed0d34000 r--p 00000000 08:05 1055732                    /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.28.0
+7faed0d34000-7faed0d47000 r-xp 00004000 08:05 1055732                    /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.28.0
+7faed0d47000-7faed0d51000 r--p 00017000 08:05 1055732                    /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.28.0
+7faed0d51000-7faed0d52000 r--p 00020000 08:05 1055732                    /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.28.0
+7faed0d52000-7faed0d53000 rw-p 00021000 08:05 1055732                    /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.28.0
+7faed0d53000-7faed0d5f000 r--p 00000000 08:05 1054709                    /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.2.5
+7faed0d5f000-7faed0e2d000 r-xp 0000c000 08:05 1054709                    /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.2.5
+7faed0e2d000-7faed0e6a000 r--p 000da000 08:05 1054709                    /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.2.5
+7faed0e6a000-7faed0e6c000 r--p 00116000 08:05 1054709                    /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.2.5
+7faed0e6c000-7faed0e71000 rw-p 00118000 08:05 1054709                    /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.2.5
+7faed0e71000-7faed0e73000 r--p 00000000 08:05 1055997                    /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.2
+7faed0e73000-7faed0e8d000 r-xp 00002000 08:05 1055997                    /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.2
+7faed0e8d000-7faed0e90000 r--p 0001c000 08:05 1055997                    /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.2
+7faed0e90000-7faed0e91000 r--p 0001e000 08:05 1055997                    /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.2
+7faed0e91000-7faed0e92000 rw-p 0001f000 08:05 1055997                    /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.2
+7faed0e92000-7faed0e95000 r--p 00000000 08:05 1055999                    /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.4
+7faed0e95000-7faed0ead000 r-xp 00003000 08:05 1055999                    /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.4
+7faed0ead000-7faed0eb8000 r--p 0001b000 08:05 1055999                    /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.4
+7faed0eb8000-7faed0eb9000 ---p 00026000 08:05 1055999                    /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.4
+7faed0eb9000-7faed0eba000 r--p 00026000 08:05 1055999                    /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.4
+7faed0eba000-7faed0ebb000 rw-p 00027000 08:05 1055999                    /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.4
+7faed0ebb000-7faed0ebf000 r--p 00000000 08:05 1055344                    /usr/lib/x86_64-linux-gnu/libbsd.so.0.10.0
+7faed0ebf000-7faed0ece000 r-xp 00004000 08:05 1055344                    /usr/lib/x86_64-linux-gnu/libbsd.so.0.10.0
+7faed0ece000-7faed0ed1000 r--p 00013000 08:05 1055344                    /usr/lib/x86_64-linux-gnu/libbsd.so.0.10.0
+7faed0ed1000-7faed0ed2000 ---p 00016000 08:05 1055344                    /usr/lib/x86_64-linux-gnu/libbsd.so.0.10.0
+7faed0ed2000-7faed0ed3000 r--p 00016000 08:05 1055344                    /usr/lib/x86_64-linux-gnu/libbsd.so.0.10.0
+7faed0ed3000-7faed0ed4000 rw-p 00017000 08:05 1055344                    /usr/lib/x86_64-linux-gnu/libbsd.so.0.10.0
+7faed0ed4000-7faed0ed5000 rw-p 00000000 00:00 0 
+7faed0ed5000-7faed0ed7000 r--p 00000000 08:05 1055450                    /usr/lib/x86_64-linux-gnu/libdatrie.so.1.3.5
+7faed0ed7000-7faed0edb000 r-xp 00002000 08:05 1055450                    /usr/lib/x86_64-linux-gnu/libdatrie.so.1.3.5
+7faed0edb000-7faed0edd000 r--p 00006000 08:05 1055450                    /usr/lib/x86_64-linux-gnu/libdatrie.so.1.3.5
+7faed0edd000-7faed0ede000 r--p 00007000 08:05 1055450                    /usr/lib/x86_64-linux-gnu/libdatrie.so.1.3.5
+7faed0ede000-7faed0edf000 rw-p 00008000 08:05 1055450                    /usr/lib/x86_64-linux-gnu/libdatrie.so.1.3.5
+7faed0edf000-7faed0ee1000 r--p 00000000 08:05 1056215                    /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.9.0
+7faed0ee1000-7faed0f45000 r-xp 00002000 08:05 1056215                    /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.9.0
+7faed0f45000-7faed0f6d000 r--p 00066000 08:05 1056215                    /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.9.0
+7faed0f6d000-7faed0f6e000 r--p 0008d000 08:05 1056215                    /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.9.0
+7faed0f6e000-7faed0f6f000 rw-p 0008e000 08:05 1056215                    /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.9.0
+7faed0f6f000-7faed0f79000 r--p 00000000 08:05 1055325                    /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7faed0f79000-7faed0faf000 r-xp 0000a000 08:05 1055325                    /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7faed0faf000-7faed0fbf000 r--p 00040000 08:05 1055325                    /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7faed0fbf000-7faed0fc0000 ---p 00050000 08:05 1055325                    /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7faed0fc0000-7faed0fc5000 r--p 00050000 08:05 1055325                    /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7faed0fc5000-7faed0fc6000 rw-p 00055000 08:05 1055325                    /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+7faed0fc6000-7faed0fd6000 r--p 00000000 08:05 1048685                    /usr/lib/x86_64-linux-gnu/libsystemd.so.0.28.0
+7faed0fd6000-7faed104b000 r-xp 00010000 08:05 1048685                    /usr/lib/x86_64-linux-gnu/libsystemd.so.0.28.0
+7faed104b000-7faed1070000 r--p 00085000 08:05 1048685                    /usr/lib/x86_64-linux-gnu/libsystemd.so.0.28.0
+7faed1070000-7faed1073000 r--p 000a9000 08:05 1048685                    /usr/lib/x86_64-linux-gnu/libsystemd.so.0.28.0
+7faed1073000-7faed1074000 rw-p 000ac000 08:05 1048685                    /usr/lib/x86_64-linux-gnu/libsystemd.so.0.28.0
+7faed1074000-7faed1075000 rw-p 00000000 00:00 0 
+7faed1075000-7faed1077000 r--p 00000000 08:05 1055186                    /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7faed1077000-7faed1079000 r-xp 00002000 08:05 1055186                    /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7faed1079000-7faed107b000 r--p 00004000 08:05 1055186                    /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7faed107b000-7faed107c000 r--p 00005000 08:05 1055186                    /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7faed107c000-7faed107d000 rw-p 00006000 08:05 1055186                    /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+7faed107d000-7faed107e000 r--p 00000000 08:05 1055175                    /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7faed107e000-7faed1080000 r-xp 00001000 08:05 1055175                    /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7faed1080000-7faed1081000 r--p 00003000 08:05 1055175                    /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7faed1081000-7faed1082000 r--p 00003000 08:05 1055175                    /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7faed1082000-7faed1083000 rw-p 00004000 08:05 1055175                    /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+7faed1083000-7faed1085000 r--p 00000000 08:05 1056556                    /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7faed1085000-7faed1089000 r-xp 00002000 08:05 1056556                    /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7faed1089000-7faed108a000 r--p 00006000 08:05 1056556                    /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7faed108a000-7faed108b000 r--p 00006000 08:05 1056556                    /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7faed108b000-7faed108c000 rw-p 00007000 08:05 1056556                    /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+7faed108c000-7faed1090000 r--p 00000000 08:05 1055570                    /usr/lib/x86_64-linux-gnu/libexpat.so.1.6.11
+7faed1090000-7faed10ac000 r-xp 00004000 08:05 1055570                    /usr/lib/x86_64-linux-gnu/libexpat.so.1.6.11
+7faed10ac000-7faed10b6000 r--p 00020000 08:05 1055570                    /usr/lib/x86_64-linux-gnu/libexpat.so.1.6.11
+7faed10b6000-7faed10b7000 ---p 0002a000 08:05 1055570                    /usr/lib/x86_64-linux-gnu/libexpat.so.1.6.11
+7faed10b7000-7faed10b9000 r--p 0002a000 08:05 1055570                    /usr/lib/x86_64-linux-gnu/libexpat.so.1.6.11
+7faed10b9000-7faed10ba0
+00 rw-p 0002c000 08:05 1055570                    /usr/lib/x86_64-linux-gnu/libexpat.so.1.6.11
+7faed10ba000-7faed10bd000 r--p 00000000 08:05 1055749                    /usr/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1
+7faed10bd000-7faed10df000 r-xp 00003000 08:05 1055749                    /usr/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1
+7faed10df000-7faed10e4000 r--p 00025000 08:05 1055749                    /usr/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1
+7faed10e4000-7faed10e6000 r--p 00029000 08:05 1055749                    /usr/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1
+7faed10e6000-7faed10e7000 rw-p 0002b000 08:05 1055749                    /usr/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1
+7faed10e7000-7faed10e9000 r--p 00000000 08:05 1056211                    /usr/lib/x86_64-linux-gnu/libpcre.so.3.13.3
+7faed10e9000-7faed113a000 r-xp 00002000 08:05 1056211                    /usr/lib/x86_64-linux-gnu/libpcre.so.3.13.3
+7faed113a000-7faed1158000 r--p 00053000 08:05 1056211                    /usr/lib/x86_64-linux-gnu/libpcre.so.3.13.3
+7faed1158000-7faed1159000 r--p 00070000 08:05 1056211                    /usr/lib/x86_64-linux-gnu/libpcre.so.3.13.3
+7faed1159000-7faed115a000 rw-p 00071000 08:05 1056211                    /usr/lib/x86_64-linux-gnu/libpcre.so.3.13.3
+7faed115a000-7faed115c000 r--p 00000000 08:05 1055584                    /usr/lib/x86_64-linux-gnu/libffi.so.7.1.0
+7faed115c000-7faed1162000 r-xp 00002000 08:05 1055584                    /usr/lib/x86_64-linux-gnu/libffi.so.7.1.0
+7faed1162000-7faed1163000 r--p 00008000 08:05 1055584                    /usr/lib/x86_64-linux-gnu/libffi.so.7.1.0
+7faed1163000-7faed1164000 ---p 00009000 08:05 1055584                    /usr/lib/x86_64-linux-gnu/libffi.so.7.1.0
+7faed1164000-7faed1165000 r--p 00009000 08:05 1055584                    /usr/lib/x86_64-linux-gnu/libffi.so.7.1.0
+7faed1165000-7faed1166000 rw-p 0000a000 08:05 1055584                    /usr/lib/x86_64-linux-gnu/libffi.so.7.1.0
+7faed1166000-7faed1168000 r--p 00000000 08:05 1056471                    /usr/lib/x86_64-linux-gnu/libthai.so.0.3.1
+7faed1168000-7faed116c000 r-xp 00002000 08:05 1056471                    /usr/lib/x86_64-linux-gnu/libthai.so.0.3.1
+7faed116c000-7faed116f000 r--p 00006000 08:05 1056471                    /usr/lib/x86_64-linux-gnu/libthai.so.0.3.1
+7faed116f000-7faed1170000 r--p 00008000 08:05 1056471                    /usr/lib/x86_64-linux-gnu/libthai.so.0.3.1
+7faed1170000-7faed1171000 rw-p 00009000 08:05 1056471                    /usr/lib/x86_64-linux-gnu/libthai.so.0.3.1
+7faed1171000-7faed1175000 r--p 00000000 08:05 1056315                    /usr/lib/x86_64-linux-gnu/libresolv-2.31.so
+7faed1175000-7faed1185000 r-xp 00004000 08:05 1056315                    /usr/lib/x86_64-linux-gnu/libresolv-2.31.so
+7faed1185000-7faed1188000 r--p 00014000 08:05 1056315                    /usr/lib/x86_64-linux-gnu/libresolv-2.31.so
+7faed1188000-7faed1189000 ---p 00017000 08:05 1056315                    /usr/lib/x86_64-linux-gnu/libresolv-2.31.so
+7faed1189000-7faed118a000 r--p 00017000 08:05 1056315                    /usr/lib/x86_64-linux-gnu/libresolv-2.31.so
+7faed118a000-7faed118b000 rw-p 00018000 08:05 1056315                    /usr/lib/x86_64-linux-gnu/libresolv-2.31.so
+7faed118b000-7faed118d000 rw-p 00000000 00:00 0 
+7faed118d000-7faed1193000 r--p 00000000 08:05 1056371                    /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7faed1193000-7faed11ac000 r-xp 00006000 08:05 1056371                    /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7faed11ac000-7faed11b3000 r--p 0001f000 08:05 1056371                    /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7faed11b3000-7faed11b4000 ---p 00026000 08:05 1056371                    /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7faed11b4000-7faed11b5000 r--p 00026000 08:05 1056371                    /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7faed11b5000-7faed11b6000 rw-p 00027000 08:05 1056371                    /usr/lib/x86_64-linux-gnu/libselinux.so.1
+7faed11b6000-7faed11b8000 rw-p 00000000 00:00 0 
+7faed11b8000-7faed11c3000 r--p 00000000 08:05 1056027                    /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7faed11c3000-7faed1201000 r-xp 0000b000 08:05 1056027                    /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7faed1201000-7faed1214000 r--p 00049000 08:05 1056027                    /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7faed1214000-7faed1217000 r--p 0005b000 08:05 1056027                    /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7faed1217000-7faed1218000 rw-p 0005e000 08:05 1056027                    /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+7faed1218000-7faed1227000 r--p 00000000 08:05 1055277                    /usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+7faed1227000-7faed123d000 r-xp 0000f000 08:05 1055277                    /usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+7faed123d000-7faed124a000 r--p 00025000 08:05 1055277                    /usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+7faed124a000-7faed124b000 ---p 00032000 08:05 1055277                    /usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+7faed124b000-7faed124e000 r--p 00032000 08:05 1055277                    /usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+7faed124e000-7faed124f000 rw-p 00035000 08:05 1055277                    /usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+7faed124f000-7faed125a000 r--p 00000000 08:05 1055454                    /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.19.11
+7faed125a000-7faed1288000 r-xp 0000b000 08:05 1055454                    /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.19.11
+7faed1288000-7faed129d000 r--p 00039000 08:05 1055454                    /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.19.11
+7faed129d000-7faed129e000 ---p 0004e000 08:05 1055454                    /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.19.11
+7faed129e000-7faed129f000 r--p 0004e000 08:05 1055454                    /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.19.11
+7faed129f000-7faed12a0000 rw-p 0004f000 08:05 1055454                    /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.19.11
+7faed12a0000-7faed12a2000 r--p 00000000 08:05 1056707                    /usr/lib/x86_64-linux-gnu/libz.so.1.2.11
+7faed12a2000-7faed12b3000 r-xp 00002000 08:05 1056707                    /usr/lib/x86_64-linux-gnu/libz.so.1.2.11
+7faed12b3000-7faed12b9000 r--p 00013000 08:05 1056707                    /usr/lib/x86_64-linux-gnu/libz.so.1.2.11
+7faed12b9000-7faed12ba000 ---p 00019000 08:05 1056707                    /usr/lib/x86_64-linux-gnu/libz.so.1.2.11
+7faed12ba000-7faed12bb000 r--p 00019000 08:05 1056707                    /usr/lib/x86_64-linux-gnu/libz.so.1.2.11
+7faed12bb000-7faed12bc000 rw-p 0001a000 08:05 1056707                    /usr/lib/x86_64-linux-gnu/libz.so.1.2.11
+7faed12bc000-7faed12c5000 r-xp 00000000 08:05 1055208                    /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7faed12c5000-7faed14c4000 ---p 00009000 08:05 1055208                    /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7faed14c4000-7faed14c5000 r--p 00008000 08:05 1055208                    /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7faed14c5000-7faed14c6000 rw-p 00009000 08:05 1055208                    /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+7faed14c6000-7faed14cb000 r--p 00000000 08:05 1056659                    /usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+7faed14cb000-7faed14d0000 r-xp 00005000 08:05 1056659                    /usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+7faed14d0000-7faed14d2000 r--p 0000a000 08:05 1056659                    /usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+7faed14d2000-7faed14d3000 ---p 0000c000 08:05 1056659                    /usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+7faed14d3000-7faed14d4000 r--p 0000c000 08:05 1056659                    /usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+7faed14d4000-7faed14d5000 rw-p 0000d000 08:05 1056659                    /usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+7faed14d5000-7faed14d6000 r--p 00000000 08:05 1056665                    /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7faed14d6000-7faed14d7000 r-xp 00001000 08:05 1056665                    /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7faed14d7000-7faed14d8000 r--p 00002000 08:05 1056665                    /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7faed14d8000-7faed14d9000 r--p 00002000 08:05 1056665                    /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7faed14d9000-7faed14da000 rw-p 00003000 08:05 1056665                    /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+7faed14da000-7faed14df000 r--p 00000000 08:05 1056249                    /usr/lib/x86_64-linux-gnu/libpng16.so.16.37.0
+7faed14df000-7faed1504000 r-xp 00005000 08:05 1056249                    /usr/lib/x86_64-linux-gnu/libpng16.so.16.37.0
+7faed1504000-7faed1510000 r--p 0002a000 08:05 1056249                    /usr/lib/x86_64-linux-gnu/libpng16.so.16.37.0
+7faed1510000-7faed1511000 r--p 00035000 08:05 1056249                    /usr/lib/x86_64-linux-gnu/libpng16.so.16.37.0
+7faed1511000-7faed1512000 rw-p 00036000 08:05 1056249                    /usr/lib/x86_64-linux-gnu/libpng16.so.16.37.0
+7faed1512000-7faed151c000 r--p 00000000 08:05 1056233                    /usr/lib/x86_64-linux-gnu/libpixman-1.so.0.38.4
+7faed151c000-7faed15a0000 r-xp 0000a000 08:05 1056233                    /usr/lib/x86_64-linux-gnu/libpixman-1.so.0.38.4
+7faed15a0000-7faed15b0000 r--p 0008e000 08:05 1056233                    /usr/lib/x86_64-linux-gnu/libpixman-1.so.0.38.4
+7faed15b0000-7faed15b8000 r--p 0009d000 08:05 1056233                    /usr/lib/x86_64-linux-gnu/libpixman-1.so.0.38.4
+7faed15b8000-7faed15b9000 rw-p 000a5000 08:05 1056233                    /usr/lib/x86_64-linux-gnu/libpixman-1.so.0.38.4
+7faed15b9000-7faed15c4000 r--p 00000000 08:05 1056677                    /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7faed15c4000-7faed15d8000 r-xp 0000b000 08:05 1056677                    /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7faed15d8000-7faed15e1000 r--p 
+0001f000 08:05 1056677                    /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7faed15e1000-7faed15e2000 r--p 00027000 08:05 1056677                    /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7faed15e2000-7faed15e3000 rw-p 00028000 08:05 1056677                    /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+7faed15e3000-7faed15e7000 r--p 00000000 08:05 1055188                    /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7faed15e7000-7faed15f2000 r-xp 00004000 08:05 1055188                    /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7faed15f2000-7faed15f6000 r--p 0000f000 08:05 1055188                    /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7faed15f6000-7faed15f7000 r--p 00012000 08:05 1055188                    /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7faed15f7000-7faed15f8000 rw-p 00013000 08:05 1055188                    /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+7faed15f8000-7faed15fd000 r--p 00000000 08:05 1056594                    /usr/lib/x86_64-linux-gnu/libwayland-client.so.0.3.0
+7faed15fd000-7faed1603000 r-xp 00005000 08:05 1056594                    /usr/lib/x86_64-linux-gnu/libwayland-client.so.0.3.0
+7faed1603000-7faed1606000 r--p 0000b000 08:05 1056594                    /usr/lib/x86_64-linux-gnu/libwayland-client.so.0.3.0
+7faed1606000-7faed1608000 r--p 0000d000 08:05 1056594                    /usr/lib/x86_64-linux-gnu/libwayland-client.so.0.3.0
+7faed1608000-7faed1609000 rw-p 0000f000 08:05 1056594                    /usr/lib/x86_64-linux-gnu/libwayland-client.so.0.3.0
+7faed1609000-7faed160a000 r--p 00000000 08:05 1056598                    /usr/lib/x86_64-linux-gnu/libwayland-egl.so.1.0.0
+7faed160a000-7faed160b000 r-xp 00001000 08:05 1056598                    /usr/lib/x86_64-linux-gnu/libwayland-egl.so.1.0.0
+7faed160b000-7faed160c000 r--p 00002000 08:05 1056598                    /usr/lib/x86_64-linux-gnu/libwayland-egl.so.1.0.0
+7faed160c000-7faed160d000 r--p 00002000 08:05 1056598                    /usr/lib/x86_64-linux-gnu/libwayland-egl.so.1.0.0
+7faed160d000-7faed160e000 rw-p 00003000 08:05 1056598                    /usr/lib/x86_64-linux-gnu/libwayland-egl.so.1.0.0
+7faed160e000-7faed1610000 r--p 00000000 08:05 1056596                    /usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.0.0
+7faed1610000-7faed1613000 r-xp 00002000 08:05 1056596                    /usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.0.0
+7faed1613000-7faed1614000 r--p 00005000 08:05 1056596                    /usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.0.0
+7faed1614000-7faed1615000 r--p 00005000 08:05 1056596                    /usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.0.0
+7faed1615000-7faed1619000 rw-p 00006000 08:05 1056596                    /usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.0.0
+7faed1619000-7faed161d000 r--p 00000000 08:05 1056681                    /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0.0.0
+7faed161d000-7faed1639000 r-xp 00004000 08:05 1056681                    /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0.0.0
+7faed1639000-7faed1658000 r--p 00020000 08:05 1056681                    /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0.0.0
+7faed1658000-7faed165a000 r--p 0003e000 08:05 1056681                    /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0.0.0
+7faed165a000-7faed165b000 rw-p 00040000 08:05 1056681                    /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0.0.0
+7faed165b000-7faed165c000 r--p 00000000 08:05 1055184                    /usr/lib/x86_64-linux-gnu/libXdamage.so.1.1.0
+7faed165c000-7faed165d000 r-xp 00001000 08:05 1055184                    /usr/lib/x86_64-linux-gnu/libXdamage.so.1.1.0
+7faed165d000-7faed165e000 r--p 00002000 08:05 1055184                    /usr/lib/x86_64-linux-gnu/libXdamage.so.1.1.0
+7faed165e000-7faed165f000 r--p 00002000 08:05 1055184                    /usr/lib/x86_64-linux-gnu/libXdamage.so.1.1.0
+7faed165f000-7faed1660000 rw-p 00003000 08:05 1055184                    /usr/lib/x86_64-linux-gnu/libXdamage.so.1.1.0
+7faed1660000-7faed1661000 r--p 00000000 08:05 1055180                    /usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+7faed1661000-7faed1662000 r-xp 00001000 08:05 1055180                    /usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+7faed1662000-7faed1663000 r--p 00002000 08:05 1055180                    /usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+7faed1663000-7faed1664000 r--p 00002000 08:05 1055180                    /usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+7faed1664000-7faed1665000 rw-p 00003000 08:05 1055180                    /usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+7faed1665000-7faed1668000 r--p 00000000 08:05 1055182                    /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7faed1668000-7faed166e000 r-xp 00003000 08:05 1055182                    /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7faed166e000-7faed1670000 r--p 00009000 08:05 1055182                    /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7faed1670000-7faed1671000 r--p 0000a000 08:05 1055182                    /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7faed1671000-7faed1672000 rw-p 0000b000 08:05 1055182                    /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+7faed1672000-7faed1674000 r--p 00000000 08:05 1055206                    /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7faed1674000-7faed167b000 r-xp 00002000 08:05 1055206                    /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7faed167b000-7faed167d000 r--p 00009000 08:05 1055206                    /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7faed167d000-7faed167e000 r--p 0000a000 08:05 1055206                    /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7faed167e000-7faed167f000 rw-p 0000b000 08:05 1055206                    /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+7faed167f000-7faed1680000 r--p 00000000 08:05 1055198                    /usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+7faed1680000-7faed1681000 r-xp 00001000 08:05 1055198                    /usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+7faed1681000-7faed1682000 r--p 00002000 08:05 1055198                    /usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+7faed1682000-7faed1683000 r--p 00002000 08:05 1055198                    /usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+7faed1683000-7faed1684000 rw-p 00003000 08:05 1055198                    /usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+7faed1684000-7faed1690000 r--p 00000000 08:05 1055617                    /usr/lib/x86_64-linux-gnu/libfreetype.so.6.17.1
+7faed1690000-7faed1710000 r-xp 0000c000 08:05 1055617                    /usr/lib/x86_64-linux-gnu/libfreetype.so.6.17.1
+7faed1710000-7faed173a000 r--p 0008c000 08:05 1055617                    /usr/lib/x86_64-linux-gnu/libfreetype.so.6.17.1
+7faed173a000-7faed173b000 ---p 000b6000 08:05 1055617                    /usr/lib/x86_64-linux-gnu/libfreetype.so.6.17.1
+7faed173b000-7faed1742000 r--p 000b6000 08:05 1055617                    /usr/lib/x86_64-linux-gnu/libfreetype.so.6.17.1
+7faed1742000-7faed1743000 rw-p 000bd000 08:05 1055617                    /usr/lib/x86_64-linux-gnu/libfreetype.so.6.17.1
+7faed1743000-7faed174a000 r--p 00000000 08:05 1055594                    /usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.0
+7faed174a000-7faed176f000 r-xp 00007000 08:05 1055594                    /usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.0
+7faed176f000-7faed1787000 r--p 0002c000 08:05 1055594                    /usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.0
+7faed1787000-7faed1789000 r--p 00043000 08:05 1055594                    /usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.0
+7faed1789000-7faed178a000 rw-p 00045000 08:05 1055594                    /usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.0
+7faed178a000-7faed1793000 r--p 00000000 08:05 1055844                    /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.20600.4
+7faed1793000-7faed185b000 r-xp 00009000 08:05 1055844                    /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.20600.4
+7faed185b000-7faed188c000 r--p 000d1000 08:05 1055844                    /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.20600.4
+7faed188c000-7faed188d000 ---p 00102000 08:05 1055844                    /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.20600.4
+7faed188d000-7faed188e000 r--p 00102000 08:05 1055844                    /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.20600.4
+7faed188e000-7faed188f000 rw-p 00103000 08:05 1055844                    /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.20600.4
+7faed188f000-7faed18ab000 r--p 00000000 08:05 1055696                    /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.6400.6
+7faed18ab000-7faed192f000 r-xp 0001c000 08:05 1055696                    /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.6400.6
+7faed192f000-7faed19b5000 r--p 000a0000 08:05 1055696                    /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.6400.6
+7faed19b5000-7faed19b6000 r--p 00125000 08:05 1055696                    /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.6400.6
+7faed19b6000-7faed19b7000 rw-p 00126000 08:05 1055696                    /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.6400.6
+7faed19b7000-7faed19b8000 rw-p 00000000 00:00 0 
+7faed19b8000-7faed19c6000 r--p 00000000 08:05 1055726                    /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.6400.6
+7faed19c6000-7faed19fc000 r-xp 0000e000 08:05 1055726                    /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.6400.6
+7faed19fc000-7faed1a14000 r--p 00044000 08:05 1055726                    /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.6400.6
+7faed1a14000-7faed1a17000 r--p 0005b000 08:05 1055726                    /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.6400.6
+7faed1a17000-7faed1a18000 rw-p 0005e000 08:05 1055726                    /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.6400.6
+7faed1a18000-7faed1a27000 r--p 00000000 08:05 1056184                    /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.4400.7
+7faed1a27000-7faed1a4c000 r-xp 0000f000 08:05 1056184                    /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.4400.7
+7faed1a4c
+000-7faed1a63000 r--p 00034000 08:05 1056184                    /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.4400.7
+7faed1a63000-7faed1a66000 r--p 0004a000 08:05 1056184                    /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.4400.7
+7faed1a66000-7faed1a67000 rw-p 0004d000 08:05 1056184                    /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.4400.7
+7faed1a67000-7faed1a6e000 r--p 00000000 08:05 1056188                    /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.4400.7
+7faed1a6e000-7faed1a79000 r-xp 00007000 08:05 1056188                    /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.4400.7
+7faed1a79000-7faed1a7d000 r--p 00012000 08:05 1056188                    /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.4400.7
+7faed1a7d000-7faed1a7e000 ---p 00016000 08:05 1056188                    /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.4400.7
+7faed1a7e000-7faed1a7f000 r--p 00016000 08:05 1056188                    /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.4400.7
+7faed1a7f000-7faed1a80000 rw-p 00017000 08:05 1056188                    /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.4400.7
+7faed1a80000-7faed1ab8000 r--p 00000000 08:05 1055686                    /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.6400.6
+7faed1ab8000-7faed1bcb000 r-xp 00038000 08:05 1055686                    /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.6400.6
+7faed1bcb000-7faed1c55000 r--p 0014b000 08:05 1055686                    /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.6400.6
+7faed1c55000-7faed1c5e000 r--p 001d4000 08:05 1055686                    /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.6400.6
+7faed1c5e000-7faed1c5f000 rw-p 001dd000 08:05 1055686                    /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.6400.6
+7faed1c5f000-7faed1c61000 rw-p 00000000 00:00 0 
+7faed1c61000-7faed1c63000 r--p 00000000 08:05 1055619                    /usr/lib/x86_64-linux-gnu/libfribidi.so.0.4.0
+7faed1c63000-7faed1c67000 r-xp 00002000 08:05 1055619                    /usr/lib/x86_64-linux-gnu/libfribidi.so.0.4.0
+7faed1c67000-7faed1c7c000 r--p 00006000 08:05 1055619                    /usr/lib/x86_64-linux-gnu/libfribidi.so.0.4.0
+7faed1c7c000-7faed1c7d000 r--p 0001a000 08:05 1055619                    /usr/lib/x86_64-linux-gnu/libfribidi.so.0.4.0
+7faed1c7d000-7faed1c7e000 rw-p 0001b000 08:05 1055619                    /usr/lib/x86_64-linux-gnu/libfribidi.so.0.4.0
+7faed1c7e000-7faed1cde000 r--p 00000000 08:05 1055546                    /usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+7faed1cde000-7faed1d44000 r-xp 00060000 08:05 1055546                    /usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+7faed1d44000-7faed1da1000 r--p 000c6000 08:05 1055546                    /usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+7faed1da1000-7faed1da2000 ---p 00123000 08:05 1055546                    /usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+7faed1da2000-7faed1daa000 r--p 00123000 08:05 1055546                    /usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+7faed1daa000-7faed1db1000 rw-p 0012b000 08:05 1055546                    /usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+7faed1db1000-7faed1dbd000 r--p 00000000 08:05 1055269                    /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+7faed1dbd000-7faed1dd6000 r-xp 0000c000 08:05 1055269                    /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+7faed1dd6000-7faed1de4000 r--p 00025000 08:05 1055269                    /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+7faed1de4000-7faed1de5000 ---p 00033000 08:05 1055269                    /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+7faed1de5000-7faed1de6000 r--p 00033000 08:05 1055269                    /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+7faed1de6000-7faed1de7000 rw-p 00034000 08:05 1055269                    /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+7faed1de7000-7faed1de8000 rw-p 00000000 00:00 0 
+7faed1de8000-7faed1df3000 r--p 00000000 08:05 1055267                    /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0.23510.1
+7faed1df3000-7faed1e02000 r-xp 0000b000 08:05 1055267                    /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0.23510.1
+7faed1e02000-7faed1e0e000 r--p 0001a000 08:05 1055267                    /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0.23510.1
+7faed1e0e000-7faed1e11000 r--p 00025000 08:05 1055267                    /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0.23510.1
+7faed1e11000-7faed1e12000 rw-p 00028000 08:05 1055267                    /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0.23510.1
+7faed1e12000-7faed1e18000 r--p 00000000 08:05 1055668                    /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4000.0
+7faed1e18000-7faed1e2f000 r-xp 00006000 08:05 1055668                    /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4000.0
+7faed1e2f000-7faed1e38000 r--p 0001d000 08:05 1055668                    /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4000.0
+7faed1e38000-7faed1e39000 r--p 00025000 08:05 1055668                    /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4000.0
+7faed1e39000-7faed1e3a000 rw-p 00026000 08:05 1055668                    /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4000.0
+7faed1e3a000-7faed1e4c000 r--p 00000000 08:05 1055357                    /usr/lib/x86_64-linux-gnu/libcairo.so.2.11600.0
+7faed1e4c000-7faed1f1b000 r-xp 00012000 08:05 1055357                    /usr/lib/x86_64-linux-gnu/libcairo.so.2.11600.0
+7faed1f1b000-7faed1f57000 r--p 000e1000 08:05 1055357                    /usr/lib/x86_64-linux-gnu/libcairo.so.2.11600.0
+7faed1f57000-7faed1f5b000 r--p 0011c000 08:05 1055357                    /usr/lib/x86_64-linux-gnu/libcairo.so.2.11600.0
+7faed1f5b000-7faed1f5c000 rw-p 00120000 08:05 1055357                    /usr/lib/x86_64-linux-gnu/libcairo.so.2.11600.0
+7faed1f5c000-7faed1f5d000 rw-p 00000000 00:00 0 
+7faed1f5d000-7faed1f61000 r--p 00000000 08:05 1055355                    /usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11600.0
+7faed1f61000-7faed1f63000 r-xp 00004000 08:05 1055355                    /usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11600.0
+7faed1f63000-7faed1f65000 r--p 00006000 08:05 1055355                    /usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11600.0
+7faed1f65000-7faed1f66000 ---p 00008000 08:05 1055355                    /usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11600.0
+7faed1f66000-7faed1f68000 r--p 00008000 08:05 1055355                    /usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11600.0
+7faed1f68000-7faed1f69000 rw-p 0000a000 08:05 1055355                    /usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11600.0
+7faed1f69000-7faed1f6b000 r--p 00000000 08:05 1055190                    /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7faed1f6b000-7faed1f6e000 r-xp 00002000 08:05 1055190                    /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7faed1f6e000-7faed1f6f000 r--p 00005000 08:05 1055190                    /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7faed1f6f000-7faed1f70000 r--p 00005000 08:05 1055190                    /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7faed1f70000-7faed1f71000 rw-p 00006000 08:05 1055190                    /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+7faed1f71000-7faed1f73000 r--p 00000000 08:05 1055196                    /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7faed1f73000-7faed1f7e000 r-xp 00002000 08:05 1055196                    /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7faed1f7e000-7faed1f81000 r--p 0000d000 08:05 1055196                    /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7faed1f81000-7faed1f82000 r--p 0000f000 08:05 1055196                    /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7faed1f82000-7faed1f83000 rw-p 00010000 08:05 1055196                    /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+7faed1f83000-7faed1f9b000 r--p 00000000 08:05 1055171                    /usr/lib/x86_64-linux-gnu/libX11.so.6.3.0
+7faed1f9b000-7faed2026000 r-xp 00018000 08:05 1055171                    /usr/lib/x86_64-linux-gnu/libX11.so.6.3.0
+7faed2026000-7faed20ba000 r--p 000a3000 08:05 1055171                    /usr/lib/x86_64-linux-gnu/libX11.so.6.3.0
+7faed20ba000-7faed20bb000 ---p 00137000 08:05 1055171                    /usr/lib/x86_64-linux-gnu/libX11.so.6.3.0
+7faed20bb000-7faed20bc000 r--p 00137000 08:05 1055171                    /usr/lib/x86_64-linux-gnu/libX11.so.6.3.0
+7faed20bc000-7faed20c0000 rw-p 00138000 08:05 1055171                    /usr/lib/x86_64-linux-gnu/libX11.so.6.3.0
+7faed20c0000-7faed20c5000 r--p 00000000 08:05 1056186                    /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.4400.7
+7faed20c5000-7faed20cd000 r-xp 00005000 08:05 1056186                    /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.4400.7
+7faed20cd000-7faed20d0000 r--p 0000d000 08:05 1056186                    /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.4400.7
+7faed20d0000-7faed20d1000 r--p 0000f000 08:05 1056186                    /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.4400.7
+7faed20d1000-7faed20d2000 rw-p 00010000 08:05 1056186                    /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.4400.7
+7faed20d2000-7faed20fc000 r--p 00000000 08:05 1055664                    /usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2404.16
+7faed20fc000-7faed217d000 r-xp 0002a000 08:05 1055664                    /usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2404.16
+7faed217d000-7faed21cc000 r--p 000ab000 08:05 1055664                    /usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2404.16
+7faed21cc000-7faed21d5000 r--p 000f9000 08:05 1055664                    /usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2404.16
+7faed21d5000-7faed21d7000 rw-p 00102000 08:05 1055664                    /usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2404.16
+7faed21d7000-7faed225c000 r--p 00000000 08:05 1055811                    /usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2404.16
+7faed225c000-7faed25cb000 r-xp 00085000 08:05 1055811                    /usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2404.16
+7faed25cb000-7faed296f000 r--p 003f4000 08:05 1055811                    /usr/lib/x8
+6_64-linux-gnu/libgtk-3.so.0.2404.16
+7faed296f000-7faed2980000 r--p 00797000 08:05 1055811                    /usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2404.16
+7faed2980000-7faed2982000 rw-p 007a8000 08:05 1055811                    /usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2404.16
+7faed2982000-7faed2988000 rw-p 00000000 00:00 0 
+7faed2988000-7faed298e000 r--p 00000000 08:05 133584                     /usr/share/icons/hicolor/icon-theme.cache
+7faed298e000-7faed298f000 r--p 00000000 08:05 1055169                    /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7faed298f000-7faed2990000 r-xp 00001000 08:05 1055169                    /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7faed2990000-7faed2991000 r--p 00002000 08:05 1055169                    /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7faed2991000-7faed2992000 r--p 00002000 08:05 1055169                    /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7faed2992000-7faed2993000 rw-p 00003000 08:05 1055169                    /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+7faed2993000-7faed2995000 r--p 00000000 08:05 1079455                    /usr/lib/firefox/libmozwayland.so
+7faed2995000-7faed2996000 r-xp 00002000 08:05 1079455                    /usr/lib/firefox/libmozwayland.so
+7faed2996000-7faed2997000 r--p 00003000 08:05 1079455                    /usr/lib/firefox/libmozwayland.so
+7faed2997000-7faed2998000 r--p 00003000 08:05 1079455                    /usr/lib/firefox/libmozwayland.so
+7faed2998000-7faed2999000 rw-p 00004000 08:05 1079455                    /usr/lib/firefox/libmozwayland.so
+7faed2999000-7faed29a6000 r--p 00000000 08:05 1079475                    /usr/lib/firefox/libssl3.so
+7faed29a6000-7faed29e2000 r-xp 0000d000 08:05 1079475                    /usr/lib/firefox/libssl3.so
+7faed29e2000-7faed29f6000 r--p 00049000 08:05 1079475                    /usr/lib/firefox/libssl3.so
+7faed29f6000-7faed29fa000 r--p 0005c000 08:05 1079475                    /usr/lib/firefox/libssl3.so
+7faed29fa000-7faed29fb000 rw-p 00060000 08:05 1079475                    /usr/lib/firefox/libssl3.so
+7faed29fb000-7faed29fc000 rw-p 00000000 00:00 0 
+7faed29fc000-7faed2a08000 r--p 00000000 08:05 1079453                    /usr/lib/firefox/libmozsqlite3.so
+7faed2a08000-7faed2b03000 r-xp 0000c000 08:05 1079453                    /usr/lib/firefox/libmozsqlite3.so
+7faed2b03000-7faed2b2a000 r--p 00107000 08:05 1079453                    /usr/lib/firefox/libmozsqlite3.so
+7faed2b2a000-7faed2b2d000 r--p 0012d000 08:05 1079453                    /usr/lib/firefox/libmozsqlite3.so
+7faed2b2d000-7faed2b30000 rw-p 00130000 08:05 1079453                    /usr/lib/firefox/libmozsqlite3.so
+7faed2b30000-7faed2b31000 rw-p 00000000 00:00 0 
+7faed2b31000-7faed2b39000 r--p 00000000 08:05 1079469                    /usr/lib/firefox/libsmime3.so
+7faed2b39000-7faed2b4e000 r-xp 00008000 08:05 1079469                    /usr/lib/firefox/libsmime3.so
+7faed2b4e000-7faed2b54000 r--p 0001d000 08:05 1079469                    /usr/lib/firefox/libsmime3.so
+7faed2b54000-7faed2b57000 r--p 00022000 08:05 1079469                    /usr/lib/firefox/libsmime3.so
+7faed2b57000-7faed2b58000 rw-p 00025000 08:05 1079469                    /usr/lib/firefox/libsmime3.so
+7faed2b58000-7faed2b6e000 r--p 00000000 08:05 1079459                    /usr/lib/firefox/libnss3.so
+7faed2b6e000-7faed2bd0000 r-xp 00016000 08:05 1079459                    /usr/lib/firefox/libnss3.so
+7faed2bd0000-7faed2bf8000 r--p 00078000 08:05 1079459                    /usr/lib/firefox/libnss3.so
+7faed2bf8000-7faed2bfd000 r--p 0009f000 08:05 1079459                    /usr/lib/firefox/libnss3.so
+7faed2bfd000-7faed2bff000 rw-p 000a4000 08:05 1079459                    /usr/lib/firefox/libnss3.so
+7faed2bff000-7faed2c00000 ---p 00000000 00:00 0 
+7faed2c00000-7faed34ff000 rw-p 00000000 00:00 0 
+7faed34ff000-7faed3500000 ---p 00000000 00:00 0 
+7faed3500000-7faed3510000 rw-p 00000000 00:00 0 
+7faed3510000-7faed3600000 ---p 00000000 00:00 0 
+7faed3600000-7faed3601000 r--s 00000000 00:01 3445                       /memfd:mozilla-ipc (deleted)
+7faed3601000-7faed3602000 rw-s 00000000 00:01 3351                       /memfd:mozilla-ipc (deleted)
+7faed3602000-7faed3603000 r--p 00000000 08:05 1055702                    /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.6400.6
+7faed3603000-7faed3605000 r-xp 00001000 08:05 1055702                    /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.6400.6
+7faed3605000-7faed3606000 r--p 00003000 08:05 1055702                    /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.6400.6
+7faed3606000-7faed3607000 r--p 00003000 08:05 1055702                    /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.6400.6
+7faed3607000-7faed3608000 rw-p 00004000 08:05 1055702                    /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.6400.6
+7faed3608000-7faed3614000 r--p 00000000 08:05 1079463                    /usr/lib/firefox/libnssutil3.so
+7faed3614000-7faed3626000 r-xp 0000c000 08:05 1079463                    /usr/lib/firefox/libnssutil3.so
+7faed3626000-7faed3631000 r--p 0001e000 08:05 1079463                    /usr/lib/firefox/libnssutil3.so
+7faed3631000-7faed3632000 ---p 00029000 08:05 1079463                    /usr/lib/firefox/libnssutil3.so
+7faed3632000-7faed3639000 r--p 00029000 08:05 1079463                    /usr/lib/firefox/libnssutil3.so
+7faed3639000-7faed363a000 rw-p 00030000 08:05 1079463                    /usr/lib/firefox/libnssutil3.so
+7faed363a000-7faed363d000 r--p 00000000 08:05 1056335                    /usr/lib/x86_64-linux-gnu/librt-2.31.so
+7faed363d000-7faed3641000 r-xp 00003000 08:05 1056335                    /usr/lib/x86_64-linux-gnu/librt-2.31.so
+7faed3641000-7faed3642000 r--p 00007000 08:05 1056335                    /usr/lib/x86_64-linux-gnu/librt-2.31.so
+7faed3642000-7faed3643000 ---p 00008000 08:05 1056335                    /usr/lib/x86_64-linux-gnu/librt-2.31.so
+7faed3643000-7faed3644000 r--p 00008000 08:05 1056335                    /usr/lib/x86_64-linux-gnu/librt-2.31.so
+7faed3644000-7faed3645000 rw-p 00009000 08:05 1056335                    /usr/lib/x86_64-linux-gnu/librt-2.31.so
+7faed3645000-7faed3646000 r--p 00000000 08:05 1052440                    /usr/lib/firefox/libmozgtk.so
+7faed3646000-7faed3647000 r-xp 00001000 08:05 1052440                    /usr/lib/firefox/libmozgtk.so
+7faed3647000-7faed3648000 r--p 00002000 08:05 1052440                    /usr/lib/firefox/libmozgtk.so
+7faed3648000-7faed3649000 r--p 00002000 08:05 1052440                    /usr/lib/firefox/libmozgtk.so
+7faed3649000-7faed364a000 rw-p 00003000 08:05 1052440                    /usr/lib/firefox/libmozgtk.so
+7faed364a000-7faed364d000 r--p 00000000 08:05 1051785                    /usr/lib/firefox/liblgpllibs.so
+7faed364d000-7faed3652000 r-xp 00003000 08:05 1051785                    /usr/lib/firefox/liblgpllibs.so
+7faed3652000-7faed3654000 r--p 00008000 08:05 1051785                    /usr/lib/firefox/liblgpllibs.so
+7faed3654000-7faed3655000 r--p 00009000 08:05 1051785                    /usr/lib/firefox/liblgpllibs.so
+7faed3655000-7faed3656000 rw-p 0000a000 08:05 1051785                    /usr/lib/firefox/liblgpllibs.so
+7faed3656000-7faed365b000 r--p 00000000 08:05 1052441                    /usr/lib/firefox/libmozsandbox.so
+7faed365b000-7faed3673000 r-xp 00005000 08:05 1052441                    /usr/lib/firefox/libmozsandbox.so
+7faed3673000-7faed367b000 r--p 0001d000 08:05 1052441                    /usr/lib/firefox/libmozsandbox.so
+7faed367b000-7faed367c000 r--p 00024000 08:05 1052441                    /usr/lib/firefox/libmozsandbox.so
+7faed367c000-7faed367d000 rw-p 00025000 08:05 1052441                    /usr/lib/firefox/libmozsandbox.so
+7faed367d000-7faed3687000 r--p 00000000 08:05 1079457                    /usr/lib/firefox/libnspr4.so
+7faed3687000-7faed36aa000 r-xp 0000a000 08:05 1079457                    /usr/lib/firefox/libnspr4.so
+7faed36aa000-7faed36b5000 r--p 0002d000 08:05 1079457                    /usr/lib/firefox/libnspr4.so
+7faed36b5000-7faed36b6000 ---p 00038000 08:05 1079457                    /usr/lib/firefox/libnspr4.so
+7faed36b6000-7faed36b7000 r--p 00038000 08:05 1079457                    /usr/lib/firefox/libnspr4.so
+7faed36b7000-7faed36b8000 rw-p 00039000 08:05 1079457                    /usr/lib/firefox/libnspr4.so
+7faed36b8000-7faed36c0000 rw-p 00000000 00:00 0 
+7faed36c0000-7faed36e5000 r--p 00000000 08:05 1055348                    /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7faed36e5000-7faed385d000 r-xp 00025000 08:05 1055348                    /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7faed385d000-7faed38a7000 r--p 0019d000 08:05 1055348                    /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7faed38a7000-7faed38a8000 ---p 001e7000 08:05 1055348                    /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7faed38a8000-7faed38ab000 r--p 001e7000 08:05 1055348                    /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7faed38ab000-7faed38ae000 rw-p 001ea000 08:05 1055348                    /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7faed38ae000-7faed38b2000 rw-p 00000000 00:00 0 
+7faed38b2000-7faed38b5000 r--p 00000000 08:05 1055641                    /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7faed38b5000-7faed38c7000 r-xp 00003000 08:05 1055641                    /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7faed38c7000-7faed38cb000 r--p 00015000 08:05 1055641                    /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7faed38cb000-7faed38cc000 r--p 00018000 08:05 1055641                    /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7faed38cc000-7faed38cd000 rw-p 00019000 08:05 1055641                    /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7faed38cd000-7faed38dc000 r--p 00000000 08:05 1056002                    /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7faed38dc000-7faed3983000 r-xp 0000f000 08:05 1056002                    /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7faed3983000-7faed3a1a000 r--p 000b6000 08:05 1056002                    /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7faed3a1a000-7faed3a1b00
+0 r--p 0014c000 08:05 1056002                    /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7faed3a1b000-7faed3a1c000 rw-p 0014d000 08:05 1056002                    /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7faed3a1c000-7faed3ab2000 r--p 00000000 08:05 1056444                    /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28
+7faed3ab2000-7faed3ba3000 r-xp 00096000 08:05 1056444                    /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28
+7faed3ba3000-7faed3bec000 r--p 00187000 08:05 1056444                    /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28
+7faed3bec000-7faed3bed000 ---p 001d0000 08:05 1056444                    /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28
+7faed3bed000-7faed3bf8000 r--p 001d0000 08:05 1056444                    /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28
+7faed3bf8000-7faed3bfb000 rw-p 001db000 08:05 1056444                    /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28
+7faed3bfb000-7faed3bfe000 rw-p 00000000 00:00 0 
+7faed3bfe000-7faed3bff000 r--p 00000000 08:05 1055489                    /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+7faed3bff000-7faed3c01000 r-xp 00001000 08:05 1055489                    /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+7faed3c01000-7faed3c02000 r--p 00003000 08:05 1055489                    /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+7faed3c02000-7faed3c03000 r--p 00003000 08:05 1055489                    /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+7faed3c03000-7faed3c04000 rw-p 00004000 08:05 1055489                    /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+7faed3c04000-7faed3c0b000 r--p 00000000 08:05 1056272                    /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+7faed3c0b000-7faed3c1c000 r-xp 00007000 08:05 1056272                    /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+7faed3c1c000-7faed3c21000 r--p 00018000 08:05 1056272                    /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+7faed3c21000-7faed3c22000 r--p 0001c000 08:05 1056272                    /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+7faed3c22000-7faed3c23000 rw-p 0001d000 08:05 1056272                    /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+7faed3c23000-7faed3c29000 rw-p 00000000 00:00 0 
+7faed3c29000-7faed3c2d000 r--p 00000000 08:05 288537                     /usr/share/locale-langpack/ru/LC_MESSAGES/atk10.mo
+7faed3c2d000-7faed3c2e000 r--p 00000000 08:05 1079467                    /usr/lib/firefox/libplds4.so
+7faed3c2e000-7faed3c30000 r-xp 00001000 08:05 1079467                    /usr/lib/firefox/libplds4.so
+7faed3c30000-7faed3c31000 r--p 00003000 08:05 1079467                    /usr/lib/firefox/libplds4.so
+7faed3c31000-7faed3c32000 r--p 00003000 08:05 1079467                    /usr/lib/firefox/libplds4.so
+7faed3c32000-7faed3c33000 rw-p 00004000 08:05 1079467                    /usr/lib/firefox/libplds4.so
+7faed3c33000-7faed3c35000 r--p 00000000 08:05 1079465                    /usr/lib/firefox/libplc4.so
+7faed3c35000-7faed3c37000 r-xp 00002000 08:05 1079465                    /usr/lib/firefox/libplc4.so
+7faed3c37000-7faed3c38000 r--p 00004000 08:05 1079465                    /usr/lib/firefox/libplc4.so
+7faed3c38000-7faed3c39000 r--p 00004000 08:05 1079465                    /usr/lib/firefox/libplc4.so
+7faed3c39000-7faed3c3a000 rw-p 00005000 08:05 1079465                    /usr/lib/firefox/libplc4.so
+7faed3c3a000-7faed3c3b000 r--p 00000000 08:05 1055130                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7faed3c3b000-7faed3c5e000 r-xp 00001000 08:05 1055130                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7faed3c5e000-7faed3c66000 r--p 00024000 08:05 1055130                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7faed3c66000-7faed3c67000 r--p 00000000 00:01 3350                       /memfd:mozilla-ipc (deleted)
+7faed3c67000-7faed3c68000 r--p 0002c000 08:05 1055130                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7faed3c68000-7faed3c69000 rw-p 0002d000 08:05 1055130                    /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7faed3c69000-7faed3c6a000 rw-p 00000000 00:00 0 
+7fff5ac4c000-7fff5ac6f000 rw-p 00000000 00:00 0                          [stack]
+7fff5ac6f000-7fff5ac71000 rw-p 00000000 00:00 0 
+7fff5ad75000-7fff5ad79000 r--p 00000000 00:00 0                          [vvar]
+7fff5ad79000-7fff5ad7b000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
+
+
+IO:
+rchar: 2972770326
+wchar: 474184301
+syscr: 935218
+syscw: 458286
+read_bytes: 257400832
+write_bytes: 469938176
+cancelled_write_bytes: 17793024
+
+
+COMM:
+GeckoMain
+
+
+ROOT:
+/
+
+TASK:
+.
+..
+7813
+7819
+7820
+7824
+7825
+7826
+7827
+7828
+7832
+7834
+7835
+7836
+7837
+7838
+7839
+7844
+7845
+7846
+7847
+7848
+7849
+7850
+7851
+7852
+7853
+7854
+7855
+7856
+7857
+7862
+7863
+7864
+7868
+7869
+7872
+7873
+7881
+7883
+7884
+7885
+7886
+7887
+7888
+7889
+7890
+7891
+7892
+7895
+7897
+7898
+7914
+7915
+7923
+7931
+7932
+7937
+7955
+7964
+7965
+7966
+7967
+7973
+7977
+7982
+7983
+7986
+7996
+8005
+8006
+8007
+8008
+8030
+8035
+8051
+8053
+8055
+10165
+10166
+10167
+10168
+10201
+10204
+10207
+10208
+10209
+10210
+10218
+10276
+10301
+10347
+10348
+10349
+10350
+28242
+32265
+32271
+32291
+32299
+32300
+32301
+32302
+32322
+35025
+35070
+36354
+36358
+36359

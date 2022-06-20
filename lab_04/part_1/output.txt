@@ -1,0 +1,328 @@
+
+CMDLINE:
+./a.out
+
+FD:
+0 -> /dev/pts/37/cmdline
+1 -> /dev/pts/37/cmdline
+2 -> /dev/pts/37/cmdline
+20 -> /snap/code/94/usr/share/code/v8_context_snapshot.bin
+29 -> socket:[116547]sr/share/code/v8_context_snapshot.bin
+30 -> /dev/shm/.org.chromium.Chromium.ndlgEV (deleted).bin
+35 -> /proc/11722/statmomium.Chromium.ndlgEV (deleted).bin
+36 -> /proc/11722/statusmium.Chromium.ndlgEV (deleted).bin
+37 -> /tmp/.org.chromium.Chromium.mGc4Ph (deleted)ted).bin
+38 -> socket:[120160]ium.Chromium.mGc4Ph (deleted)ted).bin
+39 -> /dev/shm/.org.chromium.Chromium.0fHXjO (deleted).bin
+40 -> /dev/shm/.org.chromium.Chromium.iDlHZG (deleted).bin
+41 -> /dev/shm/.org.chromium.Chromium.vlfvFz (deleted).bin
+42 -> /dev/shm/.org.chromium.Chromium.mFph4k (deleted).bin
+43 -> /snap/code/94/usr/share/code/resources/app/node_modules.asar
+44 -> /dev/shm/.org.chromium.Chromium.jkymQd (deleted)modules.asar
+45 -> /usr/share/fonts/truetype/croscore/Tinos-Regular.ttfles.asar
+49 -> /dev/ptmxe/fonts/truetype/croscore/Tinos-Regular.ttfles.asar
+50 -> /snap/code/94/usr/share/code/resources/app/node_modules.asar
+103 -> /snap/code/94/usr/share/code/v8_context_snapshot.binles.asar
+
+ENVIRON:
+SHELL=/bin/bash
+SESSION_MANAGER=local/kiril:@/tmp/.ICE-unix/1548,unix/kiril:/tmp/.ICE-unix/1548
+QT_ACCESSIBILITY=1
+COLORTERM=truecolor
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+XDG_MENU_PREFIX=gnome-
+TERM_PROGRAM_VERSION=1.66.2
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL=true
+LANGUAGE=en_AU:en
+LC_ADDRESS=ru_RU.UTF-8
+GNOME_SHELL_SESSION_MODE=ubuntu
+LC_NAME=ru_RU.UTF-8
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+XMODIFIERS=@im=ibus
+DESKTOP_SESSION=ubuntu
+LC_MONETARY=ru_RU.UTF-8
+SSH_AGENT_PID=1506
+BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop
+GTK_MODULES=gail:atk-bridge
+PWD=/home/kirill/Documents/anal/lab-04/src
+GSETTINGS_SCHEMA_DIR=/snap/code/94/usr/share/glib-2.0/schemas
+XDG_SESSION_DESKTOP=ubuntu
+LOGNAME=kirill
+XDG_SESSION_TYPE=x11
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+XAUTHORITY=/run/user/1000/gdm/Xauthority
+VSCODE_GIT_ASKPASS_NODE=/snap/code/94/usr/share/code/code
+GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+WINDOWPATH=2
+HOME=/home/kirill
+USERNAME=kirill
+IM_CONFIG_PHASE=1
+LC_PAPER=ru_RU.UTF-8
+LANG=en_AU.UTF-8
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+XDG_CURRENT_DESKTOP=Unity
+DISABLE_WAYLAND=1
+GIT_ASKPASS=/snap/code/94/usr/share/code/resources/app/extensions/git/dist/askpass.sh
+INVOCATION_ID=38e40412fd3943c9aa9188b98b4abfbd
+MANAGERPID=1229
+CHROME_DESKTOP=code-url-handler.desktop
+GJS_DEBUG_OUTPUT=stderr
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node
+LESSCLOSE=/usr/bin/lesspipe %s %s
+XDG_SESSION_CLASS=user
+TERM=xterm-256color
+LC_IDENTIFICATION=ru_RU.UTF-8
+LESSOPEN=| /usr/bin/lesspipe %s
+USER=kirill
+VSCODE_GIT_IPC_HANDLE=/run/user/1000/vscode-git-ad0de8a465.sock
+DISPLAY=:0
+SHLVL=1
+LC_TELEPHONE=ru_RU.UTF-8
+QT_IM_MODULE=ibus
+LC_MEASUREMENT=ru_RU.UTF-8
+PAPERSIZE=a4
+XDG_RUNTIME_DIR=/run/user/1000
+LC_TIME=ru_RU.UTF-8
+VSCODE_GIT_ASKPASS_MAIN=/snap/code/94/usr/share/code/resources/app/extensions/git/dist/askpass-main.js
+JOURNAL_STREAM=8:46819
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+GDK_BACKEND=x11
+PATH=/home/kirill/.local/bin:/home/kirill/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+GDMSESSION=ubuntu
+ORIGINAL_XDG_CURRENT_DESKTOP=ubuntu:GNOME
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+GIO_LAUNCHED_DESKTOP_FILE_PID=11551
+GIO_LAUNCHED_DESKTOP_FILE=/var/lib/snapd/desktop/applications/code_code.desktop
+LC_NUMERIC=ru_RU.UTF-8
+TERM_PROGRAM=vscode
+_=./a.out
+
+STAT: 
+(1) pid  '25957'
+(2) comm '(a.out)'
+(3) state  'S'
+(4) ppid  '23496'
+(5) pgrp  '25957'
+(6) session  '23496'
+(7) tty_nr  '34819'
+(8) tpgid  '25957'
+(9) flags  '1077936128'
+(10) minflt  '163'
+(11) cminflt  '0'
+(12) majflt  '0'
+(13) cmajflt  '0'
+(14) utime  '748'
+(15) stime  '762'
+(16) cutime  '0'
+(17) cstime  '0'
+(18) priority  '20'
+(19) nice  '0'
+(20) num_threads  '7'
+(21) itrealvalue  '0'
+(22) starttime  '1686694'
+(23) vsize  '56582144'
+(24) rss  '390'
+(25) rsslim  '18446744073709551615'
+(26) startcode  '94445257678848'
+(27) endcode  '94445257708693'
+(28) startstack  '140732324659408'
+(29) kstkesp  '0'
+(30) kstkeip  '0'
+(31) signal  '0'
+(32) blocked  '0'
+(33) sigignore  '0'
+(34) sigcatch  '0'
+(35) wchan  '0'
+(36) nswap  '0'
+(37) cnswap  '0'
+(38) exit_signal  '17'
+(39) processor  '0'
+(40) rt_priority  '0'
+(41) policy  '0'
+(42) delayacct_blkio_ticks  '0'
+(43) guest_time  '0'
+(44) cguest_time  '0'
+(45) start_data  '94445257735192'
+(46) end_data  '94445257736216'
+(47) start_brk  '94445279055872'
+(48) arg_start  '140732324663409'
+(49) arg_end  '140732324663417'
+(50) env_start  '140732324663417'
+(51) env_end  '140732324667376'
+(52) exit_code  '0
+ue
+LANGUAGE=en_AU:en
+LC_ADDRESS=ru_RU.UTF-8
+GNOME_SHELL_SESSION_MODE=ubuntu
+LC_NAME=ru_RU.UTF-8
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+XMODIFIERS=@im=ibus
+DESKTOP_SESSION=ubuntu
+LC_MONETARY=ru_RU.UTF-8
+SSH_AGENT_PID=1506
+BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop
+GTK_MODULES=gail:atk-bridge
+PWD=/home/kirill/Documents/anal/lab-04/src
+GSETTINGS_SCHEMA_DIR=/snap/code/94/usr/share/glib-2.0/schemas
+XDG_SESSION_DESKTOP=ubuntu
+LOGNAME=kirill
+XDG_SESSION_TYPE=x11
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+XAUTHORITY=/run/user/1000/gdm/Xauthority
+VSCODE_GIT_ASKPASS_NODE=/snap/code/94/usr/share/code/code
+GJS_DEBUG_TOPICS=JS'
+size     ERROR;JS  (1)
+resident LOG
+WINDOWPATH=2
+HOME=/home/kirill
+USERNAME=kirill
+IM_CONFIG_PHASE=1
+LC_PAPER=ru_RU.UTF-8
+LANG=en_AU.UTF-8
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+XDG_CURRENT_DESKTOP=Unity
+DISABLE_WAYLAND=1
+GIT_ASKPASS=/snap/code/94/usr/share/code/resources/app/extensions/git/dist/askpass.sh
+INVOCATION_ID=38e40412fd3943c9aa9188b98b4abfbd
+MANAGERPID=1229
+CHROME_DESKTOP=code-url-handler.desktop
+GJS_DEBUG_OUTPUT=stderr
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node
+LESSCLOSE=/usr/bin/lesspipe  (2)
+shared   %s  (3)
+text     %s
+XDG_SESSION_CLASS=user
+TERM=xterm-256color
+LC_IDENTIFICATION=ru_RU.UTF-8
+LESSOPEN=|  (4)
+lib      /usr/bin/lesspipe  (5)
+data     %s
+USER=kirill
+VSCODE_GIT_IPC_HANDLE=/run/user/1000/vscode-git-ad0de8a465.sock
+DISPLAY=:0
+SHLVL=1
+LC_TELEPHONE=ru_RU.UTF-8
+QT_IM_MODULE=ibus
+LC_MEASUREMENT=ru_RU.UTF-8
+PAPERSIZE=a4
+XDG_RUNTIME_DIR=/run/user/1000
+LC_TIME=ru_RU.UTF-8
+VSCODE_GIT_ASKPASS_MAIN=/snap/code/94/usr/share/code/resources/app/extensions/git/dist/askpass-main.js
+JOURNAL_STREAM=8:46819
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+GDK_BACKEND=x11
+PATH=/home/kirill/.local/bin:/home/kirill/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+GDMSESSION=ubuntu
+ORIGINAL_XDG_CURRENT_DESKTOP=ubuntu:GNOME
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+GIO_LAUNCHED_DESKTOP_FILE_PID=11551
+GIO_LAUNCHED_DESKTOP_FILE=/var/lib/snapd/desktop/applications/code_code.desktop
+LC_NUMERIC=ru_RU.UTF-8
+TERM_PROGRAM=vscode
+_=./a.out
+  (6)
+
+STATM: 
+size     13814  (1)
+resident 390  (2)
+shared   349  (3)
+text     8  (4)
+lib      0  (5)
+data     12383  (6)
+dt       0
+7  (7)
+
+CWD:
+/home/kirill/Documents/anal/lab-04/src
+
+EXE:
+/home/kirill/Documents/anal/lab-04/src/a.out
+
+MAPS:
+55e5c008c000-55e5c008e000 r--p 0000 0000 103:05 1574123                   /home/kirill/Documents/anal/lab-04/src/a.out
+55e5c008e000-55e5c0096000 r-xp 00002000 103:05 1574123                   /home/kirill/Documents/anal/lab-04/src/a.out
+55e5c0096000-55e5c009b000 r--p 0000a000 103:05 1574123                   /home/kirill/Documents/anal/lab-04/src/a.out
+55e5c009b000-55e5c009c000 r--p 0000e000 103:05 1574123                   /home/kirill/Documents/anal/lab-04/src/a.out
+55e5c009c000-55e5c009d000 rw-p 0000f000 103:05 1574123                   /home/kirill/Documents/anal/lab-04/src/a.out
+55e5c14f1000-55e5c1512000 rw-p 00000000 00:00 0                          [heap]
+7fc764545000-7fc764546000 ---p 00000000 00:00 0 
+7fc764546000-7fc764d46000 rw-p 00000000 00:00 0 
+7fc764d46000-7fc764d47000 ---p 00000000 00:00 0 
+7fc764d47000-7fc765547000 rw-p 00000000 00:00 0 
+7fc765547000-7fc765548000 ---p 00000000 00:00 0 
+7fc765548000-7fc765d48000 rw-p 00000000 00:00 0 
+7fc765d48000-7fc765d49000 ---p 00000000 00:00 0 
+7fc765d49000-7fc766549000 rw-p 00000000 00:00 0 
+7fc766549000-7fc76654a000 ---p 00000000 00:00 0 
+7fc76654a000-7fc766d4a000 rw-p 00000000 00:00 0 
+7fc766d4a000-7fc766d4b000 ---p 00000000 00:00 0 
+7fc766d4b000-7fc767550000 rw-p 00000000 00:00 0 
+7fc767550000-7fc76755d000 r--p 00000000 103:05 3282605                   /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fc76755d000-7fc767604000 r-xp 0000d000 103:05 3282605                   /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fc767604000-7fc76769d000 r--p 000b4000 103:05 3282605                   /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fc76769d000-7fc76769e000 r--p 0014c000 103:05 3282605                   /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fc76769e000-7fc76769f000 rw-p 0014d000 103:05 3282605                   /usr/lib/x86_64-linux-gnu/libm-2.31.so
+7fc76769f000-7fc7676c1000 r--p 00000000 103:05 3282595                   /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fc7676c1000-7fc767839000 r-xp 00022000 103:05 3282595                   /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fc767839000-7fc767887000 r--p 0019a000 103:05 3282595                   /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fc767887000-7fc76788b000 r--p 001e7000 103:05 3282595                   /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fc76788b000-7fc76788d000 rw-p 001eb000 103:05 3282595                   /usr/lib/x86_64-linux-gnu/libc-2.31.so
+7fc76788d000-7fc767891000 rw-p 00000000 00:00 0 
+7fc767891000-7fc767897000 r--p 00000000 103:05 3282616                   /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+7fc767897000-7fc7678a8000 r-xp 00006000 103:05 3282616                   /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+7fc7678a8000-7fc7678ae000 r--p 00017000 103:05 3282616                   /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+7fc7678ae000-7fc7678af000 r--p 0001c000 103:05 3282616                   /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+7fc7678af000-7fc7678b0000 rw-p 0001d000 103:05 3282616                   /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+7fc7678b0000-7fc7678b4000 rw-p 00000000 00:00 0 
+7fc7678b4000-7fc7678b7000 r--p 00000000 103:05 3284767                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7fc7678b7000-7fc7678c9000 r-xp 00003000 103:05 3284767                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7fc7678c9000-7fc7678cd000 r--p 00015000 103:05 3284767                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7fc7678cd000-7fc7678ce000 r--p 00018000 103:05 3284767                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7fc7678ce000-7fc7678cf000 rw-p 00019000 103:05 3284767                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7fc7678cf000-7fc767965000 r--p 00000000 103:05 3285556                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28
+7fc767965000-7fc767a56000 r-xp 00096000 103:05 3285556                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28
+7fc767a56000-7fc767a9f000 r--p 00187000 103:05 3285556                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28
+7fc767a9f000-7fc767aa0000 ---p 001d0000 103:05 3285556                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28
+7fc767aa0000-7fc767aab000 r--p 001d0000 103:05 3285556                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28
+7fc767aab000-7fc767aae000 rw-p 001db000 103:05 3285556                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28
+7fc767aae000-7fc767ab3000 rw-p 00000000 00:00 0 
+7fc767ad1000-7fc767ad2000 r--p 00000000 103:05 3282591                   /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fc767ad2000-7fc767af5000 r-xp 00001000 103:05 3282591                   /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fc767af5000-7fc767afd000 r--p 00024000 103:05 3282591                   /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fc767afe000-7fc767aff000 r--p 0002c000 103:05 3282591                   /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fc767aff000-7fc767b00000 rw-p 0002d000 103:05 3282591                   /usr/lib/x86_64-linux-gnu/ld-2.31.so
+7fc767b00000-7fc767b01000 rw-p 00000000 00:00 0 
+7ffecc365000-7ffecc386000 rw-p 00000000 00:00 0                          [stack]
+7ffecc3dd000-7ffecc3e1000 r--p 00000000 00:00 0                          [vvar]
+7ffecc3e1000-7ffecc3e3000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
+
+
+IO:
+rchar: 7770
+wchar: 114939454
+syscr: 24
+syscw: 112258
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+
+
+COMM:
+a.out
+
+
+ROOT:
+/
+
+TASK:
+.
+..
+25957
+25995
+25996
+25997
+25998
+25999
+26000
