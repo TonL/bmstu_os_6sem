@@ -1,5 +1,9 @@
-копируем лабы, получаем гробы
+Хоуми копируют лабы, получают гробы
 
-here we go again
+*в чем смысл вашей жизни? (с)*
 
-в чем смысл вашей жизни? (с)
+P.S. Отдельные благодарности 
+[@prianechka](https://github.com/prianechka)
+[@SpectralOne](https://github.com/SpectralOne)
+[@leerycorsair](https://github.com/leerycorsair)
+
